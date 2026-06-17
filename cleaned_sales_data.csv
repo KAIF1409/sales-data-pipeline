@@ -1,0 +1,1001 @@
+order_id,customer_name,customer_email,city,category,product_name,unit_price,quantity,total_amount,discount_percent,final_amount,payment_method,order_status,order_date,order_month,order_quarter,order_year,is_returned,is_cancelled
+ORD10000,Kristen Lee,kherman@example.org,Ahmedabad,Home & Kitchen,Toaster,11806.97,4,47227.88,0.04,45338.76,Credit Card,Returned,2024-09-27,9,3,2024,1,0
+ORD10001,Robert Berger,linda57@example.org,Mumbai,Books,Data Science Handbook,485.27,4,1941.08,0.22,1514.04,Debit Card,Delivered,2024-02-25,2,1,2024,0,0
+ORD10002,Michelle Levine,sonya21@example.org,Chennai,Clothing,Sneakers,1242.02,2,2484.04,0.19,2012.07,Credit Card,Delivered,2024-10-15,10,4,2024,0,0
+ORD10003,Christopher Ross,brooke98@example.org,Chennai,Food & Beverage,Coffee Beans,174.33,3,522.99,0.04,502.07,Net Banking,Delivered,2024-06-03,6,2,2024,0,0
+ORD10004,Christopher Daniels,calhounamy@example.org,Delhi,Clothing,Jacket,2308.08,4,9232.32,0.06,8678.38,Cash on Delivery,Delivered,2024-11-04,11,4,2024,0,0
+ORD10005,Amanda Williams,jared00@example.com,Kolkata,Clothing,Jacket,651.91,1,651.91,0.16,547.6,Cash on Delivery,Delivered,2024-12-13,12,4,2024,0,0
+ORD10006,Derek Thomas,amberreed@example.org,Mumbai,Clothing,Dress,1351.46,2,2702.92,0.08,2486.69,Debit Card,Delivered,2024-10-04,10,4,2024,0,0
+ORD10007,Sara Castro,maureen82@example.net,Hyderabad,Food & Beverage,Cookies,558.48,1,558.48,0.12,491.46,Cash on Delivery,Cancelled,2024-07-17,7,3,2024,0,1
+ORD10008,Casey Ayala,parkerleslie@example.org,Hyderabad,Clothing,Jeans,2911.3,1,2911.3,0.18,2387.27,UPI,Delivered,2024-08-08,8,3,2024,0,0
+ORD10009,Stephen Garrett,amanda18@example.org,Surat,Books,Self Help Book,569.9,5,2849.5,0.14,2450.57,Debit Card,Returned,2024-10-12,10,4,2024,1,0
+ORD10010,Tracey Davies,jgarner@example.org,Kolkata,Food & Beverage,Coffee Beans,131.54,3,394.62,0.23,303.86,Net Banking,Cancelled,2024-03-06,3,1,2024,0,1
+ORD10011,Andrea Roberts,lboyd@example.com,Delhi,Home & Kitchen,Knife Set,11873.66,3,35620.98,0.23,27428.15,UPI,Delivered,2024-01-22,1,1,2024,0,0
+ORD10012,Tristan Clark,stephanieromero@example.org,Kolkata,Electronics,Smartphone,51179.67,5,255898.35,0.17,212395.63,Cash on Delivery,Delivered,2024-02-01,2,1,2024,0,0
+ORD10013,Wendy Bishop,edwardmorrow@example.org,Mumbai,Home & Kitchen,Blender,11991.91,1,11991.91,0.18,9833.37,UPI,Cancelled,2024-08-20,8,3,2024,0,1
+ORD10014,Eric Miranda,gary30@example.net,Kolkata,Books,Novel,809.42,2,1618.84,0.3,1133.19,Cash on Delivery,Returned,2024-09-11,9,3,2024,1,0
+ORD10015,April Macdonald,whill@example.net,Chennai,Home & Kitchen,Air Fryer,835.2,3,2505.6,0.19,2029.54,Debit Card,Delivered,2024-11-04,11,4,2024,0,0
+ORD10016,Melvin Hudson,rclark@example.net,Hyderabad,Home & Kitchen,Knife Set,9277.33,4,37109.32,0.05,35253.85,Debit Card,Returned,2024-05-06,5,2,2024,1,0
+ORD10017,Brenda Lee,ritterjohn@example.org,Delhi,Electronics,Tablet,6696.7,5,33483.5,0.13,29130.65,UPI,Delivered,2024-10-18,10,4,2024,0,0
+ORD10018,Carrie Munoz,natalie00@example.com,Kolkata,Clothing,Jeans,2539.53,1,2539.53,0.1,2285.58,Credit Card,Delivered,2024-04-16,4,2,2024,0,0
+ORD10019,Michael Sherman,christinejones@example.org,Hyderabad,Electronics,Smartwatch,65589.77,3,196769.31,0.03,190866.23,Cash on Delivery,Cancelled,2024-01-24,1,1,2024,0,1
+ORD10020,Brendan Jones,danielbanks@example.com,Pune,Home & Kitchen,Air Fryer,2876.14,4,11504.56,0.22,8973.56,Debit Card,Returned,2024-03-20,3,1,2024,1,0
+ORD10021,Eugene Porter,kaitlinmartinez@example.com,Bengaluru,Clothing,Jeans,4154.19,3,12462.57,0.19,10094.68,UPI,Delivered,2024-02-28,2,1,2024,0,0
+ORD10022,Meagan Murphy,romanrichard@example.org,Mumbai,Clothing,Jeans,2622.28,1,2622.28,0.12,2307.61,Cash on Delivery,Delivered,2024-04-10,4,2,2024,0,0
+ORD10023,Abigail Davis,ylopez@example.com,Hyderabad,Home & Kitchen,Toaster,8323.19,4,33292.76,0.21,26301.28,Cash on Delivery,Delivered,2024-12-18,12,4,2024,0,0
+ORD10024,Danielle Roth,timothyblackwell@example.org,Hyderabad,Home & Kitchen,Coffee Maker,5503.84,4,22015.36,0.13,19153.36,Debit Card,Delivered,2024-12-23,12,4,2024,0,0
+ORD10025,Julia Obrien,lramos@example.org,Delhi,Food & Beverage,Cookies,633.85,5,3169.25,0.02,3105.86,UPI,Delivered,2024-06-17,6,2,2024,0,0
+ORD10026,Maxwell Davis,paigelawson@example.net,Bengaluru,Home & Kitchen,Air Fryer,4154.4,4,16617.6,0.1,14955.84,Net Banking,Delivered,2024-12-11,12,4,2024,0,0
+ORD10027,Jeffery Barrera,fburke@example.org,Pune,Electronics,Tablet,25446.53,5,127232.65,0.04,122143.34,UPI,Cancelled,2024-02-02,2,1,2024,0,1
+ORD10028,Justin Thompson,christinadiaz@example.org,Jaipur,Books,Cook Book,257.46,2,514.92,0.24,391.34,UPI,Delivered,2024-09-17,9,3,2024,0,0
+ORD10029,John Moss,tuckerterri@example.net,Bengaluru,Home & Kitchen,Air Fryer,6555.74,2,13111.48,0.27,9571.38,UPI,Delivered,2024-06-11,6,2,2024,0,0
+ORD10030,Brooke Lopez,kevin78@example.org,Delhi,Books,Data Science Handbook,937.94,1,937.94,0.24,712.83,Cash on Delivery,Cancelled,2024-01-26,1,1,2024,0,1
+ORD10031,Toni Cochran,jo10@example.com,Jaipur,Home & Kitchen,Coffee Maker,11015.96,1,11015.96,0.02,10795.64,Debit Card,Delivered,2024-04-23,4,2,2024,0,0
+ORD10032,Thomas Mitchell,jameshernandez@example.com,Kolkata,Clothing,Jacket,3735.21,2,7470.42,0.15,6349.86,Credit Card,Returned,2024-07-05,7,3,2024,1,0
+ORD10033,Corey Bernard,poolemorgan@example.net,Ahmedabad,Books,Data Science Handbook,745.16,3,2235.48,0.23,1721.32,Net Banking,Delivered,2024-05-27,5,2,2024,0,0
+ORD10034,Christopher Alvarado,oconnorjoseph@example.org,Delhi,Home & Kitchen,Blender,4160.36,4,16641.44,0.26,12314.67,Cash on Delivery,Returned,2024-11-06,11,4,2024,1,0
+ORD10035,Matthew Smith,christopherdavis@example.net,Delhi,Home & Kitchen,Blender,10670.29,1,10670.29,0.14,9176.45,Cash on Delivery,Delivered,2024-12-29,12,4,2024,0,0
+ORD10036,Jason Brown,simpsonlaurie@example.org,Jaipur,Clothing,Sneakers,3664.01,2,7328.02,0.24,5569.3,Net Banking,Returned,2024-05-18,5,2,2024,1,0
+ORD10037,Debra Gentry,floresjasmine@example.net,Bengaluru,Books,Self Help Book,339.01,4,1356.04,0.11,1206.88,Credit Card,Cancelled,2024-05-04,5,2,2024,0,1
+ORD10038,Maria Bailey,jenniferlewis@example.org,Surat,Clothing,Jacket,2758.47,2,5516.94,0.28,3972.2,UPI,Delivered,2024-11-26,11,4,2024,0,0
+ORD10039,Ashley Wood,benjaminalexander@example.com,Surat,Home & Kitchen,Coffee Maker,1840.67,5,9203.35,0.2,7362.68,Debit Card,Returned,2024-06-02,6,2,2024,1,0
+ORD10040,Jason Dunn,arthurabbott@example.com,Surat,Electronics,Smartwatch,29255.61,4,117022.44,0.01,115852.22,Cash on Delivery,Delivered,2024-05-28,5,2,2024,0,0
+ORD10041,Charles Robbins,kristine44@example.org,Kolkata,Books,Data Science Handbook,319.67,3,959.01,0.18,786.39,Credit Card,Delivered,2024-03-06,3,1,2024,0,0
+ORD10042,Julie Johnson,brenda60@example.net,Kolkata,Electronics,Smartphone,30182.79,3,90548.37,0.11,80588.05,UPI,Delivered,2024-08-01,8,3,2024,0,0
+ORD10043,Joseph Fox,wernerkimberly@example.com,Pune,Books,Self Help Book,799.82,5,3999.1,0.03,3879.13,Cash on Delivery,Returned,2024-12-16,12,4,2024,1,0
+ORD10044,Ross Williams,ywarren@example.org,Ahmedabad,Electronics,Smartphone,9910.75,3,29732.25,0.24,22596.51,Net Banking,Returned,2024-11-17,11,4,2024,1,0
+ORD10045,Fernando Bates,hmartinez@example.com,Hyderabad,Electronics,Smartphone,77061.27,5,385306.35,0.24,292832.83,UPI,Delivered,2024-07-14,7,3,2024,0,0
+ORD10046,Steven Strong,jessicamurphy@example.org,Kolkata,Home & Kitchen,Blender,5147.02,4,20588.08,0.21,16264.58,Credit Card,Delivered,2024-04-25,4,2,2024,0,0
+ORD10047,Kristina Terry,ningram@example.org,Mumbai,Clothing,Jacket,1705.14,3,5115.42,0.04,4910.8,Debit Card,Delivered,2024-11-04,11,4,2024,0,0
+ORD10048,Glenn Savage,jamesmedina@example.com,Chennai,Food & Beverage,Energy Drink,701.91,1,701.91,0.05,666.81,UPI,Cancelled,2024-12-08,12,4,2024,0,1
+ORD10049,Katie Dougherty,ellen36@example.org,Jaipur,Books,Python Guide,481.22,1,481.22,0.1,433.1,Cash on Delivery,Delivered,2024-02-08,2,1,2024,0,0
+ORD10050,Stephen Nicholson,lowevalerie@example.net,Bengaluru,Home & Kitchen,Toaster,9744.56,4,38978.24,0.14,33521.29,Credit Card,Returned,2024-11-25,11,4,2024,1,0
+ORD10051,Javier Moore,melissa53@example.com,Kolkata,Books,Self Help Book,598.78,4,2395.12,0.22,1868.19,Cash on Delivery,Returned,2024-03-29,3,1,2024,1,0
+ORD10052,Michael Kirk,hwillis@example.com,Mumbai,Home & Kitchen,Blender,9408.2,5,47041.0,0.07,43748.13,UPI,Delivered,2024-07-06,7,3,2024,0,0
+ORD10053,Alan Neal,marywebb@example.com,Ahmedabad,Home & Kitchen,Air Fryer,5831.47,3,17494.41,0.27,12770.92,UPI,Cancelled,2024-07-04,7,3,2024,0,1
+ORD10054,Renee Walker,bgarcia@example.org,Hyderabad,Books,Cook Book,922.44,4,3689.76,0.21,2914.91,UPI,Cancelled,2024-04-28,4,2,2024,0,1
+ORD10055,Keith Kennedy,kellylynn@example.net,Surat,Electronics,Smartwatch,27976.09,2,55952.18,0.04,53714.09,Credit Card,Delivered,2024-10-11,10,4,2024,0,0
+ORD10056,Damon Simpson,marksimon@example.net,Mumbai,Home & Kitchen,Air Fryer,2729.09,4,10916.36,0.18,8951.42,Debit Card,Returned,2024-02-11,2,1,2024,1,0
+ORD10057,Jennifer Oconnor,rosariojimmy@example.org,Chennai,Books,Cook Book,641.47,3,1924.41,0.13,1674.24,Credit Card,Cancelled,2024-09-22,9,3,2024,0,1
+ORD10058,Amy Lee,morarichard@example.org,Jaipur,Books,Python Guide,930.49,5,4652.45,0.19,3768.48,Net Banking,Delivered,2024-01-30,1,1,2024,0,0
+ORD10059,Roberta Shields,lauren06@example.org,Chennai,Home & Kitchen,Coffee Maker,1933.24,1,1933.24,0.11,1720.58,Net Banking,Delivered,2024-11-28,11,4,2024,0,0
+ORD10060,Christina Tapia,courtneyjohnson@example.net,Bengaluru,Home & Kitchen,Air Fryer,14411.99,3,43235.97,0.13,37615.29,Credit Card,Returned,2024-04-03,4,2,2024,1,0
+ORD10061,Daniel Wilson,gregory18@example.org,Delhi,Home & Kitchen,Coffee Maker,13128.6,4,52514.4,0.12,46212.67,Net Banking,Delivered,2024-08-24,8,3,2024,0,0
+ORD10062,David Mcguire,denise77@example.org,Mumbai,Electronics,Headphones,78049.99,1,78049.99,0.22,60878.99,Net Banking,Returned,2024-07-27,7,3,2024,1,0
+ORD10063,Zachary Rowland,johnsonsamantha@example.net,Pune,Electronics,Smartphone,60000.55,1,60000.55,0.0,60000.55,UPI,Delivered,2024-09-10,9,3,2024,0,0
+ORD10064,Cody Guerrero,brucefarmer@example.org,Pune,Food & Beverage,Cookies,618.41,2,1236.82,0.2,989.46,Net Banking,Delivered,2024-11-07,11,4,2024,0,0
+ORD10065,Joanna Scott,jeffreydavis@example.net,Kolkata,Books,Self Help Book,122.9,1,122.9,0.06,115.53,Debit Card,Returned,2024-09-29,9,3,2024,1,0
+ORD10066,Mitchell Hill,wardsarah@example.net,Pune,Clothing,Jeans,3335.67,2,6671.34,0.07,6204.35,UPI,Delivered,2024-10-17,10,4,2024,0,0
+ORD10067,James Barnes,mccartyeric@example.com,Pune,Food & Beverage,Protein Bar,399.02,3,1197.06,0.29,849.91,Cash on Delivery,Delivered,2024-10-25,10,4,2024,0,0
+ORD10068,Charlotte Miller,courtneyholloway@example.org,Pune,Home & Kitchen,Toaster,12665.17,1,12665.17,0.0,12665.17,Credit Card,Delivered,2024-02-23,2,1,2024,0,0
+ORD10069,Susan Mcmillan,kharris@example.com,Bengaluru,Home & Kitchen,Toaster,4916.67,1,4916.67,0.21,3884.17,Debit Card,Cancelled,2024-07-01,7,3,2024,0,1
+ORD10070,Deborah Cole,dklein@example.org,Kolkata,Food & Beverage,Coffee Beans,475.17,5,2375.85,0.18,1948.2,Debit Card,Delivered,2024-11-27,11,4,2024,0,0
+ORD10071,David Monroe,christian62@example.net,Hyderabad,Clothing,Jacket,3137.26,3,9411.78,0.2,7529.42,UPI,Delivered,2024-09-30,9,3,2024,0,0
+ORD10072,Samantha Morgan,gutierrezkatherine@example.com,Mumbai,Clothing,Dress,4477.8,3,13433.4,0.02,13164.73,Cash on Delivery,Delivered,2024-01-29,1,1,2024,0,0
+ORD10073,Katherine Baker,melody12@example.com,Bengaluru,Books,Novel,589.32,3,1767.96,0.11,1573.48,Cash on Delivery,Delivered,2024-08-30,8,3,2024,0,0
+ORD10074,Craig Castillo,kevin28@example.com,Ahmedabad,Home & Kitchen,Toaster,6572.8,5,32864.0,0.11,29248.96,Debit Card,Delivered,2024-08-23,8,3,2024,0,0
+ORD10075,Shaun Silva,cynthia34@example.com,Mumbai,Food & Beverage,Energy Drink,690.08,1,690.08,0.0,690.08,Cash on Delivery,Cancelled,2024-04-06,4,2,2024,0,1
+ORD10076,Charles Mack,qsimpson@example.com,Surat,Food & Beverage,Green Tea,452.63,3,1357.89,0.04,1303.57,Credit Card,Delivered,2024-02-20,2,1,2024,0,0
+ORD10077,James Haney,wardbruce@example.org,Jaipur,Home & Kitchen,Air Fryer,1761.0,1,1761.0,0.15,1496.85,UPI,Returned,2024-10-06,10,4,2024,1,0
+ORD10078,William Ortega,anngriffin@example.org,Jaipur,Electronics,Laptop,61517.23,4,246068.92,0.16,206697.89,Credit Card,Delivered,2024-07-20,7,3,2024,0,0
+ORD10079,Kristen Griffith,bmoore@example.org,Delhi,Food & Beverage,Energy Drink,447.16,5,2235.8,0.08,2056.94,Net Banking,Cancelled,2024-02-03,2,1,2024,0,1
+ORD10080,Tyler Myers,maryjackson@example.com,Mumbai,Clothing,Jeans,3556.79,3,10670.37,0.22,8322.89,Debit Card,Returned,2024-09-24,9,3,2024,1,0
+ORD10081,Megan Conner,jillosborne@example.org,Jaipur,Electronics,Smartwatch,11502.69,2,23005.38,0.18,18864.41,Credit Card,Delivered,2024-02-05,2,1,2024,0,0
+ORD10082,Lauren Fuller,shannon91@example.net,Delhi,Books,Self Help Book,987.33,1,987.33,0.1,888.6,Credit Card,Delivered,2024-12-23,12,4,2024,0,0
+ORD10083,Virginia Hodges,zacharycampbell@example.com,Chennai,Clothing,Jeans,3393.54,2,6787.08,0.22,5293.92,Cash on Delivery,Delivered,2024-04-03,4,2,2024,0,0
+ORD10084,Miss Melissa Smith,prattrhonda@example.net,Mumbai,Books,Self Help Book,217.74,5,1088.7,0.15,925.39,UPI,Cancelled,2024-07-08,7,3,2024,0,1
+ORD10085,Anthony Woods,wrightsamantha@example.org,Jaipur,Home & Kitchen,Toaster,3888.34,4,15553.36,0.12,13686.96,Net Banking,Delivered,2024-09-12,9,3,2024,0,0
+ORD10086,Omar Harris,harrissamantha@example.org,Ahmedabad,Books,Python Guide,820.58,3,2461.74,0.0,2461.74,UPI,Delivered,2024-12-24,12,4,2024,0,0
+ORD10087,Wesley Carroll,hudsonkelsey@example.net,Delhi,Books,Self Help Book,746.26,4,2985.04,0.0,2985.04,Credit Card,Delivered,2024-08-12,8,3,2024,0,0
+ORD10088,Mia Perez,krista72@example.org,Jaipur,Books,Data Science Handbook,254.89,5,1274.45,0.0,1274.45,Net Banking,Delivered,2024-03-17,3,1,2024,0,0
+ORD10089,Lisa Gomez,melissawoods@example.com,Kolkata,Clothing,T-Shirt,2691.26,4,10765.04,0.2,8612.03,Net Banking,Delivered,2024-11-05,11,4,2024,0,0
+ORD10090,Kelly Newman,scottsantana@example.org,Delhi,Food & Beverage,Green Tea,538.68,4,2154.72,0.13,1874.61,Debit Card,Delivered,2024-04-07,4,2,2024,0,0
+ORD10091,Richard Davis,ygamble@example.com,Ahmedabad,Clothing,Sneakers,1014.77,3,3044.31,0.24,2313.68,Net Banking,Delivered,2024-01-19,1,1,2024,0,0
+ORD10092,Michael Haley,patrickgomez@example.org,Bengaluru,Home & Kitchen,Air Fryer,7434.03,1,7434.03,0.25,5575.52,Cash on Delivery,Cancelled,2024-01-28,1,1,2024,0,1
+ORD10093,Elizabeth Copeland,taylormatthew@example.net,Mumbai,Home & Kitchen,Knife Set,4346.2,2,8692.4,0.16,7301.62,Net Banking,Cancelled,2024-10-30,10,4,2024,0,1
+ORD10094,Abigail Wilson,tbailey@example.com,Kolkata,Electronics,Smartphone,7892.23,4,31568.92,0.04,30306.16,Debit Card,Delivered,2024-01-09,1,1,2024,0,0
+ORD10095,Brian Graham,nancy94@example.com,Jaipur,Food & Beverage,Coffee Beans,184.45,3,553.35,0.28,398.41,Credit Card,Delivered,2024-04-24,4,2,2024,0,0
+ORD10096,Kevin Gregory,lwest@example.net,Hyderabad,Food & Beverage,Cookies,690.36,5,3451.8,0.23,2657.89,Credit Card,Delivered,2024-02-04,2,1,2024,0,0
+ORD10097,Tyler Lewis,jeffrey86@example.com,Delhi,Books,Self Help Book,176.68,4,706.72,0.24,537.11,Net Banking,Delivered,2024-08-08,8,3,2024,0,0
+ORD10098,Samantha Hines,alishawallace@example.net,Chennai,Electronics,Headphones,61870.66,3,185611.98,0.17,154057.94,Debit Card,Cancelled,2024-03-28,3,1,2024,0,1
+ORD10099,David Stevens,lorismith@example.org,Mumbai,Books,Data Science Handbook,292.9,2,585.8,0.21,462.78,UPI,Delivered,2024-02-28,2,1,2024,0,0
+ORD10100,Roberta Baker,twilson@example.net,Mumbai,Electronics,Smartwatch,55318.1,2,110636.2,0.14,95147.13,Net Banking,Delivered,2024-01-16,1,1,2024,0,0
+ORD10101,Tracy Barajas,pamela11@example.org,Kolkata,Home & Kitchen,Air Fryer,8620.12,2,17240.24,0.23,13274.98,Cash on Delivery,Cancelled,2024-06-03,6,2,2024,0,1
+ORD10102,Ms. Karen Smith DDS,ayalalinda@example.org,Kolkata,Food & Beverage,Cookies,618.04,5,3090.2,0.12,2719.38,Debit Card,Returned,2024-09-01,9,3,2024,1,0
+ORD10103,Denise Johnson,raymond61@example.net,Mumbai,Electronics,Laptop,74366.81,1,74366.81,0.24,56518.78,Cash on Delivery,Cancelled,2024-10-07,10,4,2024,0,1
+ORD10104,Michael Anderson,theresapatel@example.net,Jaipur,Books,Data Science Handbook,328.12,5,1640.6,0.3,1148.42,Debit Card,Delivered,2024-09-11,9,3,2024,0,0
+ORD10105,Richard Jacobs,ryanjames@example.org,Jaipur,Clothing,Dress,1915.45,2,3830.9,0.14,3294.57,Credit Card,Cancelled,2024-10-19,10,4,2024,0,1
+ORD10106,Joel Barajas,bentleylindsay@example.net,Surat,Books,Data Science Handbook,904.99,4,3619.96,0.12,3185.56,Debit Card,Returned,2024-09-14,9,3,2024,1,0
+ORD10107,Matthew Conrad,ginadickerson@example.net,Jaipur,Books,Cook Book,852.53,1,852.53,0.12,750.23,Cash on Delivery,Delivered,2024-01-22,1,1,2024,0,0
+ORD10108,Brittany Lewis,dillon86@example.org,Surat,Food & Beverage,Cookies,636.46,5,3182.3,0.01,3150.48,Credit Card,Delivered,2024-10-13,10,4,2024,0,0
+ORD10109,Andrew Arnold,choward@example.org,Bengaluru,Books,Cook Book,607.94,1,607.94,0.22,474.19,UPI,Cancelled,2024-01-22,1,1,2024,0,1
+ORD10110,Brett Miller MD,xjefferson@example.com,Ahmedabad,Electronics,Headphones,62179.64,4,248718.56,0.16,208923.59,Cash on Delivery,Delivered,2024-04-23,4,2,2024,0,0
+ORD10111,John Collins,jaredparker@example.net,Surat,Books,Self Help Book,113.13,5,565.65,0.28,407.27,Net Banking,Delivered,2024-10-24,10,4,2024,0,0
+ORD10112,Amber Williamson,margaret36@example.net,Bengaluru,Clothing,Jeans,3128.8,3,9386.4,0.11,8353.9,UPI,Returned,2024-07-25,7,3,2024,1,0
+ORD10113,Jason Le,qhawkins@example.com,Mumbai,Home & Kitchen,Air Fryer,5496.51,4,21986.04,0.01,21766.18,Net Banking,Returned,2024-12-30,12,4,2024,1,0
+ORD10114,Mark Barnes,ryansmith@example.com,Kolkata,Clothing,T-Shirt,501.14,1,501.14,0.17,415.95,Cash on Delivery,Delivered,2024-02-13,2,1,2024,0,0
+ORD10115,Mr. Timothy Gregory,christinacarroll@example.net,Jaipur,Food & Beverage,Coffee Beans,265.03,4,1060.12,0.06,996.51,UPI,Delivered,2024-05-09,5,2,2024,0,0
+ORD10116,James Li,paulmiddleton@example.net,Delhi,Electronics,Tablet,14488.86,2,28977.72,0.08,26659.5,Cash on Delivery,Delivered,2024-06-22,6,2,2024,0,0
+ORD10117,Jesse Harris,seanturner@example.org,Kolkata,Clothing,T-Shirt,2136.05,1,2136.05,0.23,1644.76,Net Banking,Cancelled,2024-12-20,12,4,2024,0,1
+ORD10118,Joshua Rodriguez,xromero@example.org,Bengaluru,Clothing,Jacket,4702.49,4,18809.96,0.0,18809.96,Cash on Delivery,Delivered,2024-10-28,10,4,2024,0,0
+ORD10119,Tiffany Smith,xlambert@example.com,Chennai,Books,Cook Book,743.91,4,2975.64,0.27,2172.22,Credit Card,Delivered,2024-10-31,10,4,2024,0,0
+ORD10120,Brian Taylor,yoderkenneth@example.com,Ahmedabad,Electronics,Tablet,33726.21,2,67452.42,0.26,49914.79,Credit Card,Delivered,2024-02-14,2,1,2024,0,0
+ORD10121,Leah Leon,michaelcruz@example.net,Hyderabad,Electronics,Smartphone,61702.69,5,308513.45,0.23,237555.36,Cash on Delivery,Delivered,2024-04-26,4,2,2024,0,0
+ORD10122,Jason Ferrell,dawnsmith@example.org,Pune,Books,Self Help Book,765.05,5,3825.25,0.25,2868.94,Net Banking,Delivered,2024-02-12,2,1,2024,0,0
+ORD10123,Kayla Weaver,christine54@example.com,Hyderabad,Clothing,Jeans,2555.04,5,12775.2,0.1,11497.68,Cash on Delivery,Delivered,2024-01-07,1,1,2024,0,0
+ORD10124,Anna Hines,huberkeith@example.org,Hyderabad,Clothing,Jeans,2440.35,3,7321.05,0.2,5856.84,UPI,Cancelled,2024-02-21,2,1,2024,0,1
+ORD10125,Ronald Brown,karenlucas@example.com,Mumbai,Clothing,Jacket,3598.45,5,17992.25,0.04,17272.56,UPI,Delivered,2024-11-15,11,4,2024,0,0
+ORD10126,Eduardo Smith,josephwalton@example.org,Delhi,Books,Novel,638.84,1,638.84,0.11,568.57,Net Banking,Cancelled,2024-03-24,3,1,2024,0,1
+ORD10127,Jennifer Brown,allisonchung@example.com,Ahmedabad,Electronics,Smartwatch,46982.19,4,187928.76,0.16,157860.16,Net Banking,Delivered,2024-11-19,11,4,2024,0,0
+ORD10128,John Ford,ronald72@example.com,Bengaluru,Food & Beverage,Cookies,181.9,3,545.7,0.06,512.96,Credit Card,Delivered,2024-07-07,7,3,2024,0,0
+ORD10129,Sonya Castillo,brian79@example.com,Delhi,Home & Kitchen,Air Fryer,11610.08,4,46440.32,0.01,45975.92,Cash on Delivery,Delivered,2024-12-03,12,4,2024,0,0
+ORD10130,Monica Mendoza,jonesmichael@example.net,Hyderabad,Electronics,Laptop,36215.5,3,108646.5,0.03,105387.1,Net Banking,Cancelled,2024-07-04,7,3,2024,0,1
+ORD10131,Regina Martin,sheilawilliams@example.org,Jaipur,Home & Kitchen,Coffee Maker,3493.86,3,10481.58,0.28,7546.74,UPI,Delivered,2024-10-29,10,4,2024,0,0
+ORD10132,Christina Aguilar,jonesallison@example.com,Bengaluru,Home & Kitchen,Air Fryer,10449.5,1,10449.5,0.26,7732.63,Cash on Delivery,Delivered,2024-05-10,5,2,2024,0,0
+ORD10133,Michael Pollard,andreasoto@example.com,Mumbai,Clothing,Jacket,1585.0,5,7925.0,0.24,6023.0,UPI,Cancelled,2024-04-15,4,2,2024,0,1
+ORD10134,Daniel Ruiz,sarahrodriguez@example.com,Hyderabad,Electronics,Smartphone,18648.57,3,55945.71,0.26,41399.83,Cash on Delivery,Cancelled,2024-10-11,10,4,2024,0,1
+ORD10135,Christopher Barajas,tinaedwards@example.net,Delhi,Clothing,Dress,4846.65,2,9693.3,0.21,7657.71,Net Banking,Delivered,2024-03-24,3,1,2024,0,0
+ORD10136,Kristina Richard,mortonrodney@example.com,Kolkata,Electronics,Laptop,77005.45,5,385027.25,0.11,342674.25,Debit Card,Delivered,2024-02-22,2,1,2024,0,0
+ORD10137,Rachel Johnson,josephthornton@example.net,Hyderabad,Food & Beverage,Protein Bar,553.94,1,553.94,0.19,448.69,Net Banking,Delivered,2024-05-28,5,2,2024,0,0
+ORD10138,Beth Stewart,samantha63@example.net,Jaipur,Books,Novel,805.91,1,805.91,0.18,660.85,Debit Card,Delivered,2024-09-14,9,3,2024,0,0
+ORD10139,Thomas Johnson,meyerpenny@example.com,Delhi,Electronics,Tablet,48779.57,4,195118.28,0.15,165850.54,Credit Card,Delivered,2024-06-25,6,2,2024,0,0
+ORD10140,Alexander Dickson,kelly90@example.org,Kolkata,Clothing,Sneakers,3207.29,3,9621.87,0.22,7505.06,UPI,Delivered,2024-12-29,12,4,2024,0,0
+ORD10141,Joseph Moore,eric88@example.com,Pune,Food & Beverage,Green Tea,543.57,3,1630.71,0.07,1516.56,Cash on Delivery,Delivered,2024-11-06,11,4,2024,0,0
+ORD10142,Heather Fuller,clarkjason@example.net,Bengaluru,Clothing,Dress,4886.35,3,14659.05,0.14,12606.78,Debit Card,Delivered,2024-11-19,11,4,2024,0,0
+ORD10143,Angela Ford,thomasgood@example.com,Bengaluru,Books,Cook Book,765.32,2,1530.64,0.29,1086.75,Cash on Delivery,Cancelled,2024-09-14,9,3,2024,0,1
+ORD10144,Susan Parker,parrishallison@example.org,Mumbai,Home & Kitchen,Blender,12568.66,2,25137.32,0.09,22874.96,UPI,Delivered,2024-04-03,4,2,2024,0,0
+ORD10145,Nicole Gilbert,nicolestokes@example.net,Bengaluru,Food & Beverage,Protein Bar,524.56,1,524.56,0.15,445.88,Credit Card,Delivered,2024-12-23,12,4,2024,0,0
+ORD10146,Bruce Wright,brent81@example.net,Ahmedabad,Books,Data Science Handbook,283.17,5,1415.85,0.13,1231.79,Debit Card,Delivered,2024-12-15,12,4,2024,0,0
+ORD10147,Brian Jones,kennethwilliams@example.com,Mumbai,Books,Python Guide,981.63,1,981.63,0.15,834.39,Net Banking,Returned,2024-06-29,6,2,2024,1,0
+ORD10148,Lori Davila,manuelperez@example.org,Delhi,Food & Beverage,Cookies,570.16,2,1140.32,0.28,821.03,UPI,Cancelled,2024-02-24,2,1,2024,0,1
+ORD10149,Anne Washington,jgarcia@example.org,Chennai,Clothing,Sneakers,4333.38,2,8666.76,0.01,8580.09,Cash on Delivery,Delivered,2024-10-19,10,4,2024,0,0
+ORD10150,Kristine Hudson,owensedwin@example.com,Pune,Home & Kitchen,Air Fryer,14555.95,3,43667.85,0.11,38864.39,UPI,Delivered,2024-11-04,11,4,2024,0,0
+ORD10151,Keith Graham,tammyedwards@example.net,Mumbai,Food & Beverage,Protein Bar,238.97,2,477.94,0.26,353.68,Cash on Delivery,Delivered,2024-06-15,6,2,2024,0,0
+ORD10152,Tiffany Roy,normahicks@example.org,Delhi,Books,Data Science Handbook,102.62,3,307.86,0.07,286.31,Credit Card,Delivered,2024-07-31,7,3,2024,0,0
+ORD10153,Ronald Bernard,samuelleblanc@example.org,Surat,Books,Data Science Handbook,626.62,4,2506.48,0.14,2155.57,Net Banking,Cancelled,2024-04-18,4,2,2024,0,1
+ORD10154,Jean Patterson,asmith@example.org,Hyderabad,Books,Data Science Handbook,467.56,4,1870.24,0.08,1720.62,Credit Card,Delivered,2024-06-20,6,2,2024,0,0
+ORD10155,William Buck,sharonhoward@example.net,Hyderabad,Books,Data Science Handbook,890.3,1,890.3,0.08,819.08,Net Banking,Delivered,2024-03-12,3,1,2024,0,0
+ORD10156,David Hall,oalexander@example.com,Bengaluru,Electronics,Headphones,37053.64,1,37053.64,0.08,34089.35,Debit Card,Delivered,2024-01-04,1,1,2024,0,0
+ORD10157,Steven Lamb,tiffany93@example.net,Jaipur,Food & Beverage,Protein Bar,450.47,2,900.94,0.23,693.72,Cash on Delivery,Delivered,2024-08-18,8,3,2024,0,0
+ORD10158,Katie Miller,tara37@example.com,Ahmedabad,Electronics,Smartphone,54808.09,5,274040.45,0.05,260338.43,Debit Card,Returned,2024-01-04,1,1,2024,1,0
+ORD10159,Meghan Guerra,torressusan@example.com,Jaipur,Clothing,Sneakers,4987.45,2,9974.9,0.07,9276.66,Net Banking,Cancelled,2024-03-14,3,1,2024,0,1
+ORD10160,Caleb Nguyen,sanchezdennis@example.org,Mumbai,Books,Cook Book,273.91,3,821.73,0.01,813.51,UPI,Delivered,2024-10-14,10,4,2024,0,0
+ORD10161,Timothy Bell,benjaminharris@example.org,Kolkata,Clothing,Jeans,4683.49,3,14050.47,0.16,11802.39,UPI,Returned,2024-12-16,12,4,2024,1,0
+ORD10162,Marcia Burton,tonya66@example.org,Hyderabad,Books,Python Guide,339.55,2,679.1,0.29,482.16,Cash on Delivery,Returned,2024-04-23,4,2,2024,1,0
+ORD10163,Courtney Williams,skeith@example.net,Pune,Home & Kitchen,Blender,7788.65,3,23365.95,0.13,20328.38,Debit Card,Delivered,2024-11-06,11,4,2024,0,0
+ORD10164,Nicole Bryant,erin80@example.net,Hyderabad,Clothing,T-Shirt,3882.47,1,3882.47,0.14,3338.92,Net Banking,Returned,2024-02-07,2,1,2024,1,0
+ORD10165,Christopher Garcia,gutierrezkenneth@example.net,Mumbai,Food & Beverage,Cookies,217.75,5,1088.75,0.2,871.0,Cash on Delivery,Delivered,2024-01-22,1,1,2024,0,0
+ORD10166,Michael Graham,inunez@example.org,Pune,Clothing,Sneakers,2453.38,4,9813.52,0.22,7654.55,Cash on Delivery,Cancelled,2024-03-03,3,1,2024,0,1
+ORD10167,Tonya Peterson,lpope@example.com,Surat,Electronics,Tablet,76059.22,2,152118.44,0.06,142991.33,UPI,Delivered,2024-10-25,10,4,2024,0,0
+ORD10168,Alexis Dawson,rhodescynthia@example.com,Hyderabad,Books,Python Guide,619.58,5,3097.9,0.3,2168.53,UPI,Delivered,2024-07-10,7,3,2024,0,0
+ORD10169,Sherri Hubbard,catherine98@example.com,Chennai,Books,Cook Book,952.03,1,952.03,0.08,875.87,UPI,Returned,2024-06-23,6,2,2024,1,0
+ORD10170,Lisa Gonzalez,jacob26@example.com,Bengaluru,Home & Kitchen,Blender,8461.97,1,8461.97,0.26,6261.86,Debit Card,Delivered,2024-06-21,6,2,2024,0,0
+ORD10171,Nancy Foley,mendezshelby@example.net,Chennai,Food & Beverage,Green Tea,645.43,3,1936.29,0.12,1703.94,Cash on Delivery,Delivered,2024-03-04,3,1,2024,0,0
+ORD10172,Kayla Brown DDS,cynthia52@example.com,Jaipur,Home & Kitchen,Toaster,8525.27,4,34101.08,0.11,30349.96,Net Banking,Delivered,2024-02-10,2,1,2024,0,0
+ORD10173,Caroline Herrera,quinnsusan@example.org,Pune,Food & Beverage,Cookies,677.2,4,2708.8,0.26,2004.51,Debit Card,Returned,2024-05-27,5,2,2024,1,0
+ORD10174,Tonya Williams,hbrown@example.com,Hyderabad,Books,Cook Book,950.71,1,950.71,0.22,741.55,UPI,Returned,2024-05-21,5,2,2024,1,0
+ORD10175,Wayne Rivas,owendoris@example.com,Hyderabad,Home & Kitchen,Knife Set,1896.04,5,9480.2,0.2,7584.16,Net Banking,Delivered,2024-02-01,2,1,2024,0,0
+ORD10176,Brittany Romero,imack@example.net,Mumbai,Food & Beverage,Green Tea,551.82,2,1103.64,0.28,794.62,Debit Card,Returned,2024-01-22,1,1,2024,1,0
+ORD10177,Stephanie Ray,kendra94@example.net,Surat,Clothing,Dress,3060.17,5,15300.85,0.23,11781.65,Net Banking,Cancelled,2024-05-07,5,2,2024,0,1
+ORD10178,Crystal Avila,travisthomas@example.org,Ahmedabad,Books,Python Guide,535.92,5,2679.6,0.01,2652.8,Net Banking,Delivered,2024-07-23,7,3,2024,0,0
+ORD10179,Heather Murray,pearsontimothy@example.net,Hyderabad,Home & Kitchen,Knife Set,14134.75,2,28269.5,0.12,24877.16,Cash on Delivery,Delivered,2024-04-30,4,2,2024,0,0
+ORD10180,Ricardo Brandt,andrea96@example.com,Ahmedabad,Food & Beverage,Energy Drink,318.53,3,955.59,0.0,955.59,UPI,Delivered,2024-06-26,6,2,2024,0,0
+ORD10181,Lisa Clark,opetty@example.net,Pune,Clothing,T-Shirt,4346.41,1,4346.41,0.09,3955.23,UPI,Cancelled,2024-04-13,4,2,2024,0,1
+ORD10182,Derek Rodriguez,cannonmichelle@example.org,Mumbai,Food & Beverage,Cookies,267.64,3,802.92,0.11,714.6,Credit Card,Delivered,2024-06-29,6,2,2024,0,0
+ORD10183,Haley Collins,jennifer45@example.com,Chennai,Home & Kitchen,Air Fryer,3157.68,4,12630.72,0.01,12504.41,UPI,Delivered,2024-04-22,4,2,2024,0,0
+ORD10184,Kenneth Zamora,rebekahscott@example.org,Chennai,Food & Beverage,Protein Bar,202.28,5,1011.4,0.23,778.78,Net Banking,Delivered,2024-05-01,5,2,2024,0,0
+ORD10185,Lawrence Vaughn,shannoncooper@example.com,Hyderabad,Food & Beverage,Cookies,157.96,2,315.92,0.15,268.53,Net Banking,Delivered,2024-04-06,4,2,2024,0,0
+ORD10186,Christine Weber,cynthia42@example.net,Delhi,Food & Beverage,Green Tea,560.51,3,1681.53,0.24,1277.96,UPI,Delivered,2024-04-24,4,2,2024,0,0
+ORD10187,Kenneth Perez,jonathan97@example.net,Chennai,Home & Kitchen,Toaster,8254.92,1,8254.92,0.09,7511.98,Credit Card,Delivered,2024-08-15,8,3,2024,0,0
+ORD10188,Michelle Wilson,scastro@example.com,Kolkata,Clothing,Jacket,4246.74,1,4246.74,0.06,3991.94,UPI,Returned,2024-03-21,3,1,2024,1,0
+ORD10189,James Price,brian49@example.com,Pune,Books,Cook Book,372.51,3,1117.53,0.04,1072.83,Debit Card,Returned,2024-03-11,3,1,2024,1,0
+ORD10190,Nathan Dunn,hglenn@example.com,Mumbai,Electronics,Laptop,31579.82,1,31579.82,0.04,30316.63,UPI,Delivered,2024-11-06,11,4,2024,0,0
+ORD10191,Nicole Lopez,liumisty@example.net,Pune,Home & Kitchen,Air Fryer,9342.77,4,37371.08,0.26,27654.6,Cash on Delivery,Delivered,2024-02-03,2,1,2024,0,0
+ORD10192,Keith Elliott,torresstephanie@example.net,Pune,Books,Cook Book,512.11,3,1536.33,0.14,1321.24,Net Banking,Cancelled,2024-11-05,11,4,2024,0,1
+ORD10193,Karl Lee,cameronsimmons@example.net,Surat,Electronics,Smartphone,48646.42,4,194585.68,0.24,147885.12,UPI,Cancelled,2024-04-17,4,2,2024,0,1
+ORD10194,Angela Valdez,patelryan@example.org,Surat,Food & Beverage,Protein Bar,784.38,3,2353.14,0.07,2188.42,Debit Card,Delivered,2024-01-09,1,1,2024,0,0
+ORD10195,Abigail Mason,fclark@example.org,Chennai,Clothing,Jacket,1733.75,2,3467.5,0.15,2947.38,Credit Card,Delivered,2024-02-13,2,1,2024,0,0
+ORD10196,George Thomas,laurenmorton@example.com,Kolkata,Clothing,Jacket,2509.17,2,5018.34,0.08,4616.87,Net Banking,Returned,2024-03-18,3,1,2024,1,0
+ORD10197,Dr. Julie Goodwin DDS,cguzman@example.org,Kolkata,Food & Beverage,Protein Bar,250.47,2,500.94,0.17,415.78,Debit Card,Cancelled,2024-12-19,12,4,2024,0,1
+ORD10198,Bradley Booth,maxwellanderson@example.net,Pune,Food & Beverage,Energy Drink,462.57,1,462.57,0.03,448.69,Credit Card,Cancelled,2024-04-10,4,2,2024,0,1
+ORD10199,Emma Caldwell,sgordon@example.com,Bengaluru,Home & Kitchen,Blender,2601.68,2,5203.36,0.24,3954.55,Debit Card,Cancelled,2024-10-14,10,4,2024,0,1
+ORD10200,Mark Green,hmccoy@example.org,Delhi,Food & Beverage,Cookies,759.88,3,2279.64,0.04,2188.45,Debit Card,Delivered,2024-08-11,8,3,2024,0,0
+ORD10201,Blake Glenn,allenandre@example.com,Hyderabad,Food & Beverage,Coffee Beans,581.19,1,581.19,0.0,581.19,Cash on Delivery,Delivered,2024-05-27,5,2,2024,0,0
+ORD10202,Justin Quinn,kelleyglenn@example.org,Chennai,Clothing,Sneakers,4126.73,3,12380.19,0.12,10894.57,Net Banking,Delivered,2024-09-28,9,3,2024,0,0
+ORD10203,James Morris,nicholassanchez@example.com,Surat,Electronics,Headphones,61591.86,2,123183.72,0.23,94851.46,Credit Card,Cancelled,2024-05-14,5,2,2024,0,1
+ORD10204,Tonya Thompson,ewilliams@example.com,Bengaluru,Food & Beverage,Green Tea,707.85,1,707.85,0.14,608.75,Net Banking,Returned,2024-03-28,3,1,2024,1,0
+ORD10205,Harry Mercado,karen28@example.com,Chennai,Food & Beverage,Cookies,605.9,2,1211.8,0.01,1199.68,Credit Card,Delivered,2024-05-17,5,2,2024,0,0
+ORD10206,Nicole Olson,laurahuerta@example.org,Delhi,Home & Kitchen,Knife Set,3246.35,1,3246.35,0.16,2726.93,Credit Card,Cancelled,2024-08-08,8,3,2024,0,1
+ORD10207,Susan Reyes,rollinsmonica@example.com,Kolkata,Electronics,Headphones,31420.83,1,31420.83,0.1,28278.75,Credit Card,Cancelled,2024-12-18,12,4,2024,0,1
+ORD10208,Mason Lambert,lisa90@example.com,Surat,Electronics,Smartwatch,31425.06,5,157125.3,0.27,114701.47,UPI,Cancelled,2024-02-06,2,1,2024,0,1
+ORD10209,James Ferguson,barrerarobert@example.com,Bengaluru,Food & Beverage,Green Tea,271.15,3,813.45,0.13,707.7,Debit Card,Delivered,2024-07-24,7,3,2024,0,0
+ORD10210,Jennifer Williams,aaron33@example.com,Surat,Electronics,Tablet,32242.23,5,161211.15,0.13,140253.7,UPI,Cancelled,2024-08-19,8,3,2024,0,1
+ORD10211,Joseph Williams,jason40@example.org,Bengaluru,Food & Beverage,Cookies,521.23,5,2606.15,0.29,1850.37,UPI,Delivered,2024-05-12,5,2,2024,0,0
+ORD10212,Emily Young,brittany90@example.org,Bengaluru,Books,Python Guide,644.72,5,3223.6,0.13,2804.53,Net Banking,Delivered,2024-09-01,9,3,2024,0,0
+ORD10213,Stacy Williams,bailey68@example.net,Bengaluru,Electronics,Laptop,64347.06,1,64347.06,0.16,54051.53,Credit Card,Returned,2024-11-15,11,4,2024,1,0
+ORD10214,Christian Martin,goodmankaitlyn@example.com,Chennai,Electronics,Tablet,71135.62,3,213406.86,0.19,172859.56,Cash on Delivery,Returned,2024-06-10,6,2,2024,1,0
+ORD10215,Elizabeth Schneider,garciarobert@example.org,Chennai,Food & Beverage,Energy Drink,279.8,1,279.8,0.25,209.85,Credit Card,Delivered,2024-02-14,2,1,2024,0,0
+ORD10216,Traci Morton,dmurphy@example.net,Kolkata,Clothing,Jeans,864.64,4,3458.56,0.11,3078.12,Cash on Delivery,Delivered,2024-03-06,3,1,2024,0,0
+ORD10217,Chelsea Lee,jameschristian@example.org,Pune,Books,Cook Book,424.99,2,849.98,0.27,620.49,Credit Card,Delivered,2024-07-13,7,3,2024,0,0
+ORD10218,Julia Johnson,andrew88@example.net,Ahmedabad,Electronics,Smartphone,29112.0,4,116448.0,0.07,108296.64,Debit Card,Returned,2024-12-28,12,4,2024,1,0
+ORD10219,Kristin Young,mckayjorge@example.org,Ahmedabad,Electronics,Headphones,71790.63,4,287162.52,0.14,246959.77,Cash on Delivery,Delivered,2024-10-21,10,4,2024,0,0
+ORD10220,Yvonne Mccoy,davistrevor@example.org,Jaipur,Clothing,Jeans,2831.67,3,8495.01,0.03,8240.16,Debit Card,Cancelled,2024-03-20,3,1,2024,0,1
+ORD10221,Megan Fisher,jeffreybrown@example.com,Mumbai,Electronics,Headphones,46113.2,3,138339.6,0.3,96837.72,UPI,Delivered,2024-01-30,1,1,2024,0,0
+ORD10222,Jordan Roy,todd08@example.com,Kolkata,Home & Kitchen,Blender,12956.52,1,12956.52,0.12,11401.74,Debit Card,Delivered,2024-12-17,12,4,2024,0,0
+ORD10223,Brandon Christensen,mcphersonallison@example.com,Chennai,Food & Beverage,Cookies,187.78,3,563.34,0.03,546.44,Cash on Delivery,Delivered,2024-10-05,10,4,2024,0,0
+ORD10224,Alyssa Rice,festrada@example.org,Kolkata,Food & Beverage,Energy Drink,616.78,2,1233.56,0.18,1011.52,Cash on Delivery,Delivered,2024-12-05,12,4,2024,0,0
+ORD10225,Jordan Christensen,csmith@example.org,Hyderabad,Clothing,Dress,1408.02,1,1408.02,0.15,1196.82,Cash on Delivery,Delivered,2024-05-14,5,2,2024,0,0
+ORD10226,Justin Baker,davidadkins@example.net,Kolkata,Home & Kitchen,Blender,13231.47,2,26462.94,0.13,23022.76,UPI,Cancelled,2024-05-08,5,2,2024,0,1
+ORD10227,Peter Roth,rebecca87@example.net,Pune,Home & Kitchen,Knife Set,10341.46,5,51707.3,0.26,38263.4,Credit Card,Delivered,2024-05-05,5,2,2024,0,0
+ORD10228,Ethan Long,douglas79@example.org,Surat,Food & Beverage,Energy Drink,105.51,2,211.02,0.27,154.04,Credit Card,Returned,2024-09-10,9,3,2024,1,0
+ORD10229,Lisa Simpson,grimesgregory@example.com,Chennai,Home & Kitchen,Knife Set,9832.52,5,49162.6,0.21,38838.45,Cash on Delivery,Delivered,2024-04-01,4,2,2024,0,0
+ORD10230,William Jordan,andrea26@example.org,Bengaluru,Food & Beverage,Protein Bar,138.61,2,277.22,0.13,241.18,Debit Card,Delivered,2024-04-20,4,2,2024,0,0
+ORD10231,Christopher Ingram,johnsonalejandro@example.org,Mumbai,Books,Novel,101.34,5,506.7,0.0,506.7,Credit Card,Cancelled,2024-05-23,5,2,2024,0,1
+ORD10232,Spencer Davis,eric74@example.net,Bengaluru,Home & Kitchen,Air Fryer,8066.47,2,16132.94,0.22,12583.69,Credit Card,Delivered,2024-01-31,1,1,2024,0,0
+ORD10233,Eric Ortiz,tcochran@example.com,Hyderabad,Food & Beverage,Energy Drink,299.14,2,598.28,0.19,484.61,Cash on Delivery,Delivered,2024-11-29,11,4,2024,0,0
+ORD10234,Taylor Stewart,april56@example.com,Pune,Home & Kitchen,Toaster,9845.11,3,29535.33,0.11,26286.44,UPI,Returned,2024-02-12,2,1,2024,1,0
+ORD10235,Connie Lopez,lesliewheeler@example.com,Bengaluru,Food & Beverage,Protein Bar,511.01,2,1022.02,0.19,827.84,Credit Card,Delivered,2024-10-05,10,4,2024,0,0
+ORD10236,Amy King,lindsey64@example.net,Pune,Home & Kitchen,Coffee Maker,11198.32,3,33594.96,0.2,26875.97,Cash on Delivery,Delivered,2024-11-08,11,4,2024,0,0
+ORD10237,Anthony Reynolds,kimberlyford@example.org,Jaipur,Electronics,Tablet,15729.97,5,78649.85,0.3,55054.9,Cash on Delivery,Cancelled,2024-09-26,9,3,2024,0,1
+ORD10238,Stephen Roberts,reesetroy@example.org,Ahmedabad,Food & Beverage,Cookies,418.14,5,2090.7,0.26,1547.12,Cash on Delivery,Delivered,2024-02-09,2,1,2024,0,0
+ORD10239,Albert Townsend,kelseybond@example.net,Surat,Food & Beverage,Protein Bar,125.38,4,501.52,0.03,486.47,Net Banking,Delivered,2024-10-12,10,4,2024,0,0
+ORD10240,Darlene Owen,jasminwyatt@example.com,Hyderabad,Clothing,Jacket,2985.8,2,5971.6,0.16,5016.14,Debit Card,Delivered,2024-09-30,9,3,2024,0,0
+ORD10241,Brenda Cooper,michelle99@example.org,Surat,Books,Data Science Handbook,416.21,3,1248.63,0.19,1011.39,Net Banking,Delivered,2024-10-18,10,4,2024,0,0
+ORD10242,Craig Larson,william45@example.com,Jaipur,Books,Self Help Book,726.2,5,3631.0,0.07,3376.83,UPI,Cancelled,2024-08-01,8,3,2024,0,1
+ORD10243,Danielle Williams,sean71@example.org,Kolkata,Food & Beverage,Cookies,216.64,2,433.28,0.12,381.29,Credit Card,Returned,2024-10-27,10,4,2024,1,0
+ORD10244,Kristin Jones,thomascastillo@example.org,Ahmedabad,Books,Self Help Book,370.88,5,1854.4,0.15,1576.24,Cash on Delivery,Cancelled,2024-03-03,3,1,2024,0,1
+ORD10245,Brittany Wise,leonard34@example.org,Kolkata,Electronics,Tablet,10159.98,5,50799.9,0.17,42163.92,Net Banking,Delivered,2024-07-01,7,3,2024,0,0
+ORD10246,Theresa Hall,zavalahannah@example.net,Surat,Food & Beverage,Energy Drink,387.5,3,1162.5,0.01,1150.88,Net Banking,Delivered,2024-10-14,10,4,2024,0,0
+ORD10247,Leslie Wright,pamela53@example.net,Hyderabad,Books,Cook Book,431.79,4,1727.16,0.03,1675.35,Credit Card,Delivered,2024-12-05,12,4,2024,0,0
+ORD10248,Miguel Wilson,vincentchristy@example.com,Delhi,Food & Beverage,Coffee Beans,100.03,4,400.12,0.1,360.11,Debit Card,Cancelled,2024-08-23,8,3,2024,0,1
+ORD10249,Cory Fisher,elizabethgarcia@example.com,Jaipur,Food & Beverage,Coffee Beans,168.68,5,843.4,0.04,809.66,Debit Card,Delivered,2024-06-12,6,2,2024,0,0
+ORD10250,Emily Mills,theresa17@example.com,Pune,Electronics,Headphones,31457.81,1,31457.81,0.03,30514.08,Credit Card,Cancelled,2024-04-30,4,2,2024,0,1
+ORD10251,Stacey Lee,kwoodard@example.com,Delhi,Food & Beverage,Energy Drink,791.86,3,2375.58,0.12,2090.51,UPI,Delivered,2024-10-16,10,4,2024,0,0
+ORD10252,Katherine Figueroa,patricia69@example.org,Ahmedabad,Electronics,Laptop,27841.61,4,111366.44,0.28,80183.84,UPI,Delivered,2024-02-06,2,1,2024,0,0
+ORD10253,Edwin Thomas,jennifermay@example.org,Ahmedabad,Food & Beverage,Cookies,677.89,5,3389.45,0.04,3253.87,UPI,Cancelled,2024-01-12,1,1,2024,0,1
+ORD10254,Becky Orozco,raymondberry@example.com,Mumbai,Electronics,Laptop,32022.83,1,32022.83,0.09,29140.78,Cash on Delivery,Delivered,2024-05-14,5,2,2024,0,0
+ORD10255,Reginald Peters,john05@example.com,Jaipur,Electronics,Laptop,62744.17,1,62744.17,0.01,62116.73,Debit Card,Delivered,2024-04-14,4,2,2024,0,0
+ORD10256,Carolyn Burns,greilly@example.org,Bengaluru,Electronics,Tablet,71798.81,1,71798.81,0.2,57439.05,Debit Card,Delivered,2024-10-25,10,4,2024,0,0
+ORD10257,Frederick Miller,thompsonsonya@example.com,Kolkata,Electronics,Smartwatch,44888.99,3,134666.97,0.07,125240.28,Cash on Delivery,Delivered,2024-06-06,6,2,2024,0,0
+ORD10258,Brett Kelley,fbowen@example.org,Mumbai,Food & Beverage,Green Tea,280.0,2,560.0,0.07,520.8,Credit Card,Delivered,2024-01-10,1,1,2024,0,0
+ORD10259,Sarah Hudson,aschultz@example.org,Bengaluru,Electronics,Tablet,64417.36,5,322086.8,0.13,280215.52,Credit Card,Cancelled,2024-03-01,3,1,2024,0,1
+ORD10260,Anthony Young,floreslinda@example.net,Bengaluru,Home & Kitchen,Blender,5074.19,4,20296.76,0.21,16034.44,Debit Card,Delivered,2024-06-13,6,2,2024,0,0
+ORD10261,Colleen Donovan,hartcrystal@example.com,Delhi,Electronics,Laptop,10825.57,4,43302.28,0.2,34641.82,Net Banking,Cancelled,2024-02-22,2,1,2024,0,1
+ORD10262,Christian Young,tdavis@example.org,Kolkata,Home & Kitchen,Air Fryer,5349.25,1,5349.25,0.02,5242.27,Net Banking,Delivered,2024-02-17,2,1,2024,0,0
+ORD10263,Jon Perry,michael22@example.net,Chennai,Books,Data Science Handbook,401.64,5,2008.2,0.3,1405.74,Net Banking,Delivered,2024-01-25,1,1,2024,0,0
+ORD10264,Kenneth Holloway,tgarcia@example.net,Chennai,Food & Beverage,Energy Drink,318.47,2,636.94,0.25,477.71,Credit Card,Cancelled,2024-03-11,3,1,2024,0,1
+ORD10265,John Cardenas,charlespearson@example.com,Hyderabad,Home & Kitchen,Coffee Maker,5945.05,2,11890.1,0.06,11176.69,Debit Card,Delivered,2024-09-13,9,3,2024,0,0
+ORD10266,Chelsea Rubio,franciscoharris@example.com,Jaipur,Electronics,Smartwatch,68063.1,4,272252.4,0.28,196021.73,Cash on Delivery,Delivered,2024-02-01,2,1,2024,0,0
+ORD10267,Miss Theresa Wiggins,uparker@example.net,Jaipur,Electronics,Smartwatch,26101.24,3,78303.72,0.23,60293.86,Debit Card,Cancelled,2024-07-02,7,3,2024,0,1
+ORD10268,Laura Hayes,vasquezjoseph@example.net,Delhi,Home & Kitchen,Blender,6436.59,2,12873.18,0.22,10041.08,Cash on Delivery,Returned,2024-08-03,8,3,2024,1,0
+ORD10269,David Burke,bwright@example.com,Hyderabad,Clothing,Dress,4841.86,3,14525.58,0.04,13944.56,Cash on Delivery,Delivered,2024-05-12,5,2,2024,0,0
+ORD10270,Bryan Jones,cheryl69@example.com,Surat,Home & Kitchen,Coffee Maker,9592.67,3,28778.01,0.19,23310.19,Credit Card,Delivered,2024-10-10,10,4,2024,0,0
+ORD10271,Nicole Turner,petersonmitchell@example.org,Delhi,Books,Data Science Handbook,353.14,1,353.14,0.02,346.08,Net Banking,Delivered,2024-03-09,3,1,2024,0,0
+ORD10272,Stephanie Greene,jessicagrant@example.com,Surat,Home & Kitchen,Air Fryer,4064.56,4,16258.24,0.27,11868.52,Credit Card,Cancelled,2024-03-13,3,1,2024,0,1
+ORD10273,Jason King,kelly62@example.org,Jaipur,Home & Kitchen,Coffee Maker,8497.71,2,16995.42,0.14,14616.06,Cash on Delivery,Delivered,2024-01-29,1,1,2024,0,0
+ORD10274,John Cole,pauldawson@example.net,Ahmedabad,Food & Beverage,Coffee Beans,186.09,4,744.36,0.03,722.03,Cash on Delivery,Delivered,2024-04-07,4,2,2024,0,0
+ORD10275,Kim Ferguson,wlopez@example.com,Bengaluru,Home & Kitchen,Air Fryer,692.8,2,1385.6,0.03,1344.03,Credit Card,Returned,2024-04-20,4,2,2024,1,0
+ORD10276,Joseph Jackson,eatonbrian@example.net,Chennai,Home & Kitchen,Blender,5151.91,4,20607.64,0.05,19577.26,Net Banking,Delivered,2024-10-25,10,4,2024,0,0
+ORD10277,Douglas Shepherd,uholmes@example.org,Delhi,Home & Kitchen,Toaster,1667.64,3,5002.92,0.21,3952.31,Net Banking,Delivered,2024-08-10,8,3,2024,0,0
+ORD10278,Larry Lee,brian63@example.net,Surat,Home & Kitchen,Coffee Maker,4288.52,3,12865.56,0.25,9649.17,Cash on Delivery,Delivered,2024-02-26,2,1,2024,0,0
+ORD10279,Jerry Perry,davisjeffrey@example.com,Pune,Food & Beverage,Coffee Beans,132.13,5,660.65,0.24,502.09,Credit Card,Cancelled,2024-04-30,4,2,2024,0,1
+ORD10280,Brittany Allison,paul64@example.org,Bengaluru,Food & Beverage,Cookies,633.23,3,1899.69,0.29,1348.78,Debit Card,Delivered,2024-04-04,4,2,2024,0,0
+ORD10281,Joel Jones,webbheather@example.com,Pune,Books,Python Guide,273.42,3,820.26,0.22,639.8,Credit Card,Delivered,2024-04-12,4,2,2024,0,0
+ORD10282,Valerie Pierce,rebekah53@example.net,Bengaluru,Home & Kitchen,Blender,13087.81,5,65439.05,0.06,61512.71,Credit Card,Cancelled,2024-06-28,6,2,2024,0,1
+ORD10283,Zachary Combs,uhodges@example.org,Hyderabad,Books,Self Help Book,292.27,2,584.54,0.21,461.79,Cash on Delivery,Delivered,2024-08-10,8,3,2024,0,0
+ORD10284,Brian Clark,jacksonsharon@example.com,Bengaluru,Books,Self Help Book,531.2,4,2124.8,0.23,1636.1,UPI,Delivered,2024-12-30,12,4,2024,0,0
+ORD10285,Patricia Williams,monica34@example.org,Jaipur,Food & Beverage,Energy Drink,630.23,3,1890.69,0.0,1890.69,Debit Card,Cancelled,2024-02-04,2,1,2024,0,1
+ORD10286,Kenneth Golden,jackedwards@example.org,Surat,Clothing,Dress,1131.42,3,3394.26,0.01,3360.32,UPI,Delivered,2024-10-14,10,4,2024,0,0
+ORD10287,Virginia Prince,williamstammy@example.org,Hyderabad,Home & Kitchen,Toaster,14078.66,3,42235.98,0.03,40968.9,UPI,Delivered,2024-02-06,2,1,2024,0,0
+ORD10288,Wendy Ruiz,hannah20@example.com,Bengaluru,Books,Cook Book,342.36,5,1711.8,0.18,1403.68,Debit Card,Cancelled,2024-11-08,11,4,2024,0,1
+ORD10289,Amber King,schneiderheidi@example.com,Pune,Electronics,Smartwatch,38499.38,3,115498.14,0.12,101638.36,UPI,Delivered,2024-12-31,12,4,2024,0,0
+ORD10290,Barbara Williams,carlsondenise@example.net,Surat,Clothing,Jacket,4977.23,3,14931.69,0.29,10601.5,Credit Card,Returned,2024-08-25,8,3,2024,1,0
+ORD10291,Matthew Knight,mtaylor@example.org,Jaipur,Home & Kitchen,Blender,13427.46,4,53709.84,0.06,50487.25,Net Banking,Delivered,2024-01-16,1,1,2024,0,0
+ORD10292,Becky Morrison,mlittle@example.org,Delhi,Electronics,Laptop,12930.25,3,38790.75,0.06,36463.31,UPI,Delivered,2024-06-25,6,2,2024,0,0
+ORD10293,Julia Hawkins,thomasbush@example.net,Jaipur,Books,Self Help Book,731.33,4,2925.32,0.22,2281.75,Credit Card,Cancelled,2024-03-20,3,1,2024,0,1
+ORD10294,Troy Brown,kjackson@example.com,Pune,Books,Python Guide,661.25,1,661.25,0.12,581.9,Net Banking,Cancelled,2024-12-26,12,4,2024,0,1
+ORD10295,Stephanie Good,cameronchaney@example.net,Surat,Food & Beverage,Protein Bar,178.14,5,890.7,0.28,641.3,UPI,Delivered,2024-09-25,9,3,2024,0,0
+ORD10296,Kimberly Howe,pjackson@example.net,Delhi,Clothing,Jeans,1250.03,4,5000.12,0.07,4650.11,UPI,Delivered,2024-09-16,9,3,2024,0,0
+ORD10297,Anna Moore,jeremy02@example.net,Delhi,Home & Kitchen,Coffee Maker,11092.25,4,44369.0,0.2,35495.2,Net Banking,Delivered,2024-09-21,9,3,2024,0,0
+ORD10298,Lisa Conner,flee@example.net,Surat,Clothing,Dress,1977.22,1,1977.22,0.13,1720.18,Debit Card,Delivered,2024-09-24,9,3,2024,0,0
+ORD10299,Maurice Prince,robert95@example.com,Bengaluru,Home & Kitchen,Blender,8251.61,2,16503.22,0.23,12707.48,Debit Card,Delivered,2024-01-02,1,1,2024,0,0
+ORD10300,Mia Gonzalez,ryangomez@example.com,Ahmedabad,Clothing,T-Shirt,4967.32,1,4967.32,0.02,4867.97,Net Banking,Cancelled,2024-02-08,2,1,2024,0,1
+ORD10301,Renee Tucker,cody23@example.net,Hyderabad,Food & Beverage,Coffee Beans,78.74,2,157.48,0.07,146.46,Cash on Delivery,Delivered,2024-02-21,2,1,2024,0,0
+ORD10302,Heidi Ward,cohenangel@example.com,Mumbai,Food & Beverage,Energy Drink,662.18,1,662.18,0.1,595.96,Credit Card,Delivered,2024-06-11,6,2,2024,0,0
+ORD10303,Jennifer Wilson,charlesroth@example.org,Chennai,Clothing,Jacket,4831.94,4,19327.76,0.29,13722.71,Debit Card,Delivered,2024-01-27,1,1,2024,0,0
+ORD10304,Sara Campbell,mary75@example.org,Bengaluru,Home & Kitchen,Coffee Maker,7817.14,1,7817.14,0.19,6331.88,Cash on Delivery,Delivered,2024-07-22,7,3,2024,0,0
+ORD10305,Adam Ball,bryanmclaughlin@example.net,Surat,Clothing,Jeans,4548.08,2,9096.16,0.09,8277.51,UPI,Delivered,2024-09-14,9,3,2024,0,0
+ORD10306,Mitchell Johnson,nicolebarrett@example.com,Jaipur,Electronics,Tablet,28702.9,1,28702.9,0.05,27267.76,Debit Card,Delivered,2024-07-18,7,3,2024,0,0
+ORD10307,Christian Johnston,rduncan@example.net,Chennai,Food & Beverage,Green Tea,602.56,2,1205.12,0.18,988.2,Debit Card,Delivered,2024-04-04,4,2,2024,0,0
+ORD10308,Alexis Walker,seanayers@example.org,Ahmedabad,Food & Beverage,Green Tea,575.67,1,575.67,0.23,443.27,Debit Card,Delivered,2024-04-13,4,2,2024,0,0
+ORD10309,Shane Little,barrettjustin@example.org,Mumbai,Home & Kitchen,Toaster,13276.2,5,66381.0,0.12,58415.28,Credit Card,Delivered,2024-03-23,3,1,2024,0,0
+ORD10310,Monica Pope,fcox@example.org,Pune,Food & Beverage,Green Tea,338.39,3,1015.17,0.02,994.87,Net Banking,Delivered,2024-03-24,3,1,2024,0,0
+ORD10311,Ronald White,jackiepeterson@example.net,Delhi,Clothing,Dress,3772.11,2,7544.22,0.02,7393.34,Cash on Delivery,Delivered,2024-10-19,10,4,2024,0,0
+ORD10312,Jacob Turner,jennifer62@example.com,Mumbai,Electronics,Smartphone,39043.45,3,117130.35,0.05,111273.83,Credit Card,Returned,2024-03-17,3,1,2024,1,0
+ORD10313,Gina Anderson,madelineblake@example.com,Hyderabad,Food & Beverage,Protein Bar,486.07,5,2430.35,0.11,2163.01,Cash on Delivery,Returned,2024-09-28,9,3,2024,1,0
+ORD10314,Suzanne Ray,perrysharon@example.org,Surat,Books,Cook Book,827.02,1,827.02,0.14,711.24,Cash on Delivery,Cancelled,2024-11-21,11,4,2024,0,1
+ORD10315,Shawn Robinson,wbeck@example.net,Kolkata,Electronics,Laptop,68918.49,2,137836.98,0.17,114404.69,Net Banking,Cancelled,2024-04-22,4,2,2024,0,1
+ORD10316,Richard Palmer,michael93@example.com,Hyderabad,Electronics,Laptop,11695.61,1,11695.61,0.06,10993.87,UPI,Delivered,2024-08-04,8,3,2024,0,0
+ORD10317,Eric Mcclain,ambernavarro@example.com,Bengaluru,Clothing,Jeans,2456.5,2,4913.0,0.1,4421.7,Cash on Delivery,Returned,2024-06-03,6,2,2024,1,0
+ORD10318,Oscar Herman,arodriguez@example.org,Chennai,Food & Beverage,Protein Bar,704.22,4,2816.88,0.15,2394.35,Credit Card,Delivered,2024-10-26,10,4,2024,0,0
+ORD10319,William Garcia,kholmes@example.org,Mumbai,Food & Beverage,Cookies,163.66,4,654.64,0.22,510.62,Net Banking,Cancelled,2024-12-17,12,4,2024,0,1
+ORD10320,Robert Villanueva,harry26@example.net,Surat,Books,Data Science Handbook,227.69,2,455.38,0.19,368.86,Credit Card,Delivered,2024-02-12,2,1,2024,0,0
+ORD10321,Daniel Johnson,james23@example.net,Jaipur,Food & Beverage,Protein Bar,507.79,2,1015.58,0.26,751.53,Cash on Delivery,Delivered,2024-01-09,1,1,2024,0,0
+ORD10322,Robert Russell,torresjulie@example.com,Chennai,Clothing,Sneakers,1813.0,5,9065.0,0.14,7795.9,Cash on Delivery,Cancelled,2024-07-23,7,3,2024,0,1
+ORD10323,Cheryl Hudson,williamsrebecca@example.com,Jaipur,Electronics,Tablet,11841.31,3,35523.93,0.03,34458.21,UPI,Returned,2024-03-08,3,1,2024,1,0
+ORD10324,Eric Morales,yorkeric@example.com,Surat,Books,Cook Book,461.95,3,1385.85,0.12,1219.55,Credit Card,Delivered,2024-02-25,2,1,2024,0,0
+ORD10325,Melissa King,owensbrenda@example.org,Bengaluru,Electronics,Smartwatch,24259.45,1,24259.45,0.08,22318.69,Net Banking,Delivered,2024-01-23,1,1,2024,0,0
+ORD10326,Nicholas White,timothyhall@example.com,Bengaluru,Electronics,Smartwatch,31700.57,5,158502.85,0.04,152162.74,Net Banking,Cancelled,2024-12-13,12,4,2024,0,1
+ORD10327,Melanie Armstrong,mendozajoseph@example.org,Mumbai,Clothing,Jacket,2235.76,4,8943.04,0.2,7154.43,Credit Card,Returned,2024-10-31,10,4,2024,1,0
+ORD10328,Elizabeth Ward,daniel17@example.com,Chennai,Food & Beverage,Cookies,251.92,3,755.76,0.06,710.41,Cash on Delivery,Returned,2024-08-01,8,3,2024,1,0
+ORD10329,Joshua Williams,odavis@example.net,Jaipur,Electronics,Smartwatch,29860.32,5,149301.6,0.2,119441.28,Cash on Delivery,Returned,2024-07-29,7,3,2024,1,0
+ORD10330,Christina Parker,christine82@example.org,Hyderabad,Food & Beverage,Green Tea,625.79,3,1877.37,0.2,1501.9,Debit Card,Delivered,2024-09-11,9,3,2024,0,0
+ORD10331,Sandra Mitchell,underwoodrodney@example.net,Ahmedabad,Food & Beverage,Coffee Beans,534.17,4,2136.68,0.02,2093.95,Cash on Delivery,Delivered,2024-06-19,6,2,2024,0,0
+ORD10332,Raymond Kim,uerickson@example.net,Chennai,Electronics,Smartwatch,61847.98,4,247391.92,0.03,239970.16,UPI,Returned,2024-05-31,5,2,2024,1,0
+ORD10333,Kerry Kelly,coopertyler@example.com,Hyderabad,Electronics,Smartwatch,73644.33,2,147288.66,0.28,106047.84,Credit Card,Returned,2024-04-25,4,2,2024,1,0
+ORD10334,Amanda Hart,mark55@example.org,Delhi,Books,Self Help Book,756.48,4,3025.92,0.0,3025.92,UPI,Returned,2024-11-10,11,4,2024,1,0
+ORD10335,Kevin Bell,starkjoshua@example.net,Delhi,Food & Beverage,Protein Bar,593.41,3,1780.23,0.21,1406.38,Cash on Delivery,Delivered,2024-05-31,5,2,2024,0,0
+ORD10336,Charles Hill,kenneth06@example.net,Mumbai,Food & Beverage,Protein Bar,612.7,1,612.7,0.02,600.45,Credit Card,Delivered,2024-12-04,12,4,2024,0,0
+ORD10337,Deborah Tucker,tguzman@example.org,Bengaluru,Electronics,Headphones,56141.01,5,280705.05,0.11,249827.49,Debit Card,Delivered,2024-03-06,3,1,2024,0,0
+ORD10338,Kelsey Weaver,jennifer74@example.net,Chennai,Clothing,T-Shirt,4429.07,2,8858.14,0.02,8680.98,Debit Card,Cancelled,2024-11-11,11,4,2024,0,1
+ORD10339,Tammy Perkins,jacksontiffany@example.org,Jaipur,Electronics,Headphones,19745.94,5,98729.7,0.13,85894.84,Debit Card,Cancelled,2024-09-27,9,3,2024,0,1
+ORD10340,Kristin Haney,amanda20@example.com,Surat,Books,Novel,606.82,1,606.82,0.14,521.87,UPI,Returned,2024-01-26,1,1,2024,1,0
+ORD10341,Michael Long,wayneayers@example.net,Ahmedabad,Clothing,Jacket,2526.96,1,2526.96,0.24,1920.49,UPI,Delivered,2024-04-02,4,2,2024,0,0
+ORD10342,Michael Fitzpatrick,vjohnson@example.com,Kolkata,Clothing,Jacket,2650.85,3,7952.55,0.11,7077.77,Net Banking,Delivered,2024-05-03,5,2,2024,0,0
+ORD10343,Wendy Wallace,benjaminstephens@example.net,Delhi,Electronics,Headphones,67265.16,1,67265.16,0.12,59193.34,Debit Card,Cancelled,2024-11-15,11,4,2024,0,1
+ORD10344,Victoria Lopez,omarhumphrey@example.org,Hyderabad,Food & Beverage,Protein Bar,719.73,4,2878.92,0.24,2187.98,UPI,Delivered,2024-10-14,10,4,2024,0,0
+ORD10345,Kristina Conley,benjaminblackburn@example.net,Jaipur,Food & Beverage,Coffee Beans,617.38,4,2469.52,0.18,2025.01,UPI,Delivered,2024-08-24,8,3,2024,0,0
+ORD10346,Anna Chapman,tracey22@example.com,Bengaluru,Home & Kitchen,Coffee Maker,12914.01,1,12914.01,0.15,10976.91,Cash on Delivery,Delivered,2024-06-16,6,2,2024,0,0
+ORD10347,Corey Velasquez,daniel01@example.org,Delhi,Clothing,Sneakers,2057.95,4,8231.8,0.06,7737.89,UPI,Delivered,2024-02-29,2,1,2024,0,0
+ORD10348,Melissa Oconnor,cindy82@example.org,Chennai,Food & Beverage,Cookies,405.24,4,1620.96,0.29,1150.88,Debit Card,Delivered,2024-09-29,9,3,2024,0,0
+ORD10349,Joseph Perkins,efarrell@example.net,Bengaluru,Electronics,Headphones,62744.15,3,188232.45,0.18,154350.61,Debit Card,Cancelled,2024-08-20,8,3,2024,0,1
+ORD10350,Nancy Jordan,robertclark@example.net,Surat,Books,Python Guide,583.59,3,1750.77,0.16,1470.65,Credit Card,Delivered,2024-03-27,3,1,2024,0,0
+ORD10351,Victoria Franco,philip55@example.com,Surat,Books,Cook Book,742.51,4,2970.04,0.08,2732.44,Cash on Delivery,Returned,2024-09-11,9,3,2024,1,0
+ORD10352,Lori Goodman,marshalldylan@example.net,Surat,Home & Kitchen,Knife Set,6387.48,1,6387.48,0.01,6323.61,Net Banking,Returned,2024-01-20,1,1,2024,1,0
+ORD10353,Kristen Howard,anthonymatthews@example.com,Chennai,Home & Kitchen,Coffee Maker,6628.71,3,19886.13,0.02,19488.41,UPI,Delivered,2024-03-30,3,1,2024,0,0
+ORD10354,Ryan Collins,ymontgomery@example.net,Pune,Books,Data Science Handbook,502.94,5,2514.7,0.26,1860.88,Net Banking,Cancelled,2024-04-15,4,2,2024,0,1
+ORD10355,Dale Cabrera,gardnergregory@example.com,Bengaluru,Food & Beverage,Coffee Beans,636.47,3,1909.41,0.05,1813.94,UPI,Delivered,2024-12-01,12,4,2024,0,0
+ORD10356,Javier Hawkins,smithmaurice@example.org,Surat,Electronics,Smartphone,70110.69,3,210332.07,0.01,208228.75,Debit Card,Cancelled,2024-09-03,9,3,2024,0,1
+ORD10357,Alexandria Harris,tstokes@example.com,Hyderabad,Books,Cook Book,348.32,2,696.64,0.08,640.91,Net Banking,Delivered,2024-08-22,8,3,2024,0,0
+ORD10358,Haley Miller,carrie88@example.com,Hyderabad,Electronics,Headphones,6596.81,5,32984.05,0.12,29025.96,Debit Card,Cancelled,2024-09-18,9,3,2024,0,1
+ORD10359,Stephanie White,riveraaaron@example.net,Bengaluru,Food & Beverage,Protein Bar,156.85,2,313.7,0.23,241.55,Net Banking,Delivered,2024-04-17,4,2,2024,0,0
+ORD10360,Michael Hawkins,amandaberry@example.org,Mumbai,Books,Novel,961.74,3,2885.22,0.25,2163.91,Debit Card,Delivered,2024-12-31,12,4,2024,0,0
+ORD10361,Jennifer Mills,jaredvelasquez@example.org,Ahmedabad,Electronics,Headphones,69364.76,5,346823.8,0.24,263586.09,Debit Card,Delivered,2024-11-20,11,4,2024,0,0
+ORD10362,Ryan Gates,victoriacarter@example.org,Surat,Clothing,Sneakers,2514.39,4,10057.56,0.14,8649.5,Net Banking,Delivered,2024-01-17,1,1,2024,0,0
+ORD10363,Melinda Torres,huynhangela@example.org,Kolkata,Electronics,Tablet,15732.95,1,15732.95,0.19,12743.69,Credit Card,Returned,2024-10-19,10,4,2024,1,0
+ORD10364,David Adams,hcoleman@example.com,Hyderabad,Food & Beverage,Cookies,133.65,4,534.6,0.1,481.14,Cash on Delivery,Delivered,2024-01-18,1,1,2024,0,0
+ORD10365,Cory Hardy,susanhodges@example.net,Chennai,Clothing,Jeans,845.32,5,4226.6,0.07,3930.74,Cash on Delivery,Cancelled,2024-01-02,1,1,2024,0,1
+ORD10366,Robin Campos,angela18@example.net,Bengaluru,Electronics,Smartwatch,7835.53,2,15671.06,0.12,13790.53,Credit Card,Cancelled,2024-02-16,2,1,2024,0,1
+ORD10367,Willie Rodriguez,barrybrandon@example.net,Surat,Electronics,Laptop,43514.73,2,87029.46,0.13,75715.63,Credit Card,Delivered,2024-07-26,7,3,2024,0,0
+ORD10368,Jared Swanson,wgray@example.net,Bengaluru,Books,Data Science Handbook,915.55,5,4577.75,0.28,3295.98,Cash on Delivery,Delivered,2024-11-04,11,4,2024,0,0
+ORD10369,Kimberly Mcdaniel,wjones@example.org,Pune,Clothing,Jeans,2642.82,1,2642.82,0.21,2087.83,UPI,Delivered,2024-01-09,1,1,2024,0,0
+ORD10370,Kathryn Wheeler,johnrodriguez@example.org,Ahmedabad,Clothing,Jacket,3288.88,5,16444.4,0.1,14799.96,Debit Card,Returned,2024-11-03,11,4,2024,1,0
+ORD10371,Julie Huffman,susanlambert@example.net,Mumbai,Clothing,Dress,2836.95,3,8510.85,0.26,6298.03,UPI,Delivered,2024-04-14,4,2,2024,0,0
+ORD10372,Fernando Williams,sarah65@example.net,Ahmedabad,Books,Novel,149.36,2,298.72,0.1,268.85,Net Banking,Delivered,2024-10-17,10,4,2024,0,0
+ORD10373,Michelle Johnson,amandakoch@example.net,Ahmedabad,Books,Cook Book,575.05,3,1725.15,0.26,1276.61,UPI,Returned,2024-12-03,12,4,2024,1,0
+ORD10374,Stacey Jones,moyerkaren@example.org,Delhi,Home & Kitchen,Air Fryer,8700.08,2,17400.16,0.06,16356.15,UPI,Delivered,2024-02-15,2,1,2024,0,0
+ORD10375,Jacob Price,kimberlywheeler@example.com,Jaipur,Electronics,Smartwatch,60346.2,4,241384.8,0.05,229315.56,Credit Card,Cancelled,2024-11-26,11,4,2024,0,1
+ORD10376,Brittany Mullen,jennifer17@example.org,Hyderabad,Home & Kitchen,Knife Set,1803.59,1,1803.59,0.08,1659.3,Credit Card,Delivered,2024-12-26,12,4,2024,0,0
+ORD10377,Natalie Hunt,jessicadavila@example.com,Kolkata,Books,Self Help Book,507.6,1,507.6,0.12,446.69,Net Banking,Cancelled,2024-05-28,5,2,2024,0,1
+ORD10378,Cynthia Irwin,richardsonveronica@example.org,Kolkata,Clothing,Jeans,1513.32,4,6053.28,0.13,5266.35,Net Banking,Delivered,2024-05-21,5,2,2024,0,0
+ORD10379,Whitney Taylor,wjones@example.net,Mumbai,Food & Beverage,Coffee Beans,262.32,4,1049.28,0.09,954.84,Cash on Delivery,Delivered,2024-08-28,8,3,2024,0,0
+ORD10380,Lisa Walker,rgreen@example.com,Chennai,Clothing,Jeans,2421.97,2,4843.94,0.16,4068.91,Credit Card,Delivered,2024-07-19,7,3,2024,0,0
+ORD10381,Omar Moore,crodriguez@example.org,Jaipur,Clothing,Dress,2530.48,5,12652.4,0.27,9236.25,Net Banking,Delivered,2024-12-12,12,4,2024,0,0
+ORD10382,Justin Watson,archerjohn@example.net,Hyderabad,Books,Novel,520.39,3,1561.17,0.07,1451.89,Credit Card,Returned,2024-05-14,5,2,2024,1,0
+ORD10383,Michael Doyle,angela49@example.net,Surat,Food & Beverage,Green Tea,311.61,1,311.61,0.11,277.33,Cash on Delivery,Cancelled,2024-01-14,1,1,2024,0,1
+ORD10384,Lori Wilson,benjaminfowler@example.org,Kolkata,Clothing,Sneakers,4325.57,4,17302.28,0.05,16437.17,Net Banking,Delivered,2024-06-30,6,2,2024,0,0
+ORD10385,Amanda Reed,smorales@example.org,Surat,Clothing,Dress,3864.48,1,3864.48,0.27,2821.07,Net Banking,Cancelled,2024-03-19,3,1,2024,0,1
+ORD10386,Pamela Buckley,perezsteven@example.org,Hyderabad,Electronics,Laptop,10859.59,5,54297.95,0.18,44524.32,Debit Card,Delivered,2024-11-26,11,4,2024,0,0
+ORD10387,Robert Duncan,frodriguez@example.net,Pune,Home & Kitchen,Coffee Maker,2529.44,3,7588.32,0.18,6222.42,Net Banking,Delivered,2024-03-21,3,1,2024,0,0
+ORD10388,Victor Jones,halepatricia@example.org,Surat,Electronics,Headphones,44736.76,1,44736.76,0.2,35789.41,Net Banking,Returned,2024-07-07,7,3,2024,1,0
+ORD10389,Michelle Hall,johnsmith@example.com,Jaipur,Food & Beverage,Energy Drink,289.44,2,578.88,0.2,463.1,UPI,Cancelled,2024-01-06,1,1,2024,0,1
+ORD10390,Ryan Johnson,stevensonalex@example.org,Delhi,Electronics,Laptop,28760.4,5,143802.0,0.21,113603.58,Net Banking,Delivered,2024-04-25,4,2,2024,0,0
+ORD10391,Paula Pratt,clarkreginald@example.net,Pune,Electronics,Tablet,28744.3,5,143721.5,0.09,130786.57,Net Banking,Returned,2024-09-10,9,3,2024,1,0
+ORD10392,Jesse Johnson,qevans@example.net,Delhi,Home & Kitchen,Air Fryer,10042.32,4,40169.28,0.08,36955.74,Debit Card,Delivered,2024-05-11,5,2,2024,0,0
+ORD10393,Richard Rogers,ndiaz@example.com,Bengaluru,Home & Kitchen,Blender,7190.61,2,14381.22,0.15,12224.04,Cash on Delivery,Returned,2024-08-27,8,3,2024,1,0
+ORD10394,Joseph Woods,flynntimothy@example.com,Hyderabad,Clothing,Jacket,1502.08,4,6008.32,0.3,4205.82,UPI,Delivered,2024-09-07,9,3,2024,0,0
+ORD10395,Joshua Thompson,jeremiahcollins@example.net,Jaipur,Home & Kitchen,Coffee Maker,1014.9,3,3044.7,0.25,2283.52,Debit Card,Delivered,2024-12-31,12,4,2024,0,0
+ORD10396,Nicole Smith,christopher90@example.org,Jaipur,Books,Self Help Book,458.92,5,2294.6,0.16,1927.46,UPI,Delivered,2024-12-19,12,4,2024,0,0
+ORD10397,Amber Campbell,kathy19@example.com,Surat,Home & Kitchen,Blender,12837.2,4,51348.8,0.06,48267.87,Credit Card,Cancelled,2024-08-25,8,3,2024,0,1
+ORD10398,Christopher Wright,gallen@example.org,Pune,Clothing,Sneakers,4405.89,4,17623.56,0.06,16566.15,Cash on Delivery,Returned,2024-05-13,5,2,2024,1,0
+ORD10399,Maria Robinson,gutierrezscott@example.net,Bengaluru,Clothing,T-Shirt,4594.61,2,9189.22,0.22,7167.59,Net Banking,Returned,2024-03-17,3,1,2024,1,0
+ORD10400,Diana Collins,jessicatanner@example.net,Mumbai,Home & Kitchen,Blender,13917.81,1,13917.81,0.07,12943.56,Net Banking,Delivered,2024-04-04,4,2,2024,0,0
+ORD10401,Randy Perry,jshannon@example.net,Pune,Electronics,Smartwatch,65801.28,2,131602.56,0.22,102650.0,Credit Card,Delivered,2024-11-18,11,4,2024,0,0
+ORD10402,Sarah Foster,stanleytimothy@example.com,Pune,Clothing,Sneakers,3973.19,4,15892.76,0.21,12555.28,Credit Card,Delivered,2024-10-06,10,4,2024,0,0
+ORD10403,Scott Villegas,gbrooks@example.org,Pune,Clothing,Jeans,3970.33,3,11910.99,0.28,8575.91,Debit Card,Delivered,2024-10-04,10,4,2024,0,0
+ORD10404,Sarah Webster,krista46@example.net,Hyderabad,Food & Beverage,Coffee Beans,517.1,4,2068.4,0.16,1737.46,Debit Card,Cancelled,2024-10-08,10,4,2024,0,1
+ORD10405,Cynthia Jones,april21@example.org,Chennai,Books,Cook Book,229.0,2,458.0,0.04,439.68,UPI,Delivered,2024-05-06,5,2,2024,0,0
+ORD10406,Angela Brown,jeffrey84@example.com,Chennai,Food & Beverage,Coffee Beans,455.94,2,911.88,0.01,902.76,UPI,Cancelled,2024-11-12,11,4,2024,0,1
+ORD10407,Brittney Rios,joelbrewer@example.com,Hyderabad,Home & Kitchen,Blender,8015.61,4,32062.44,0.18,26291.2,Debit Card,Delivered,2024-09-20,9,3,2024,0,0
+ORD10408,Michael Romero,morrisgeorge@example.net,Jaipur,Electronics,Smartwatch,63594.17,2,127188.34,0.08,117013.27,Credit Card,Delivered,2024-07-16,7,3,2024,0,0
+ORD10409,Michael Weaver,robert45@example.net,Bengaluru,Electronics,Smartwatch,7335.76,1,7335.76,0.1,6602.18,Net Banking,Delivered,2024-03-07,3,1,2024,0,0
+ORD10410,Zachary Bailey,greerearl@example.org,Mumbai,Food & Beverage,Cookies,336.72,3,1010.16,0.09,919.25,Cash on Delivery,Delivered,2024-02-16,2,1,2024,0,0
+ORD10411,Rachel Myers,jennifer48@example.com,Bengaluru,Clothing,Jeans,508.62,4,2034.48,0.05,1932.76,Net Banking,Cancelled,2024-04-03,4,2,2024,0,1
+ORD10412,Raymond Ford,alexis19@example.org,Bengaluru,Electronics,Laptop,45040.34,3,135121.02,0.18,110799.24,Credit Card,Delivered,2024-12-02,12,4,2024,0,0
+ORD10413,Jessica Scott,stephaniekane@example.net,Delhi,Electronics,Laptop,36385.89,5,181929.45,0.15,154640.03,UPI,Delivered,2024-10-30,10,4,2024,0,0
+ORD10414,Gregory Hernandez,hgutierrez@example.net,Delhi,Books,Cook Book,902.08,3,2706.24,0.02,2652.12,Cash on Delivery,Cancelled,2024-03-03,3,1,2024,0,1
+ORD10415,Miranda Davis,mary77@example.net,Delhi,Electronics,Headphones,66147.62,1,66147.62,0.26,48949.24,Credit Card,Delivered,2024-01-18,1,1,2024,0,0
+ORD10416,Jennifer Moore,shannon88@example.org,Jaipur,Clothing,T-Shirt,3480.62,1,3480.62,0.25,2610.47,Credit Card,Delivered,2024-02-21,2,1,2024,0,0
+ORD10417,James Carter,terrelljacqueline@example.org,Ahmedabad,Clothing,Jeans,4805.56,4,19222.24,0.14,16531.13,Net Banking,Delivered,2024-09-16,9,3,2024,0,0
+ORD10418,Brad Roberts,mistybryant@example.com,Hyderabad,Food & Beverage,Green Tea,726.15,2,1452.3,0.19,1176.36,Credit Card,Delivered,2024-01-28,1,1,2024,0,0
+ORD10419,Miranda Cooke,ericabenton@example.org,Surat,Books,Python Guide,618.88,5,3094.4,0.23,2382.69,Credit Card,Returned,2024-07-19,7,3,2024,1,0
+ORD10420,Jeffrey Wright,gouldcourtney@example.net,Ahmedabad,Clothing,Dress,3134.48,5,15672.4,0.02,15358.95,Credit Card,Delivered,2024-07-10,7,3,2024,0,0
+ORD10421,Alexis Campos,parkedward@example.org,Hyderabad,Clothing,Jeans,2543.33,3,7629.99,0.25,5722.49,Net Banking,Delivered,2024-02-11,2,1,2024,0,0
+ORD10422,Heather Johnson,lgallagher@example.net,Ahmedabad,Clothing,Jeans,3553.09,1,3553.09,0.06,3339.9,Debit Card,Delivered,2024-05-25,5,2,2024,0,0
+ORD10423,Melody Neal,nfinley@example.com,Hyderabad,Home & Kitchen,Air Fryer,14013.78,5,70068.9,0.18,57456.5,Debit Card,Delivered,2024-04-16,4,2,2024,0,0
+ORD10424,Kathleen Flores,bonnieparker@example.com,Delhi,Home & Kitchen,Toaster,5480.56,1,5480.56,0.21,4329.64,Cash on Delivery,Delivered,2024-07-19,7,3,2024,0,0
+ORD10425,William Lawrence,michaelstevens@example.net,Bengaluru,Home & Kitchen,Toaster,12467.94,5,62339.7,0.01,61716.3,Credit Card,Delivered,2024-11-03,11,4,2024,0,0
+ORD10426,Mckenzie Buck,wyatttoni@example.com,Jaipur,Electronics,Headphones,70890.33,2,141780.66,0.2,113424.53,Credit Card,Delivered,2024-02-24,2,1,2024,0,0
+ORD10427,Jill Jackson,nicoleflynn@example.com,Pune,Electronics,Laptop,17605.47,4,70421.88,0.2,56337.5,Net Banking,Delivered,2024-01-04,1,1,2024,0,0
+ORD10428,Abigail Cordova DDS,stephanierosales@example.org,Kolkata,Books,Self Help Book,521.98,1,521.98,0.09,475.0,UPI,Delivered,2024-04-06,4,2,2024,0,0
+ORD10429,Shannon Solomon,scottkathleen@example.net,Surat,Home & Kitchen,Blender,8099.75,5,40498.75,0.08,37258.85,Debit Card,Cancelled,2024-01-29,1,1,2024,0,1
+ORD10430,Andrew Munoz,jilltorres@example.net,Ahmedabad,Books,Cook Book,740.13,2,1480.26,0.22,1154.6,Cash on Delivery,Delivered,2024-11-28,11,4,2024,0,0
+ORD10431,Danielle Bates MD,annrogers@example.org,Chennai,Electronics,Headphones,56085.97,5,280429.85,0.19,227148.18,Credit Card,Delivered,2024-07-12,7,3,2024,0,0
+ORD10432,Jermaine Nash,samantha19@example.org,Hyderabad,Clothing,Jeans,1012.09,3,3036.27,0.16,2550.47,Cash on Delivery,Cancelled,2024-04-03,4,2,2024,0,1
+ORD10433,Andrea Smith,elizabethharvey@example.org,Mumbai,Electronics,Smartphone,56898.21,3,170694.63,0.12,150211.27,UPI,Returned,2024-06-21,6,2,2024,1,0
+ORD10434,Tabitha May,hillerin@example.net,Ahmedabad,Home & Kitchen,Toaster,2784.51,3,8353.53,0.13,7267.57,Debit Card,Delivered,2024-01-13,1,1,2024,0,0
+ORD10435,Leslie Munoz,carolynbarton@example.net,Jaipur,Food & Beverage,Coffee Beans,300.02,2,600.04,0.26,444.03,UPI,Delivered,2024-09-29,9,3,2024,0,0
+ORD10436,Nicole Holt,tfrazier@example.net,Kolkata,Electronics,Smartphone,21671.54,1,21671.54,0.05,20587.96,Cash on Delivery,Cancelled,2024-02-20,2,1,2024,0,1
+ORD10437,John Brown,kristen60@example.org,Chennai,Clothing,Jeans,3514.2,4,14056.8,0.09,12791.69,Cash on Delivery,Delivered,2024-01-17,1,1,2024,0,0
+ORD10438,David Wallace,bwilliams@example.com,Surat,Books,Novel,504.18,3,1512.54,0.02,1482.29,Credit Card,Cancelled,2024-06-22,6,2,2024,0,1
+ORD10439,Heather Reed,mitchellanthony@example.org,Pune,Clothing,Sneakers,4663.96,1,4663.96,0.16,3917.73,Debit Card,Delivered,2024-09-22,9,3,2024,0,0
+ORD10440,Darren Miller,melissakey@example.com,Kolkata,Electronics,Smartwatch,79782.99,5,398914.95,0.14,343066.86,Net Banking,Returned,2024-03-07,3,1,2024,1,0
+ORD10441,Walter Mccann,jeffreypage@example.com,Mumbai,Books,Data Science Handbook,537.75,5,2688.75,0.09,2446.76,Credit Card,Delivered,2024-06-21,6,2,2024,0,0
+ORD10442,Shannon Carpenter,tina81@example.net,Jaipur,Home & Kitchen,Blender,14817.58,1,14817.58,0.1,13335.82,Debit Card,Cancelled,2024-10-07,10,4,2024,0,1
+ORD10443,Sarah Thompson,qparker@example.org,Hyderabad,Clothing,Jacket,3745.54,5,18727.7,0.16,15731.27,Debit Card,Returned,2024-09-04,9,3,2024,1,0
+ORD10444,Michael Chang,eric21@example.net,Jaipur,Electronics,Smartwatch,59356.91,3,178070.73,0.24,135333.75,Credit Card,Cancelled,2024-03-22,3,1,2024,0,1
+ORD10445,Nicole Moore,karen35@example.org,Kolkata,Clothing,Dress,3969.53,5,19847.65,0.01,19649.17,UPI,Cancelled,2024-04-26,4,2,2024,0,1
+ORD10446,Robert Cardenas,zallison@example.com,Ahmedabad,Food & Beverage,Protein Bar,672.42,1,672.42,0.07,625.35,Cash on Delivery,Delivered,2024-12-11,12,4,2024,0,0
+ORD10447,Isaac Welch,saraharris@example.net,Ahmedabad,Electronics,Smartphone,12392.07,3,37176.21,0.03,36060.92,Debit Card,Delivered,2024-01-29,1,1,2024,0,0
+ORD10448,Brandon Griffin,christopherward@example.net,Jaipur,Food & Beverage,Energy Drink,759.07,3,2277.21,0.25,1707.91,Cash on Delivery,Delivered,2024-04-16,4,2,2024,0,0
+ORD10449,Amber Robinson,kristinelopez@example.com,Surat,Home & Kitchen,Coffee Maker,9107.97,1,9107.97,0.0,9107.97,Credit Card,Delivered,2024-11-17,11,4,2024,0,0
+ORD10450,Amanda Bailey,jimenezsteven@example.org,Chennai,Electronics,Headphones,54135.27,1,54135.27,0.07,50345.8,Credit Card,Returned,2024-02-08,2,1,2024,1,0
+ORD10451,Nancy Pratt,wruiz@example.org,Surat,Clothing,Jeans,4516.2,5,22581.0,0.17,18742.23,Cash on Delivery,Delivered,2024-10-13,10,4,2024,0,0
+ORD10452,Ashley Smith,zmartinez@example.net,Jaipur,Home & Kitchen,Blender,14658.9,2,29317.8,0.23,22574.71,Cash on Delivery,Delivered,2024-03-20,3,1,2024,0,0
+ORD10453,Danielle Burns,thomasmegan@example.org,Kolkata,Electronics,Headphones,73274.47,3,219823.41,0.11,195642.83,Cash on Delivery,Returned,2024-02-29,2,1,2024,1,0
+ORD10454,Zachary Davis,michaelbrown@example.net,Hyderabad,Electronics,Smartphone,51274.24,1,51274.24,0.2,41019.39,Credit Card,Returned,2024-02-24,2,1,2024,1,0
+ORD10455,Alison Crawford,petersenrichard@example.org,Jaipur,Home & Kitchen,Blender,3661.64,3,10984.92,0.23,8458.39,Cash on Delivery,Delivered,2024-07-12,7,3,2024,0,0
+ORD10456,Nicholas Monroe,brent82@example.org,Surat,Electronics,Headphones,19785.05,3,59355.15,0.09,54013.19,Debit Card,Delivered,2024-06-08,6,2,2024,0,0
+ORD10457,Steven Cooper,susan32@example.net,Chennai,Electronics,Tablet,32129.75,5,160648.75,0.16,134944.95,Debit Card,Delivered,2024-05-23,5,2,2024,0,0
+ORD10458,Morgan Taylor,stephenroth@example.net,Mumbai,Books,Cook Book,697.84,1,697.84,0.03,676.9,UPI,Delivered,2024-04-03,4,2,2024,0,0
+ORD10459,Aaron Barnes,turnerlisa@example.net,Mumbai,Food & Beverage,Green Tea,640.53,5,3202.65,0.06,3010.49,Debit Card,Delivered,2024-05-10,5,2,2024,0,0
+ORD10460,Mr. Aaron Scott,mataerik@example.org,Mumbai,Electronics,Smartwatch,71819.36,5,359096.8,0.11,319596.15,UPI,Cancelled,2024-01-22,1,1,2024,0,1
+ORD10461,Cody Fisher,zbuckley@example.net,Ahmedabad,Books,Python Guide,264.71,5,1323.55,0.13,1151.49,Credit Card,Delivered,2024-02-22,2,1,2024,0,0
+ORD10462,David Warren,charles91@example.net,Delhi,Clothing,Jacket,3885.48,5,19427.4,0.17,16124.74,Credit Card,Delivered,2024-06-23,6,2,2024,0,0
+ORD10463,Barbara Price,richard14@example.org,Bengaluru,Home & Kitchen,Coffee Maker,5052.16,3,15156.48,0.04,14550.22,Debit Card,Delivered,2024-11-13,11,4,2024,0,0
+ORD10464,David Jones,danamartinez@example.net,Pune,Books,Cook Book,388.98,3,1166.94,0.27,851.87,Debit Card,Returned,2024-12-03,12,4,2024,1,0
+ORD10465,Katie Rogers,hellis@example.net,Mumbai,Food & Beverage,Green Tea,523.88,3,1571.64,0.18,1288.74,Net Banking,Cancelled,2024-04-23,4,2,2024,0,1
+ORD10466,Christopher Hill,ugreen@example.net,Ahmedabad,Home & Kitchen,Toaster,2295.5,2,4591.0,0.28,3305.52,Cash on Delivery,Cancelled,2024-08-19,8,3,2024,0,1
+ORD10467,Claudia Cameron,apowell@example.com,Surat,Home & Kitchen,Air Fryer,4916.29,3,14748.87,0.23,11356.63,Credit Card,Delivered,2024-04-16,4,2,2024,0,0
+ORD10468,Jessica Jennings,cassandra64@example.com,Kolkata,Books,Self Help Book,970.24,4,3880.96,0.15,3298.82,Credit Card,Cancelled,2024-12-27,12,4,2024,0,1
+ORD10469,Taylor Cummings,rnorman@example.net,Delhi,Electronics,Tablet,14676.37,4,58705.48,0.12,51660.82,Credit Card,Cancelled,2024-11-08,11,4,2024,0,1
+ORD10470,Logan Green,hollandbrandon@example.org,Bengaluru,Books,Novel,592.26,5,2961.3,0.12,2605.94,Net Banking,Delivered,2024-08-19,8,3,2024,0,0
+ORD10471,Teresa White,jonathanlee@example.net,Chennai,Books,Self Help Book,199.34,5,996.7,0.04,956.83,Net Banking,Cancelled,2024-02-06,2,1,2024,0,1
+ORD10472,Leslie White,kimberly43@example.org,Hyderabad,Electronics,Smartphone,58604.81,5,293024.05,0.09,266651.89,Credit Card,Delivered,2024-08-01,8,3,2024,0,0
+ORD10473,Daniel Potts,jacobschristine@example.com,Surat,Food & Beverage,Protein Bar,648.32,3,1944.96,0.28,1400.37,Debit Card,Returned,2024-05-10,5,2,2024,1,0
+ORD10474,David Brown,charlenehill@example.net,Bengaluru,Electronics,Smartwatch,6381.24,2,12762.48,0.08,11741.48,Credit Card,Cancelled,2024-11-25,11,4,2024,0,1
+ORD10475,Alexandra Franklin,tyler12@example.net,Hyderabad,Electronics,Smartwatch,42349.34,2,84698.68,0.2,67758.94,Cash on Delivery,Delivered,2024-07-15,7,3,2024,0,0
+ORD10476,Donald Miranda,katelynrobinson@example.net,Mumbai,Home & Kitchen,Toaster,5829.63,3,17488.89,0.06,16439.56,Net Banking,Delivered,2024-05-13,5,2,2024,0,0
+ORD10477,Katrina Higgins,jennifer53@example.net,Bengaluru,Home & Kitchen,Toaster,7761.47,2,15522.94,0.08,14281.1,Debit Card,Returned,2024-03-12,3,1,2024,1,0
+ORD10478,Cody Clarke,pwoodard@example.com,Hyderabad,Electronics,Tablet,62829.45,3,188488.35,0.07,175294.17,UPI,Delivered,2024-03-26,3,1,2024,0,0
+ORD10479,Jacqueline Larsen,erik82@example.com,Bengaluru,Electronics,Laptop,50551.96,4,202207.84,0.2,161766.27,Credit Card,Delivered,2024-03-28,3,1,2024,0,0
+ORD10480,David Blanchard,tinasmith@example.org,Mumbai,Electronics,Smartwatch,22197.4,3,66592.2,0.01,65926.28,Net Banking,Delivered,2024-08-18,8,3,2024,0,0
+ORD10481,James Becker,woodsdonald@example.com,Chennai,Electronics,Tablet,63693.59,3,191080.77,0.18,156686.23,Debit Card,Delivered,2024-08-02,8,3,2024,0,0
+ORD10482,Yolanda Fisher,belldavid@example.com,Jaipur,Books,Self Help Book,513.69,1,513.69,0.19,416.09,Net Banking,Delivered,2024-10-06,10,4,2024,0,0
+ORD10483,Victoria Stephenson,vargaslisa@example.net,Jaipur,Clothing,Jacket,3115.58,3,9346.74,0.16,7851.26,UPI,Delivered,2024-06-07,6,2,2024,0,0
+ORD10484,Abigail Jacobson,dillonjohnson@example.net,Kolkata,Clothing,T-Shirt,4825.97,1,4825.97,0.15,4102.07,Cash on Delivery,Returned,2024-07-18,7,3,2024,1,0
+ORD10485,Michael Morrow,jesse44@example.org,Delhi,Books,Novel,499.9,3,1499.7,0.29,1064.79,Net Banking,Delivered,2024-07-25,7,3,2024,0,0
+ORD10486,George Bruce,monicapalmer@example.net,Ahmedabad,Home & Kitchen,Knife Set,10979.67,5,54898.35,0.02,53800.38,Net Banking,Delivered,2024-09-17,9,3,2024,0,0
+ORD10487,Nicole Miller,hross@example.org,Pune,Home & Kitchen,Toaster,9327.12,4,37308.48,0.22,29100.61,Debit Card,Delivered,2024-06-12,6,2,2024,0,0
+ORD10488,Katherine Long,carpentergary@example.net,Mumbai,Electronics,Smartwatch,28534.09,3,85602.27,0.23,65913.75,Debit Card,Delivered,2024-08-04,8,3,2024,0,0
+ORD10489,Charles Brown,haydenmichael@example.net,Delhi,Books,Data Science Handbook,186.35,5,931.75,0.14,801.3,Cash on Delivery,Delivered,2024-12-17,12,4,2024,0,0
+ORD10490,Martin Jones,carlosmclean@example.net,Mumbai,Food & Beverage,Cookies,296.98,3,890.94,0.03,864.21,Net Banking,Delivered,2024-06-06,6,2,2024,0,0
+ORD10491,Jessica Carey,ojones@example.com,Surat,Books,Python Guide,939.31,1,939.31,0.12,826.59,UPI,Delivered,2024-04-26,4,2,2024,0,0
+ORD10492,Makayla Clark,robert84@example.org,Hyderabad,Food & Beverage,Cookies,198.71,1,198.71,0.24,151.02,Net Banking,Delivered,2024-02-13,2,1,2024,0,0
+ORD10493,Heather Grant,vanessa44@example.com,Jaipur,Electronics,Smartwatch,15981.13,2,31962.26,0.28,23012.83,Debit Card,Delivered,2024-06-21,6,2,2024,0,0
+ORD10494,David Graves,michellewatson@example.com,Chennai,Home & Kitchen,Toaster,9328.98,3,27986.94,0.13,24348.64,Debit Card,Delivered,2024-08-10,8,3,2024,0,0
+ORD10495,Bob Shepard,russellblake@example.com,Mumbai,Electronics,Laptop,44141.59,4,176566.36,0.25,132424.77,Debit Card,Returned,2024-05-07,5,2,2024,1,0
+ORD10496,Mark Johnson,robertsdavid@example.net,Ahmedabad,Books,Cook Book,779.57,4,3118.28,0.14,2681.72,Cash on Delivery,Returned,2024-11-16,11,4,2024,1,0
+ORD10497,Brandon Lynch,sandra39@example.com,Mumbai,Home & Kitchen,Knife Set,3005.16,2,6010.32,0.1,5409.29,Credit Card,Delivered,2024-08-03,8,3,2024,0,0
+ORD10498,Elizabeth Dunn,johnsonsarah@example.org,Chennai,Food & Beverage,Protein Bar,210.18,2,420.36,0.04,403.55,Debit Card,Cancelled,2024-12-08,12,4,2024,0,1
+ORD10499,Mitchell Mercado,campbelldominique@example.com,Delhi,Food & Beverage,Protein Bar,645.62,2,1291.24,0.04,1239.59,Cash on Delivery,Cancelled,2024-01-20,1,1,2024,0,1
+ORD10500,Kathy Jenkins,joshua23@example.org,Bengaluru,Clothing,T-Shirt,2874.6,5,14373.0,0.28,10348.56,UPI,Returned,2024-12-03,12,4,2024,1,0
+ORD10501,Jason Peterson,benjaminjones@example.com,Jaipur,Electronics,Smartwatch,72656.95,3,217970.85,0.02,213611.43,Cash on Delivery,Cancelled,2024-09-29,9,3,2024,0,1
+ORD10502,Erica Daniels,contrerasroger@example.org,Jaipur,Food & Beverage,Cookies,119.57,3,358.71,0.24,272.62,Cash on Delivery,Cancelled,2024-07-08,7,3,2024,0,1
+ORD10503,Karen Collins,ryan61@example.com,Chennai,Books,Self Help Book,759.67,3,2279.01,0.12,2005.53,Net Banking,Delivered,2024-06-01,6,2,2024,0,0
+ORD10504,Brandy Dyer,patriciafisher@example.net,Mumbai,Books,Cook Book,781.48,3,2344.44,0.05,2227.22,Debit Card,Cancelled,2024-06-18,6,2,2024,0,1
+ORD10505,Abigail Evans,jdavidson@example.net,Hyderabad,Electronics,Smartphone,19954.81,5,99774.05,0.1,89796.65,UPI,Delivered,2024-03-08,3,1,2024,0,0
+ORD10506,Tamara Salinas,anthonycook@example.org,Jaipur,Books,Self Help Book,229.54,3,688.62,0.2,550.9,Credit Card,Delivered,2024-07-13,7,3,2024,0,0
+ORD10507,Debra Zimmerman,megan65@example.org,Ahmedabad,Books,Data Science Handbook,355.05,3,1065.15,0.21,841.47,Net Banking,Returned,2024-07-26,7,3,2024,1,0
+ORD10508,Nicholas Dunn,amy66@example.com,Hyderabad,Clothing,Jacket,1089.43,4,4357.72,0.06,4096.26,Cash on Delivery,Delivered,2024-05-31,5,2,2024,0,0
+ORD10509,Kimberly Mann,scollins@example.net,Chennai,Home & Kitchen,Toaster,13506.58,2,27013.16,0.06,25392.37,UPI,Delivered,2024-09-19,9,3,2024,0,0
+ORD10510,Olivia Dunn,weberrobert@example.net,Bengaluru,Food & Beverage,Protein Bar,663.2,5,3316.0,0.06,3117.04,Cash on Delivery,Cancelled,2024-01-16,1,1,2024,0,1
+ORD10511,Kevin Smith,susanburton@example.net,Bengaluru,Electronics,Headphones,73849.19,2,147698.38,0.02,144744.41,Net Banking,Delivered,2024-03-17,3,1,2024,0,0
+ORD10512,Dr. Rachel Bishop,thomaskelly@example.net,Bengaluru,Books,Cook Book,747.14,3,2241.42,0.05,2129.35,UPI,Returned,2024-02-29,2,1,2024,1,0
+ORD10513,Bryan Rodriguez,rgray@example.org,Pune,Home & Kitchen,Coffee Maker,7320.06,4,29280.24,0.29,20788.97,Net Banking,Returned,2024-04-07,4,2,2024,1,0
+ORD10514,Brett Cisneros,hendricksnicole@example.org,Jaipur,Food & Beverage,Coffee Beans,352.66,1,352.66,0.03,342.08,Net Banking,Delivered,2024-05-18,5,2,2024,0,0
+ORD10515,Sean Kelly,julian24@example.org,Hyderabad,Books,Self Help Book,696.69,3,2090.07,0.02,2048.27,Credit Card,Delivered,2024-07-30,7,3,2024,0,0
+ORD10516,Tammy Snyder,pperez@example.com,Bengaluru,Books,Python Guide,768.31,3,2304.93,0.22,1797.85,Debit Card,Returned,2024-07-19,7,3,2024,1,0
+ORD10517,Linda Lester,hmiddleton@example.net,Jaipur,Home & Kitchen,Knife Set,6052.88,5,30264.4,0.2,24211.52,UPI,Delivered,2024-08-08,8,3,2024,0,0
+ORD10518,Christopher Lee,hjohnson@example.com,Surat,Books,Self Help Book,909.99,2,1819.98,0.25,1364.99,UPI,Delivered,2024-11-19,11,4,2024,0,0
+ORD10519,Daniel Robertson,billy04@example.com,Mumbai,Food & Beverage,Green Tea,330.32,3,990.96,0.13,862.14,Debit Card,Delivered,2024-04-03,4,2,2024,0,0
+ORD10520,Barry Clark,wolson@example.org,Surat,Food & Beverage,Coffee Beans,716.86,1,716.86,0.01,709.69,UPI,Cancelled,2024-05-22,5,2,2024,0,1
+ORD10521,Melanie Jones,choward@example.com,Mumbai,Books,Self Help Book,424.88,2,849.76,0.22,662.81,Net Banking,Returned,2024-11-12,11,4,2024,1,0
+ORD10522,Jennifer Gutierrez,fkramer@example.org,Mumbai,Food & Beverage,Energy Drink,490.92,4,1963.68,0.24,1492.4,Cash on Delivery,Returned,2024-09-03,9,3,2024,1,0
+ORD10523,Nicholas Hernandez,ashleymills@example.net,Mumbai,Electronics,Smartwatch,21608.62,5,108043.1,0.25,81032.33,Net Banking,Delivered,2024-12-18,12,4,2024,0,0
+ORD10524,Connie Baker,dylanoconnell@example.net,Bengaluru,Food & Beverage,Cookies,500.78,5,2503.9,0.24,1902.96,Debit Card,Returned,2024-03-23,3,1,2024,1,0
+ORD10525,Angela Hurst,lmcfarland@example.org,Chennai,Electronics,Laptop,18758.19,3,56274.57,0.26,41643.18,Net Banking,Cancelled,2024-06-24,6,2,2024,0,1
+ORD10526,Alison Anderson,emily73@example.com,Surat,Electronics,Smartphone,8210.23,5,41051.15,0.17,34072.45,Credit Card,Cancelled,2024-12-03,12,4,2024,0,1
+ORD10527,Jason Thomas,christopher45@example.org,Jaipur,Books,Python Guide,504.24,1,504.24,0.13,438.69,UPI,Delivered,2024-08-09,8,3,2024,0,0
+ORD10528,Rachel Carney,qcobb@example.org,Mumbai,Electronics,Headphones,60863.6,5,304318.0,0.25,228238.5,Debit Card,Delivered,2024-07-06,7,3,2024,0,0
+ORD10529,Randy Wright,rachelthomas@example.net,Kolkata,Books,Novel,680.62,2,1361.24,0.28,980.09,Debit Card,Cancelled,2024-01-17,1,1,2024,0,1
+ORD10530,Natalie Lane,stephaniestone@example.net,Pune,Home & Kitchen,Toaster,5909.06,5,29545.3,0.14,25408.96,Credit Card,Returned,2024-11-05,11,4,2024,1,0
+ORD10531,Tammy Middleton,courtney04@example.com,Ahmedabad,Home & Kitchen,Air Fryer,13537.43,2,27074.86,0.17,22472.13,Debit Card,Returned,2024-09-24,9,3,2024,1,0
+ORD10532,Kim Livingston,ashley39@example.com,Delhi,Books,Cook Book,724.21,2,1448.42,0.17,1202.19,Net Banking,Returned,2024-06-27,6,2,2024,1,0
+ORD10533,Emily Cook,anthonydyer@example.org,Jaipur,Electronics,Tablet,21118.03,2,42236.06,0.17,35055.93,Debit Card,Cancelled,2024-11-14,11,4,2024,0,1
+ORD10534,Zachary Jordan,robertspencer@example.org,Kolkata,Clothing,Sneakers,2839.23,2,5678.46,0.04,5451.32,Debit Card,Cancelled,2024-05-19,5,2,2024,0,1
+ORD10535,Brandon Hampton,zfrost@example.net,Jaipur,Food & Beverage,Coffee Beans,496.22,1,496.22,0.28,357.28,Net Banking,Delivered,2024-10-07,10,4,2024,0,0
+ORD10536,Claire Walsh,cynthia88@example.net,Chennai,Electronics,Headphones,14915.93,2,29831.86,0.17,24760.44,Credit Card,Returned,2024-09-17,9,3,2024,1,0
+ORD10537,Courtney Hahn,stephaniescott@example.net,Chennai,Food & Beverage,Energy Drink,326.25,1,326.25,0.08,300.15,UPI,Delivered,2024-08-31,8,3,2024,0,0
+ORD10538,Vickie Walker,msoto@example.org,Ahmedabad,Books,Data Science Handbook,193.68,2,387.36,0.26,286.65,UPI,Delivered,2024-09-02,9,3,2024,0,0
+ORD10539,Matthew Hammond,glorialara@example.org,Jaipur,Food & Beverage,Green Tea,572.12,5,2860.6,0.09,2603.15,Net Banking,Delivered,2024-04-22,4,2,2024,0,0
+ORD10540,Michael Miller,kylefischer@example.org,Surat,Electronics,Smartwatch,38337.42,1,38337.42,0.21,30286.56,Debit Card,Delivered,2024-01-24,1,1,2024,0,0
+ORD10541,Frank Peterson,sanfordamanda@example.org,Surat,Books,Python Guide,334.87,2,669.74,0.05,636.25,Cash on Delivery,Returned,2024-10-29,10,4,2024,1,0
+ORD10542,Robert Carlson,jasonallen@example.org,Ahmedabad,Clothing,Jeans,3699.15,5,18495.75,0.05,17570.96,Credit Card,Delivered,2024-03-02,3,1,2024,0,0
+ORD10543,Terry Harris,keith35@example.com,Jaipur,Home & Kitchen,Knife Set,10640.21,3,31920.63,0.01,31601.42,Credit Card,Delivered,2024-08-29,8,3,2024,0,0
+ORD10544,Sara Gallegos,edward30@example.com,Hyderabad,Electronics,Headphones,31939.33,5,159696.65,0.3,111787.65,Net Banking,Cancelled,2024-03-07,3,1,2024,0,1
+ORD10545,David Wilson,gina08@example.net,Delhi,Books,Data Science Handbook,458.58,5,2292.9,0.02,2247.04,Net Banking,Delivered,2024-01-05,1,1,2024,0,0
+ORD10546,Laura Hill,mcisneros@example.com,Chennai,Clothing,Jeans,835.75,2,1671.5,0.24,1270.34,Net Banking,Cancelled,2024-12-05,12,4,2024,0,1
+ORD10547,Bryan Patel II,amysimpson@example.com,Chennai,Clothing,T-Shirt,2479.09,3,7437.27,0.1,6693.54,Cash on Delivery,Cancelled,2024-02-01,2,1,2024,0,1
+ORD10548,Kevin Hensley,lisajohnson@example.net,Delhi,Books,Self Help Book,764.29,2,1528.58,0.02,1498.01,Net Banking,Delivered,2024-01-04,1,1,2024,0,0
+ORD10549,James Robinson,hsalinas@example.com,Bengaluru,Home & Kitchen,Blender,13739.16,3,41217.48,0.12,36271.38,Credit Card,Delivered,2024-05-27,5,2,2024,0,0
+ORD10550,Stephanie Webster,angel65@example.com,Mumbai,Books,Self Help Book,157.0,4,628.0,0.23,483.56,UPI,Returned,2024-01-21,1,1,2024,1,0
+ORD10551,Nathan Ward,kristismith@example.net,Bengaluru,Books,Self Help Book,357.8,3,1073.4,0.03,1041.2,Cash on Delivery,Cancelled,2024-07-19,7,3,2024,0,1
+ORD10552,Jessica Harris,brookerodriguez@example.net,Hyderabad,Food & Beverage,Protein Bar,777.9,1,777.9,0.07,723.45,Debit Card,Delivered,2024-08-22,8,3,2024,0,0
+ORD10553,Derrick Mullen,christinamunoz@example.net,Delhi,Clothing,T-Shirt,1559.61,1,1559.61,0.01,1544.01,UPI,Returned,2024-01-05,1,1,2024,1,0
+ORD10554,Derrick Lee,hhampton@example.org,Kolkata,Books,Python Guide,523.45,2,1046.9,0.14,900.33,Credit Card,Delivered,2024-08-21,8,3,2024,0,0
+ORD10555,Joanna Boone,ndixon@example.com,Hyderabad,Home & Kitchen,Toaster,12174.97,2,24349.94,0.15,20697.45,UPI,Cancelled,2024-07-07,7,3,2024,0,1
+ORD10556,Tracy Johnson,davidroy@example.net,Pune,Home & Kitchen,Air Fryer,1782.45,4,7129.8,0.11,6345.52,Net Banking,Returned,2024-07-27,7,3,2024,1,0
+ORD10557,April Kennedy,joseph39@example.com,Delhi,Books,Novel,971.0,1,971.0,0.21,767.09,Cash on Delivery,Delivered,2024-12-01,12,4,2024,0,0
+ORD10558,Kenneth Gilbert,taylorduncan@example.org,Chennai,Home & Kitchen,Coffee Maker,5567.1,3,16701.3,0.19,13528.05,UPI,Delivered,2024-06-26,6,2,2024,0,0
+ORD10559,Neil Mendoza,kmartin@example.net,Surat,Electronics,Smartphone,38794.26,2,77588.52,0.25,58191.39,Net Banking,Delivered,2024-03-15,3,1,2024,0,0
+ORD10560,Randy Thomas,taylorchristopher@example.net,Bengaluru,Clothing,Jacket,3320.4,5,16602.0,0.02,16269.96,Debit Card,Cancelled,2024-12-18,12,4,2024,0,1
+ORD10561,Rodney Martinez,elliskarina@example.org,Surat,Electronics,Smartphone,23401.54,1,23401.54,0.13,20359.34,Net Banking,Delivered,2024-05-27,5,2,2024,0,0
+ORD10562,Pamela Stone,fmunoz@example.org,Pune,Home & Kitchen,Blender,14064.61,4,56258.44,0.1,50632.6,Cash on Delivery,Returned,2024-03-31,3,1,2024,1,0
+ORD10563,Benjamin Rodriguez,oshaw@example.com,Hyderabad,Books,Novel,142.53,1,142.53,0.18,116.87,UPI,Returned,2024-02-08,2,1,2024,1,0
+ORD10564,John Vazquez,kara84@example.net,Hyderabad,Home & Kitchen,Coffee Maker,1805.98,5,9029.9,0.07,8397.81,Debit Card,Returned,2024-08-24,8,3,2024,1,0
+ORD10565,Nicholas Jackson,xfields@example.org,Jaipur,Clothing,T-Shirt,3927.24,5,19636.2,0.01,19439.84,Debit Card,Delivered,2024-11-15,11,4,2024,0,0
+ORD10566,Rebecca Sanders,kevin55@example.net,Surat,Clothing,Sneakers,2679.32,4,10717.28,0.0,10717.28,Net Banking,Delivered,2024-09-29,9,3,2024,0,0
+ORD10567,Charles Hernandez,stevenfitzgerald@example.com,Surat,Clothing,Dress,4213.46,4,16853.84,0.24,12808.92,UPI,Cancelled,2024-02-28,2,1,2024,0,1
+ORD10568,Peter Wood,carolbryant@example.net,Kolkata,Food & Beverage,Energy Drink,229.22,1,229.22,0.07,213.17,Cash on Delivery,Returned,2024-06-26,6,2,2024,1,0
+ORD10569,Amanda Hernandez,matthew93@example.com,Surat,Electronics,Smartwatch,43199.05,5,215995.25,0.08,198715.63,Cash on Delivery,Delivered,2024-10-14,10,4,2024,0,0
+ORD10570,Christian Martin,thomas53@example.net,Pune,Food & Beverage,Energy Drink,745.02,4,2980.08,0.28,2145.66,UPI,Returned,2024-05-20,5,2,2024,1,0
+ORD10571,Carl Mason,seanbeck@example.com,Delhi,Books,Cook Book,824.6,4,3298.4,0.3,2308.88,Debit Card,Cancelled,2024-10-09,10,4,2024,0,1
+ORD10572,Jeffrey Sanchez,david82@example.com,Hyderabad,Books,Cook Book,155.51,4,622.04,0.21,491.41,Net Banking,Delivered,2024-05-24,5,2,2024,0,0
+ORD10573,Holly Sherman,ellisanna@example.net,Pune,Home & Kitchen,Blender,6790.13,2,13580.26,0.17,11271.62,Cash on Delivery,Cancelled,2024-05-21,5,2,2024,0,1
+ORD10574,Audrey Richmond,dylan94@example.org,Delhi,Home & Kitchen,Blender,13082.01,4,52328.04,0.27,38199.47,Debit Card,Returned,2024-01-11,1,1,2024,1,0
+ORD10575,Kyle Green,wolfejill@example.net,Chennai,Books,Cook Book,320.99,4,1283.96,0.3,898.77,UPI,Cancelled,2024-01-17,1,1,2024,0,1
+ORD10576,Kimberly Francis,craigcrystal@example.net,Pune,Home & Kitchen,Air Fryer,7660.39,1,7660.39,0.05,7277.37,Debit Card,Delivered,2024-08-12,8,3,2024,0,0
+ORD10577,Denise Cooper,jbradley@example.net,Pune,Electronics,Laptop,21870.5,3,65611.5,0.06,61674.81,UPI,Cancelled,2024-07-05,7,3,2024,0,1
+ORD10578,Robert Baker,victoria16@example.org,Hyderabad,Food & Beverage,Protein Bar,423.11,2,846.22,0.09,770.06,Net Banking,Delivered,2024-08-05,8,3,2024,0,0
+ORD10579,Omar Tate,andersonsarah@example.net,Pune,Clothing,T-Shirt,2105.0,4,8420.0,0.04,8083.2,Cash on Delivery,Delivered,2024-05-31,5,2,2024,0,0
+ORD10580,Lydia Clark,adamhall@example.org,Hyderabad,Clothing,Dress,1371.69,1,1371.69,0.05,1303.11,Cash on Delivery,Cancelled,2024-06-22,6,2,2024,0,1
+ORD10581,Terry Mcintosh,garciacrystal@example.org,Bengaluru,Home & Kitchen,Coffee Maker,9695.55,5,48477.75,0.23,37327.87,UPI,Delivered,2024-09-07,9,3,2024,0,0
+ORD10582,Kimberly Wise,kristiwalsh@example.org,Ahmedabad,Food & Beverage,Cookies,76.05,1,76.05,0.11,67.68,Net Banking,Cancelled,2024-09-17,9,3,2024,0,1
+ORD10583,Amanda Bailey,parkerlinda@example.org,Kolkata,Food & Beverage,Energy Drink,430.19,2,860.38,0.16,722.72,UPI,Returned,2024-11-30,11,4,2024,1,0
+ORD10584,Nicholas Dickerson,uwright@example.com,Kolkata,Clothing,Sneakers,3258.16,4,13032.64,0.04,12511.33,Debit Card,Cancelled,2024-09-25,9,3,2024,0,1
+ORD10585,Laura Terry,seanstone@example.net,Hyderabad,Books,Python Guide,895.62,4,3582.48,0.09,3260.06,UPI,Delivered,2024-02-08,2,1,2024,0,0
+ORD10586,Lucas King,gonzalesmichael@example.net,Jaipur,Books,Data Science Handbook,535.48,4,2141.92,0.09,1949.15,Cash on Delivery,Returned,2024-06-07,6,2,2024,1,0
+ORD10587,Chase Stark,christina46@example.org,Hyderabad,Food & Beverage,Cookies,98.51,2,197.02,0.16,165.5,Net Banking,Delivered,2024-01-26,1,1,2024,0,0
+ORD10588,Emma Valdez,ilopez@example.com,Delhi,Books,Self Help Book,926.47,2,1852.94,0.04,1778.82,Debit Card,Cancelled,2024-11-22,11,4,2024,0,1
+ORD10589,Shannon Jackson DVM,qharper@example.org,Ahmedabad,Electronics,Laptop,32820.43,4,131281.72,0.11,116840.73,Net Banking,Returned,2024-09-23,9,3,2024,1,0
+ORD10590,Michelle Bailey,rmorgan@example.com,Mumbai,Clothing,Sneakers,3946.62,5,19733.1,0.1,17759.79,Debit Card,Cancelled,2024-01-31,1,1,2024,0,1
+ORD10591,James Graham,kelly44@example.com,Jaipur,Clothing,Jeans,1777.39,4,7109.56,0.07,6611.89,UPI,Delivered,2024-01-30,1,1,2024,0,0
+ORD10592,Margaret Franco,vspencer@example.net,Chennai,Electronics,Headphones,6340.26,3,19020.78,0.27,13885.17,Cash on Delivery,Delivered,2024-06-14,6,2,2024,0,0
+ORD10593,Carrie Bradley,beckpaul@example.com,Bengaluru,Food & Beverage,Coffee Beans,172.72,1,172.72,0.09,157.18,Debit Card,Delivered,2024-12-05,12,4,2024,0,0
+ORD10594,Allison Ferguson,shawn33@example.com,Delhi,Books,Self Help Book,393.3,2,786.6,0.23,605.68,UPI,Delivered,2024-03-03,3,1,2024,0,0
+ORD10595,Christy Hale,kimberly15@example.net,Pune,Home & Kitchen,Toaster,11070.51,4,44282.04,0.24,33654.35,Cash on Delivery,Cancelled,2024-11-11,11,4,2024,0,1
+ORD10596,Kimberly Wilson,carolturner@example.net,Chennai,Clothing,Sneakers,3419.4,5,17097.0,0.19,13848.57,Debit Card,Delivered,2024-08-29,8,3,2024,0,0
+ORD10597,Lawrence Roach,cynthia91@example.org,Chennai,Clothing,Dress,4612.83,5,23064.15,0.27,16836.83,Cash on Delivery,Delivered,2024-01-12,1,1,2024,0,0
+ORD10598,Michael Delacruz,lowerymallory@example.com,Surat,Books,Python Guide,537.75,1,537.75,0.29,381.8,Debit Card,Delivered,2024-05-04,5,2,2024,0,0
+ORD10599,Eduardo Johnson,kimberlyburgess@example.net,Jaipur,Home & Kitchen,Coffee Maker,628.37,3,1885.11,0.23,1451.53,Debit Card,Delivered,2024-04-28,4,2,2024,0,0
+ORD10600,Lori Chapman,david61@example.net,Ahmedabad,Books,Self Help Book,483.04,3,1449.12,0.12,1275.23,Debit Card,Delivered,2024-05-28,5,2,2024,0,0
+ORD10601,Sue Oconnor,kelleykimberly@example.com,Ahmedabad,Clothing,Dress,2292.62,2,4585.24,0.0,4585.24,UPI,Delivered,2024-01-16,1,1,2024,0,0
+ORD10602,Shelley Williams,davidharris@example.net,Pune,Books,Self Help Book,346.38,2,692.76,0.18,568.06,Credit Card,Delivered,2024-04-13,4,2,2024,0,0
+ORD10603,Vincent Henderson,egordon@example.net,Hyderabad,Books,Novel,485.57,1,485.57,0.02,475.86,UPI,Delivered,2024-10-02,10,4,2024,0,0
+ORD10604,William Castro,steve19@example.org,Bengaluru,Clothing,Dress,3439.33,1,3439.33,0.12,3026.61,UPI,Delivered,2024-05-14,5,2,2024,0,0
+ORD10605,Tyler Ortega,turnerheather@example.net,Pune,Food & Beverage,Coffee Beans,611.68,1,611.68,0.02,599.45,Credit Card,Delivered,2024-02-04,2,1,2024,0,0
+ORD10606,Dr. Mary Morris,uhayes@example.net,Mumbai,Clothing,Jeans,3689.07,3,11067.21,0.02,10845.87,Cash on Delivery,Delivered,2024-04-16,4,2,2024,0,0
+ORD10607,Stacey Mayer,hallbrian@example.org,Kolkata,Home & Kitchen,Coffee Maker,5624.25,2,11248.5,0.13,9786.19,Net Banking,Delivered,2024-06-21,6,2,2024,0,0
+ORD10608,Jessica Payne,bethanymoody@example.org,Surat,Electronics,Smartphone,44609.88,5,223049.4,0.21,176209.03,Cash on Delivery,Delivered,2024-11-29,11,4,2024,0,0
+ORD10609,Jordan Becker,eugenemcgee@example.com,Mumbai,Clothing,Dress,1899.28,2,3798.56,0.21,3000.86,Net Banking,Delivered,2024-12-13,12,4,2024,0,0
+ORD10610,Erika Harris,robin32@example.com,Pune,Clothing,Jeans,3345.53,3,10036.59,0.06,9434.39,Cash on Delivery,Returned,2024-04-28,4,2,2024,1,0
+ORD10611,Timothy Turner,jennifer75@example.com,Bengaluru,Books,Cook Book,600.84,5,3004.2,0.26,2223.11,Debit Card,Cancelled,2024-06-20,6,2,2024,0,1
+ORD10612,Nicole Knox,anthony44@example.net,Jaipur,Food & Beverage,Cookies,694.37,2,1388.74,0.19,1124.88,Credit Card,Delivered,2024-10-23,10,4,2024,0,0
+ORD10613,Christina Perez,brooksalicia@example.com,Jaipur,Home & Kitchen,Blender,1575.27,2,3150.54,0.24,2394.41,Net Banking,Delivered,2024-02-02,2,1,2024,0,0
+ORD10614,Ashley Erickson,vritter@example.net,Hyderabad,Electronics,Tablet,12149.7,4,48598.8,0.07,45196.88,Debit Card,Delivered,2024-05-29,5,2,2024,0,0
+ORD10615,Catherine Williams,hartgreg@example.org,Pune,Clothing,Jeans,4226.31,3,12678.93,0.11,11284.25,UPI,Delivered,2024-02-17,2,1,2024,0,0
+ORD10616,Angela Smith,darrell55@example.org,Delhi,Food & Beverage,Protein Bar,749.34,4,2997.36,0.03,2907.44,Debit Card,Cancelled,2024-09-02,9,3,2024,0,1
+ORD10617,Jose Cameron,lindseyscott@example.com,Ahmedabad,Food & Beverage,Coffee Beans,766.35,3,2299.05,0.12,2023.16,Credit Card,Delivered,2024-06-14,6,2,2024,0,0
+ORD10618,Charles Salas,zstout@example.org,Delhi,Electronics,Smartwatch,63012.8,2,126025.6,0.03,122244.83,UPI,Cancelled,2024-08-06,8,3,2024,0,1
+ORD10619,Ricky Smith,arichardson@example.org,Mumbai,Books,Novel,179.96,5,899.8,0.22,701.84,Net Banking,Delivered,2024-04-29,4,2,2024,0,0
+ORD10620,Antonio Dawson,nbartlett@example.net,Surat,Books,Data Science Handbook,224.42,4,897.68,0.02,879.73,Credit Card,Delivered,2024-04-02,4,2,2024,0,0
+ORD10621,Adam Fisher,charlesfarmer@example.com,Chennai,Home & Kitchen,Blender,10247.64,4,40990.56,0.02,40170.75,UPI,Delivered,2024-02-07,2,1,2024,0,0
+ORD10622,Kathy Shepard,olsendaniel@example.net,Kolkata,Food & Beverage,Coffee Beans,295.94,1,295.94,0.08,272.26,Credit Card,Delivered,2024-09-01,9,3,2024,0,0
+ORD10623,Lisa Moss,michael46@example.net,Delhi,Electronics,Laptop,12873.29,2,25746.58,0.01,25489.11,Credit Card,Delivered,2024-11-13,11,4,2024,0,0
+ORD10624,Chelsea Cox,holdercourtney@example.net,Pune,Food & Beverage,Green Tea,535.7,2,1071.4,0.09,974.97,Cash on Delivery,Delivered,2024-08-10,8,3,2024,0,0
+ORD10625,Larry Brown,jonathan69@example.com,Hyderabad,Electronics,Tablet,24960.46,2,49920.92,0.0,49920.92,Credit Card,Delivered,2024-09-08,9,3,2024,0,0
+ORD10626,Edwin Anderson,pthomas@example.com,Ahmedabad,Electronics,Tablet,28823.46,4,115293.84,0.08,106070.33,Net Banking,Cancelled,2024-02-16,2,1,2024,0,1
+ORD10627,Bruce Miller,morrisjoseph@example.com,Ahmedabad,Clothing,T-Shirt,2370.63,1,2370.63,0.21,1872.8,Net Banking,Cancelled,2024-11-24,11,4,2024,0,1
+ORD10628,Matthew Yoder,brendachapman@example.net,Delhi,Electronics,Headphones,41437.95,4,165751.8,0.09,150834.14,Debit Card,Delivered,2024-09-17,9,3,2024,0,0
+ORD10629,Miranda Peters,wmckinney@example.org,Surat,Books,Self Help Book,619.15,5,3095.75,0.25,2321.81,Debit Card,Cancelled,2024-03-25,3,1,2024,0,1
+ORD10630,Andre Jordan,ncordova@example.org,Kolkata,Food & Beverage,Cookies,381.6,3,1144.8,0.11,1018.87,Debit Card,Returned,2024-01-15,1,1,2024,1,0
+ORD10631,Susan Miller,john34@example.org,Surat,Home & Kitchen,Knife Set,8282.7,4,33130.8,0.12,29155.1,UPI,Delivered,2024-01-31,1,1,2024,0,0
+ORD10632,Cathy Hopkins,alvaradojoseph@example.net,Mumbai,Electronics,Headphones,31414.29,5,157071.45,0.18,128798.59,UPI,Delivered,2024-07-10,7,3,2024,0,0
+ORD10633,Javier Mccann,jacobsonrachael@example.org,Kolkata,Electronics,Laptop,39065.48,2,78130.96,0.17,64848.7,Net Banking,Delivered,2024-12-26,12,4,2024,0,0
+ORD10634,Christopher Pennington,orios@example.com,Hyderabad,Books,Cook Book,264.63,1,264.63,0.12,232.87,Debit Card,Delivered,2024-02-25,2,1,2024,0,0
+ORD10635,Brian Cervantes,mcastillo@example.com,Chennai,Food & Beverage,Green Tea,363.13,3,1089.39,0.08,1002.24,Cash on Delivery,Cancelled,2024-12-23,12,4,2024,0,1
+ORD10636,Amy Green,sean34@example.org,Chennai,Home & Kitchen,Blender,4791.36,4,19165.44,0.08,17632.2,Net Banking,Delivered,2024-03-13,3,1,2024,0,0
+ORD10637,Todd Vazquez,noahjohnson@example.com,Mumbai,Electronics,Headphones,73905.13,3,221715.39,0.3,155200.77,Cash on Delivery,Delivered,2024-08-24,8,3,2024,0,0
+ORD10638,Sharon Schmidt,stephanie76@example.org,Mumbai,Home & Kitchen,Air Fryer,1658.77,3,4976.31,0.07,4627.97,Credit Card,Returned,2024-05-13,5,2,2024,1,0
+ORD10639,Lucas Campos,downsemily@example.net,Bengaluru,Clothing,Sneakers,1866.17,1,1866.17,0.13,1623.57,Cash on Delivery,Delivered,2024-04-09,4,2,2024,0,0
+ORD10640,Robert Nichols,whitakershelby@example.org,Surat,Home & Kitchen,Toaster,8065.93,4,32263.72,0.2,25810.98,Debit Card,Delivered,2024-01-01,1,1,2024,0,0
+ORD10641,Mitchell Martinez,grichards@example.org,Mumbai,Home & Kitchen,Knife Set,9412.08,1,9412.08,0.06,8847.36,Net Banking,Delivered,2024-11-28,11,4,2024,0,0
+ORD10642,Misty Garcia,megan34@example.net,Mumbai,Books,Self Help Book,421.7,5,2108.5,0.23,1623.55,Debit Card,Cancelled,2024-11-12,11,4,2024,0,1
+ORD10643,Amanda Myers,charles67@example.com,Jaipur,Home & Kitchen,Air Fryer,1594.45,2,3188.9,0.15,2710.57,Credit Card,Delivered,2024-12-02,12,4,2024,0,0
+ORD10644,Eric Kelly,cheryl74@example.com,Jaipur,Books,Data Science Handbook,633.0,4,2532.0,0.09,2304.12,Credit Card,Cancelled,2024-11-30,11,4,2024,0,1
+ORD10645,Bryan Anderson,alisonstevens@example.com,Surat,Electronics,Smartwatch,70185.89,5,350929.45,0.14,301799.33,Debit Card,Delivered,2024-04-24,4,2,2024,0,0
+ORD10646,Jimmy Gordon MD,ugonzalez@example.com,Chennai,Books,Cook Book,213.77,3,641.31,0.06,602.83,UPI,Returned,2024-08-05,8,3,2024,1,0
+ORD10647,Jordan Taylor,nsmith@example.com,Hyderabad,Books,Self Help Book,805.55,1,805.55,0.24,612.22,Net Banking,Delivered,2024-08-02,8,3,2024,0,0
+ORD10648,Arthur Vaughn,jose43@example.net,Mumbai,Electronics,Tablet,76675.54,4,306702.16,0.08,282165.99,Credit Card,Delivered,2024-11-14,11,4,2024,0,0
+ORD10649,Brittney Scott,davidwelch@example.net,Pune,Home & Kitchen,Coffee Maker,8769.81,2,17539.62,0.07,16311.85,Credit Card,Delivered,2024-03-28,3,1,2024,0,0
+ORD10650,Donald Charles,jamesmiller@example.net,Surat,Electronics,Smartphone,60184.65,2,120369.3,0.19,97499.13,Debit Card,Cancelled,2024-12-12,12,4,2024,0,1
+ORD10651,William Nguyen,lewisbrenda@example.org,Hyderabad,Electronics,Headphones,61934.75,4,247739.0,0.11,220487.71,Credit Card,Delivered,2024-05-23,5,2,2024,0,0
+ORD10652,Luis Ramirez,robert95@example.org,Pune,Clothing,Dress,3351.46,3,10054.38,0.12,8847.85,Net Banking,Delivered,2024-05-25,5,2,2024,0,0
+ORD10653,James Mcknight,markmoore@example.org,Kolkata,Clothing,Jacket,2490.02,4,9960.08,0.27,7270.86,UPI,Returned,2024-06-23,6,2,2024,1,0
+ORD10654,Julia Morris,michelle28@example.org,Delhi,Clothing,Sneakers,4965.37,1,4965.37,0.06,4667.45,UPI,Delivered,2024-03-21,3,1,2024,0,0
+ORD10655,Jose Brown,james07@example.net,Kolkata,Food & Beverage,Energy Drink,654.23,3,1962.69,0.28,1413.14,UPI,Delivered,2024-06-15,6,2,2024,0,0
+ORD10656,Amy Jones,mcclureronald@example.com,Pune,Electronics,Laptop,9262.52,3,27787.56,0.22,21674.3,Debit Card,Returned,2024-07-17,7,3,2024,1,0
+ORD10657,Jose Preston,sharon65@example.com,Ahmedabad,Electronics,Tablet,37060.43,1,37060.43,0.09,33724.99,UPI,Returned,2024-03-11,3,1,2024,1,0
+ORD10658,Paul Herring,jamesvicki@example.org,Pune,Food & Beverage,Protein Bar,354.19,3,1062.57,0.15,903.18,Credit Card,Returned,2024-11-14,11,4,2024,1,0
+ORD10659,Brenda Tucker,omontgomery@example.com,Kolkata,Books,Novel,559.99,5,2799.95,0.28,2015.96,Net Banking,Delivered,2024-11-15,11,4,2024,0,0
+ORD10660,Calvin Berger,paul19@example.net,Delhi,Home & Kitchen,Toaster,14889.59,5,74447.95,0.2,59558.36,Cash on Delivery,Delivered,2024-09-20,9,3,2024,0,0
+ORD10661,Russell Hayes,iherrera@example.net,Hyderabad,Electronics,Laptop,24368.49,2,48736.98,0.2,38989.58,Net Banking,Delivered,2024-10-07,10,4,2024,0,0
+ORD10662,Karen Fields,nschultz@example.com,Chennai,Food & Beverage,Protein Bar,528.49,1,528.49,0.14,454.5,Credit Card,Delivered,2024-02-20,2,1,2024,0,0
+ORD10663,Monica Zimmerman,estevens@example.com,Jaipur,Home & Kitchen,Knife Set,4571.21,5,22856.05,0.04,21941.81,Net Banking,Returned,2024-02-02,2,1,2024,1,0
+ORD10664,James Henry,osbornewilliam@example.net,Delhi,Clothing,Dress,4685.96,3,14057.88,0.29,9981.09,Net Banking,Delivered,2024-01-28,1,1,2024,0,0
+ORD10665,Monica Baldwin,hudsonsusan@example.net,Pune,Food & Beverage,Green Tea,411.4,3,1234.2,0.29,876.28,Cash on Delivery,Returned,2024-10-04,10,4,2024,1,0
+ORD10666,Mrs. Melissa Davis MD,brandi75@example.com,Pune,Clothing,Dress,2223.61,4,8894.44,0.04,8538.66,Debit Card,Delivered,2024-01-31,1,1,2024,0,0
+ORD10667,Darren Diaz,timothyyoung@example.net,Bengaluru,Clothing,T-Shirt,624.4,3,1873.2,0.23,1442.36,Net Banking,Cancelled,2024-07-22,7,3,2024,0,1
+ORD10668,Lisa Woods,xflores@example.org,Delhi,Clothing,Jeans,2989.79,1,2989.79,0.09,2720.71,Cash on Delivery,Cancelled,2024-04-02,4,2,2024,0,1
+ORD10669,Douglas Lee II,christina97@example.com,Bengaluru,Electronics,Headphones,29759.41,2,59518.82,0.05,56542.88,Credit Card,Delivered,2024-01-13,1,1,2024,0,0
+ORD10670,Gary Best,jchapman@example.net,Chennai,Home & Kitchen,Air Fryer,12592.57,3,37777.71,0.16,31733.28,UPI,Delivered,2024-09-27,9,3,2024,0,0
+ORD10671,Lisa Brown,webbdeanna@example.com,Surat,Clothing,T-Shirt,409.8,1,409.8,0.26,303.25,Net Banking,Delivered,2024-06-26,6,2,2024,0,0
+ORD10672,Wendy Dunn,lisajones@example.org,Ahmedabad,Electronics,Smartphone,53114.27,2,106228.54,0.11,94543.4,Debit Card,Delivered,2024-07-22,7,3,2024,0,0
+ORD10673,Robin Fischer,georgethomas@example.com,Hyderabad,Food & Beverage,Cookies,191.33,1,191.33,0.2,153.06,Debit Card,Delivered,2024-05-25,5,2,2024,0,0
+ORD10674,Nathan Davis,hesterstacie@example.com,Bengaluru,Electronics,Smartphone,18494.8,2,36989.6,0.21,29221.78,Debit Card,Delivered,2024-09-21,9,3,2024,0,0
+ORD10675,Todd Torres,darryl36@example.com,Surat,Food & Beverage,Energy Drink,209.36,5,1046.8,0.08,963.06,Credit Card,Returned,2024-12-30,12,4,2024,1,0
+ORD10676,Tiffany Ramos,smithchristopher@example.org,Chennai,Home & Kitchen,Toaster,14246.56,1,14246.56,0.17,11824.64,Debit Card,Delivered,2024-06-06,6,2,2024,0,0
+ORD10677,Michael Dorsey,ysmith@example.org,Jaipur,Books,Cook Book,471.14,1,471.14,0.04,452.29,Credit Card,Cancelled,2024-08-11,8,3,2024,0,1
+ORD10678,Kelli Robertson,hmartinez@example.com,Bengaluru,Home & Kitchen,Knife Set,3929.39,1,3929.39,0.11,3497.16,Net Banking,Returned,2024-10-26,10,4,2024,1,0
+ORD10679,Nicole Gallagher,jo01@example.com,Chennai,Home & Kitchen,Toaster,8628.07,4,34512.28,0.07,32096.42,Cash on Delivery,Delivered,2024-01-26,1,1,2024,0,0
+ORD10680,Kaitlin Gonzalez,csoto@example.com,Bengaluru,Clothing,Jeans,2599.63,4,10398.52,0.03,10086.56,Debit Card,Delivered,2024-08-14,8,3,2024,0,0
+ORD10681,Michelle Roberts,keith15@example.com,Mumbai,Food & Beverage,Protein Bar,468.05,1,468.05,0.17,388.48,UPI,Cancelled,2024-09-05,9,3,2024,0,1
+ORD10682,Evan Gonzalez,maria98@example.net,Surat,Books,Cook Book,829.77,2,1659.54,0.19,1344.23,Net Banking,Returned,2024-02-15,2,1,2024,1,0
+ORD10683,Marc Rojas,wernerevelyn@example.net,Bengaluru,Clothing,Sneakers,1353.68,5,6768.4,0.12,5956.19,Net Banking,Delivered,2024-08-24,8,3,2024,0,0
+ORD10684,Thomas Harvey,jonesmichael@example.net,Pune,Electronics,Headphones,67391.05,1,67391.05,0.05,64021.5,Credit Card,Returned,2024-01-06,1,1,2024,1,0
+ORD10685,Brent Lozano,andrew92@example.org,Chennai,Electronics,Smartwatch,32228.22,4,128912.88,0.09,117310.72,UPI,Cancelled,2024-05-12,5,2,2024,0,1
+ORD10686,Tara Buchanan,sylvia05@example.net,Hyderabad,Electronics,Smartwatch,74196.06,3,222588.18,0.08,204781.13,Credit Card,Delivered,2024-12-20,12,4,2024,0,0
+ORD10687,Katelyn Taylor,cwebb@example.org,Surat,Electronics,Headphones,54885.55,1,54885.55,0.19,44457.3,Debit Card,Delivered,2024-11-09,11,4,2024,0,0
+ORD10688,Brandon Murphy,mreynolds@example.net,Chennai,Food & Beverage,Green Tea,515.4,1,515.4,0.1,463.86,Debit Card,Delivered,2024-12-30,12,4,2024,0,0
+ORD10689,Paula Moody,marc59@example.com,Hyderabad,Home & Kitchen,Blender,5148.51,5,25742.55,0.07,23940.57,Credit Card,Delivered,2024-04-26,4,2,2024,0,0
+ORD10690,Lisa Porter,heatherjohnson@example.net,Surat,Clothing,T-Shirt,2521.04,1,2521.04,0.22,1966.41,Cash on Delivery,Delivered,2024-09-22,9,3,2024,0,0
+ORD10691,William Williams,heather85@example.com,Hyderabad,Books,Data Science Handbook,248.7,5,1243.5,0.13,1081.85,Cash on Delivery,Cancelled,2024-03-04,3,1,2024,0,1
+ORD10692,Mary King,ksmith@example.net,Jaipur,Electronics,Headphones,16392.98,3,49178.94,0.2,39343.15,Cash on Delivery,Delivered,2024-02-08,2,1,2024,0,0
+ORD10693,Terry Eaton,alisonchapman@example.com,Bengaluru,Clothing,Jeans,2009.28,2,4018.56,0.19,3255.03,Net Banking,Cancelled,2024-04-07,4,2,2024,0,1
+ORD10694,Sarah Roman,eramsey@example.org,Kolkata,Home & Kitchen,Coffee Maker,9143.49,5,45717.45,0.26,33830.91,Debit Card,Delivered,2024-11-11,11,4,2024,0,0
+ORD10695,Kelly Mills,morganmike@example.org,Pune,Food & Beverage,Coffee Beans,776.96,5,3884.8,0.01,3845.95,Cash on Delivery,Cancelled,2024-09-21,9,3,2024,0,1
+ORD10696,John Hernandez,pjackson@example.net,Surat,Home & Kitchen,Coffee Maker,2303.25,3,6909.75,0.16,5804.19,Credit Card,Returned,2024-04-15,4,2,2024,1,0
+ORD10697,Katrina Cooper,rhondabailey@example.com,Kolkata,Food & Beverage,Green Tea,394.56,5,1972.8,0.18,1617.7,Credit Card,Returned,2024-08-02,8,3,2024,1,0
+ORD10698,Christopher Long,katherinerodriguez@example.com,Bengaluru,Home & Kitchen,Coffee Maker,6079.72,5,30398.6,0.12,26750.77,Credit Card,Delivered,2024-05-25,5,2,2024,0,0
+ORD10699,Seth Baker,newtoncathy@example.com,Pune,Clothing,T-Shirt,2448.34,3,7345.02,0.2,5876.02,Debit Card,Delivered,2024-11-28,11,4,2024,0,0
+ORD10700,Lindsay Jones,esimpson@example.com,Ahmedabad,Home & Kitchen,Blender,4833.48,3,14500.44,0.18,11890.36,UPI,Delivered,2024-10-20,10,4,2024,0,0
+ORD10701,Dale Allen,reynoldsangela@example.net,Chennai,Food & Beverage,Green Tea,201.64,1,201.64,0.1,181.48,Cash on Delivery,Delivered,2024-01-01,1,1,2024,0,0
+ORD10702,Aaron Holt,thompsondavid@example.com,Pune,Clothing,T-Shirt,2391.11,5,11955.55,0.14,10281.77,UPI,Returned,2024-09-16,9,3,2024,1,0
+ORD10703,Paige Anderson,harrischristopher@example.com,Kolkata,Electronics,Smartphone,62384.28,4,249537.12,0.06,234564.89,Net Banking,Returned,2024-01-06,1,1,2024,1,0
+ORD10704,Stephanie Floyd,baileyscott@example.net,Jaipur,Food & Beverage,Energy Drink,405.47,3,1216.41,0.26,900.14,Net Banking,Delivered,2024-08-19,8,3,2024,0,0
+ORD10705,John Baker,lisa78@example.com,Surat,Clothing,T-Shirt,4915.71,3,14747.13,0.21,11650.23,Cash on Delivery,Delivered,2024-02-06,2,1,2024,0,0
+ORD10706,Lori Arnold,catherineconner@example.net,Mumbai,Books,Cook Book,525.79,1,525.79,0.04,504.76,UPI,Cancelled,2024-06-06,6,2,2024,0,1
+ORD10707,David Jenkins,justinjordan@example.com,Chennai,Books,Python Guide,950.69,3,2852.07,0.29,2024.97,Credit Card,Returned,2024-07-24,7,3,2024,1,0
+ORD10708,James Jimenez,lopeztammy@example.org,Surat,Food & Beverage,Protein Bar,405.21,2,810.42,0.25,607.81,Credit Card,Delivered,2024-11-03,11,4,2024,0,0
+ORD10709,George Mccarthy,kjones@example.org,Hyderabad,Clothing,Jeans,4038.67,5,20193.35,0.21,15952.75,Credit Card,Delivered,2024-04-09,4,2,2024,0,0
+ORD10710,Danielle Shaw,matthew07@example.net,Ahmedabad,Food & Beverage,Green Tea,437.47,3,1312.41,0.14,1128.67,UPI,Delivered,2024-10-28,10,4,2024,0,0
+ORD10711,Jason Wilkins,kyle33@example.net,Bengaluru,Books,Data Science Handbook,399.92,2,799.84,0.13,695.86,UPI,Delivered,2024-02-05,2,1,2024,0,0
+ORD10712,Mark Zimmerman,evelynwallace@example.org,Kolkata,Clothing,Jacket,3980.84,2,7961.68,0.12,7006.28,Cash on Delivery,Returned,2024-05-17,5,2,2024,1,0
+ORD10713,Samantha Allison,jessica57@example.net,Pune,Clothing,T-Shirt,1775.4,3,5326.2,0.03,5166.41,Cash on Delivery,Delivered,2024-05-17,5,2,2024,0,0
+ORD10714,Michael David,ccoleman@example.net,Hyderabad,Food & Beverage,Protein Bar,340.86,4,1363.44,0.1,1227.1,UPI,Returned,2024-05-09,5,2,2024,1,0
+ORD10715,Cynthia Jordan,christopherwebster@example.org,Hyderabad,Electronics,Tablet,79251.73,2,158503.46,0.07,147408.22,Net Banking,Returned,2024-03-07,3,1,2024,1,0
+ORD10716,Christine Brown,coxjessica@example.org,Pune,Home & Kitchen,Air Fryer,4860.19,3,14580.57,0.04,13997.35,UPI,Delivered,2024-08-06,8,3,2024,0,0
+ORD10717,Eric Murray,melanieking@example.com,Ahmedabad,Electronics,Laptop,58316.31,3,174948.93,0.11,155704.55,Debit Card,Delivered,2024-04-22,4,2,2024,0,0
+ORD10718,Ashley Bond,maloneapril@example.com,Kolkata,Food & Beverage,Energy Drink,724.83,3,2174.49,0.02,2131.0,Cash on Delivery,Delivered,2024-12-17,12,4,2024,0,0
+ORD10719,Eric Collier,maryford@example.org,Ahmedabad,Books,Cook Book,428.9,1,428.9,0.19,347.41,Cash on Delivery,Delivered,2024-12-16,12,4,2024,0,0
+ORD10720,Michelle Thomas,fevans@example.org,Ahmedabad,Electronics,Tablet,70456.8,3,211370.4,0.08,194460.77,Credit Card,Cancelled,2024-05-31,5,2,2024,0,1
+ORD10721,Ronald Daniel,meganschwartz@example.com,Mumbai,Food & Beverage,Green Tea,487.59,3,1462.77,0.15,1243.35,Net Banking,Cancelled,2024-11-15,11,4,2024,0,1
+ORD10722,Jacqueline Garcia,morsejoshua@example.com,Ahmedabad,Home & Kitchen,Knife Set,10636.05,3,31908.15,0.3,22335.7,UPI,Delivered,2024-02-26,2,1,2024,0,0
+ORD10723,Charles Alvarado,debralara@example.net,Kolkata,Electronics,Tablet,67408.12,2,134816.24,0.09,122682.78,UPI,Delivered,2024-11-11,11,4,2024,0,0
+ORD10724,Katherine Parker,qcarey@example.com,Ahmedabad,Clothing,Jeans,450.29,3,1350.87,0.05,1283.33,Net Banking,Cancelled,2024-02-11,2,1,2024,0,1
+ORD10725,Cynthia Flores,joneszachary@example.com,Kolkata,Books,Novel,952.17,5,4760.85,0.03,4618.02,UPI,Delivered,2024-05-21,5,2,2024,0,0
+ORD10726,Donald Cole,belindaortiz@example.net,Surat,Clothing,Jeans,4766.87,4,19067.48,0.22,14872.63,Debit Card,Delivered,2024-02-12,2,1,2024,0,0
+ORD10727,Jason Lamb,mbrown@example.com,Kolkata,Clothing,T-Shirt,3448.28,3,10344.84,0.22,8068.98,Cash on Delivery,Delivered,2024-05-10,5,2,2024,0,0
+ORD10728,Tonya Anderson,nduncan@example.net,Kolkata,Food & Beverage,Cookies,757.62,2,1515.24,0.05,1439.48,Cash on Delivery,Delivered,2024-05-07,5,2,2024,0,0
+ORD10729,David Horn,micheleperez@example.net,Surat,Electronics,Headphones,49772.66,4,199090.64,0.05,189136.11,Cash on Delivery,Delivered,2024-01-15,1,1,2024,0,0
+ORD10730,Patricia Frazier,atownsend@example.net,Bengaluru,Books,Self Help Book,991.26,1,991.26,0.02,971.43,Credit Card,Cancelled,2024-12-17,12,4,2024,0,1
+ORD10731,James Finley,joseph73@example.org,Bengaluru,Clothing,Sneakers,4779.96,3,14339.88,0.27,10468.11,Cash on Delivery,Delivered,2024-03-24,3,1,2024,0,0
+ORD10732,Jason Bell,justin84@example.org,Chennai,Clothing,Jeans,4557.32,2,9114.64,0.29,6471.39,UPI,Delivered,2024-04-20,4,2,2024,0,0
+ORD10733,Kathryn Castro,kristin01@example.org,Delhi,Clothing,Sneakers,4559.8,1,4559.8,0.07,4240.61,Cash on Delivery,Delivered,2024-05-06,5,2,2024,0,0
+ORD10734,Tina Kaufman,howardryan@example.com,Kolkata,Clothing,Dress,4205.98,1,4205.98,0.17,3490.96,Net Banking,Delivered,2024-07-18,7,3,2024,0,0
+ORD10735,Nathan Cervantes,ashley04@example.net,Jaipur,Food & Beverage,Coffee Beans,232.33,1,232.33,0.02,227.68,Credit Card,Delivered,2024-05-05,5,2,2024,0,0
+ORD10736,Jennifer Ponce,arussell@example.com,Surat,Home & Kitchen,Toaster,1136.95,4,4547.8,0.2,3638.24,Cash on Delivery,Delivered,2024-12-27,12,4,2024,0,0
+ORD10737,Stanley Kirk,hillsarah@example.net,Pune,Electronics,Smartwatch,38994.88,4,155979.52,0.02,152859.93,Debit Card,Cancelled,2024-02-19,2,1,2024,0,1
+ORD10738,Tanner Randall,joseph80@example.com,Jaipur,Clothing,Dress,3612.49,2,7224.98,0.04,6935.98,UPI,Delivered,2024-12-31,12,4,2024,0,0
+ORD10739,Kayla Parrish,christianrobles@example.net,Bengaluru,Electronics,Headphones,36363.91,1,36363.91,0.3,25454.74,Credit Card,Cancelled,2024-01-11,1,1,2024,0,1
+ORD10740,Justin Morris,rachel38@example.com,Kolkata,Books,Cook Book,751.01,4,3004.04,0.27,2192.95,UPI,Cancelled,2024-12-05,12,4,2024,0,1
+ORD10741,Jeffrey Wilson,heidi75@example.net,Chennai,Clothing,Sneakers,4314.91,1,4314.91,0.29,3063.59,Debit Card,Delivered,2024-11-19,11,4,2024,0,0
+ORD10742,David Perez,chernandez@example.net,Mumbai,Electronics,Tablet,7216.35,4,28865.4,0.22,22515.01,Net Banking,Delivered,2024-03-13,3,1,2024,0,0
+ORD10743,Linda Foster,bgomez@example.com,Surat,Food & Beverage,Coffee Beans,734.13,2,1468.26,0.12,1292.07,UPI,Returned,2024-04-18,4,2,2024,1,0
+ORD10744,Monica King,banksstacey@example.org,Pune,Books,Cook Book,921.41,4,3685.64,0.14,3169.65,UPI,Delivered,2024-03-29,3,1,2024,0,0
+ORD10745,Rebecca Larson,nadams@example.org,Pune,Food & Beverage,Coffee Beans,623.07,5,3115.35,0.26,2305.36,Credit Card,Cancelled,2024-03-27,3,1,2024,0,1
+ORD10746,Leon Johnson MD,thubbard@example.com,Jaipur,Electronics,Laptop,17390.9,5,86954.5,0.27,63476.78,Credit Card,Cancelled,2024-06-16,6,2,2024,0,1
+ORD10747,Candice Hughes,jamiehahn@example.com,Pune,Clothing,Sneakers,4150.45,2,8300.9,0.08,7636.83,Cash on Delivery,Delivered,2024-11-17,11,4,2024,0,0
+ORD10748,John Robinson,kerry57@example.org,Hyderabad,Food & Beverage,Protein Bar,301.4,5,1507.0,0.23,1160.39,Debit Card,Returned,2024-02-01,2,1,2024,1,0
+ORD10749,John Taylor,lunastephanie@example.net,Kolkata,Home & Kitchen,Knife Set,3656.71,5,18283.55,0.02,17917.88,Net Banking,Returned,2024-10-31,10,4,2024,1,0
+ORD10750,Heather Larsen,brianjenkins@example.org,Pune,Home & Kitchen,Air Fryer,9863.16,3,29589.48,0.25,22192.11,Credit Card,Returned,2024-01-26,1,1,2024,1,0
+ORD10751,Michelle Bell,evansdiane@example.net,Hyderabad,Home & Kitchen,Air Fryer,13378.13,5,66890.65,0.18,54850.33,Net Banking,Delivered,2024-12-13,12,4,2024,0,0
+ORD10752,Kathryn Smith,theresa25@example.org,Jaipur,Electronics,Smartwatch,46871.13,1,46871.13,0.2,37496.9,Debit Card,Delivered,2024-02-14,2,1,2024,0,0
+ORD10753,Justin Mosley,daviswayne@example.com,Mumbai,Home & Kitchen,Knife Set,13801.12,1,13801.12,0.22,10764.87,Cash on Delivery,Cancelled,2024-02-24,2,1,2024,0,1
+ORD10754,Tyler Lindsey,tiffanyharrington@example.org,Pune,Food & Beverage,Green Tea,406.33,4,1625.32,0.15,1381.52,Cash on Delivery,Delivered,2024-08-18,8,3,2024,0,0
+ORD10755,Mrs. Veronica Smith MD,knoxkimberly@example.org,Pune,Books,Self Help Book,976.83,3,2930.49,0.18,2403.0,Debit Card,Delivered,2024-03-30,3,1,2024,0,0
+ORD10756,Carolyn Jimenez,stephenevans@example.org,Jaipur,Home & Kitchen,Coffee Maker,3166.83,5,15834.15,0.04,15200.78,Net Banking,Returned,2024-03-10,3,1,2024,1,0
+ORD10757,Kelly Bryant,thomas27@example.org,Ahmedabad,Clothing,T-Shirt,2125.68,3,6377.04,0.18,5229.17,Cash on Delivery,Returned,2024-08-02,8,3,2024,1,0
+ORD10758,Kenneth Castro,millerkaren@example.net,Chennai,Books,Cook Book,531.18,4,2124.72,0.14,1827.26,Cash on Delivery,Cancelled,2024-10-11,10,4,2024,0,1
+ORD10759,John Pacheco,adamsjohn@example.com,Chennai,Clothing,T-Shirt,4598.1,1,4598.1,0.13,4000.35,Debit Card,Delivered,2024-12-03,12,4,2024,0,0
+ORD10760,Thomas Ferguson,taramoody@example.org,Surat,Clothing,Dress,4384.27,4,17537.08,0.27,12802.07,UPI,Cancelled,2024-08-25,8,3,2024,0,1
+ORD10761,Shelley Curtis,johnny40@example.org,Hyderabad,Books,Data Science Handbook,143.45,5,717.25,0.04,688.56,UPI,Delivered,2024-05-30,5,2,2024,0,0
+ORD10762,Nicole Benjamin,anthony95@example.org,Surat,Food & Beverage,Energy Drink,217.83,2,435.66,0.05,413.88,UPI,Delivered,2024-12-09,12,4,2024,0,0
+ORD10763,Brooke Morris,faulknerbradley@example.org,Chennai,Clothing,Dress,3987.18,5,19935.9,0.04,19138.46,Credit Card,Cancelled,2024-12-06,12,4,2024,0,1
+ORD10764,Ryan Nielsen,christophermitchell@example.com,Pune,Home & Kitchen,Toaster,8632.82,3,25898.46,0.11,23049.63,Credit Card,Delivered,2024-03-14,3,1,2024,0,0
+ORD10765,Christian Morales,logandavidson@example.net,Kolkata,Food & Beverage,Protein Bar,158.82,5,794.1,0.14,682.93,UPI,Returned,2024-06-26,6,2,2024,1,0
+ORD10766,Mary Williams,kellybobby@example.net,Jaipur,Food & Beverage,Coffee Beans,163.4,3,490.2,0.13,426.47,Credit Card,Delivered,2024-12-22,12,4,2024,0,0
+ORD10767,David Martinez,gordonbenjamin@example.org,Kolkata,Home & Kitchen,Blender,1417.67,5,7088.35,0.25,5316.26,Net Banking,Delivered,2024-11-27,11,4,2024,0,0
+ORD10768,Peter Jackson,dbrooks@example.org,Jaipur,Home & Kitchen,Toaster,10130.02,1,10130.02,0.19,8205.32,UPI,Returned,2024-01-06,1,1,2024,1,0
+ORD10769,Jennifer Pearson,qdoyle@example.com,Kolkata,Electronics,Smartphone,62049.07,2,124098.14,0.11,110447.34,UPI,Delivered,2024-03-24,3,1,2024,0,0
+ORD10770,Danielle Evans,alisonholmes@example.org,Pune,Clothing,Jacket,375.92,1,375.92,0.28,270.66,Cash on Delivery,Delivered,2024-12-04,12,4,2024,0,0
+ORD10771,Melissa Yoder,thomas58@example.org,Jaipur,Food & Beverage,Energy Drink,739.28,1,739.28,0.08,680.14,Debit Card,Cancelled,2024-10-05,10,4,2024,0,1
+ORD10772,Tammy Baker,dsolomon@example.org,Jaipur,Books,Data Science Handbook,969.63,5,4848.15,0.24,3684.59,Credit Card,Returned,2024-05-13,5,2,2024,1,0
+ORD10773,Becky Reynolds,marissa67@example.net,Surat,Electronics,Smartwatch,73540.66,5,367703.3,0.22,286808.57,Cash on Delivery,Cancelled,2024-11-17,11,4,2024,0,1
+ORD10774,Kristen Brock,jessicapearson@example.com,Pune,Food & Beverage,Coffee Beans,635.75,4,2543.0,0.13,2212.41,Debit Card,Returned,2024-12-29,12,4,2024,1,0
+ORD10775,Jonathan Clark,georgetanya@example.org,Pune,Books,Self Help Book,282.16,5,1410.8,0.16,1185.07,Debit Card,Returned,2024-05-10,5,2,2024,1,0
+ORD10776,Brian Watson,emilystanton@example.com,Mumbai,Clothing,T-Shirt,536.86,4,2147.44,0.29,1524.68,Cash on Delivery,Delivered,2024-12-24,12,4,2024,0,0
+ORD10777,Andrew Skinner,walterkimberly@example.com,Hyderabad,Electronics,Smartphone,43693.43,2,87386.86,0.2,69909.49,Credit Card,Delivered,2024-04-21,4,2,2024,0,0
+ORD10778,Sean Medina,vasquezmiguel@example.net,Mumbai,Electronics,Laptop,76441.07,4,305764.28,0.03,296591.35,Cash on Delivery,Delivered,2024-10-24,10,4,2024,0,0
+ORD10779,Christopher Sandoval,danielwalter@example.org,Ahmedabad,Electronics,Headphones,62437.61,2,124875.22,0.27,91158.91,Cash on Delivery,Delivered,2024-09-26,9,3,2024,0,0
+ORD10780,Kathryn Taylor,tracybuchanan@example.com,Surat,Books,Python Guide,477.5,1,477.5,0.08,439.3,Cash on Delivery,Delivered,2024-11-20,11,4,2024,0,0
+ORD10781,Ashley Smith,ryan76@example.com,Pune,Electronics,Smartwatch,38016.26,3,114048.78,0.07,106065.37,UPI,Delivered,2024-03-16,3,1,2024,0,0
+ORD10782,James Buck,darnold@example.org,Hyderabad,Food & Beverage,Energy Drink,452.16,1,452.16,0.22,352.68,Debit Card,Returned,2024-10-21,10,4,2024,1,0
+ORD10783,Gregory Davenport,vramsey@example.org,Kolkata,Clothing,Jacket,3763.44,1,3763.44,0.23,2897.85,UPI,Delivered,2024-08-21,8,3,2024,0,0
+ORD10784,Laurie Smith,turnerdanielle@example.com,Ahmedabad,Home & Kitchen,Air Fryer,14917.48,1,14917.48,0.29,10591.41,UPI,Delivered,2024-12-03,12,4,2024,0,0
+ORD10785,Michele Walker,donna19@example.org,Delhi,Books,Novel,579.42,1,579.42,0.07,538.86,UPI,Delivered,2024-07-20,7,3,2024,0,0
+ORD10786,Jeffrey Salazar,wmaxwell@example.net,Jaipur,Books,Self Help Book,503.61,1,503.61,0.12,443.18,UPI,Delivered,2024-02-12,2,1,2024,0,0
+ORD10787,Richard Shepherd,jessica15@example.net,Chennai,Home & Kitchen,Blender,13620.12,2,27240.24,0.28,19612.97,Credit Card,Delivered,2024-07-17,7,3,2024,0,0
+ORD10788,Johnny Ramos,lauravelasquez@example.com,Mumbai,Clothing,T-Shirt,3485.38,1,3485.38,0.16,2927.72,UPI,Delivered,2024-08-27,8,3,2024,0,0
+ORD10789,Jordan Ruiz,kristicruz@example.org,Hyderabad,Electronics,Smartwatch,53551.81,2,107103.62,0.26,79256.68,Debit Card,Returned,2024-04-15,4,2,2024,1,0
+ORD10790,Stephanie Wood,ddavis@example.net,Bengaluru,Electronics,Headphones,57335.37,4,229341.48,0.09,208700.75,Net Banking,Returned,2024-12-21,12,4,2024,1,0
+ORD10791,Amanda Pierce,russellmunoz@example.org,Pune,Books,Novel,174.23,2,348.46,0.29,247.41,Cash on Delivery,Cancelled,2024-03-05,3,1,2024,0,1
+ORD10792,Lisa Ramirez,markzimmerman@example.net,Hyderabad,Electronics,Laptop,60181.19,5,300905.95,0.09,273824.41,UPI,Delivered,2024-06-08,6,2,2024,0,0
+ORD10793,Brendan Brown,fosterwilliam@example.net,Bengaluru,Food & Beverage,Energy Drink,460.64,5,2303.2,0.02,2257.14,Debit Card,Delivered,2024-10-26,10,4,2024,0,0
+ORD10794,Katherine Watts,lisa08@example.org,Kolkata,Food & Beverage,Energy Drink,364.21,4,1456.84,0.1,1311.16,UPI,Cancelled,2024-01-06,1,1,2024,0,1
+ORD10795,Brittany Hanson,watsonthomas@example.net,Hyderabad,Books,Novel,882.43,1,882.43,0.08,811.84,Credit Card,Returned,2024-06-24,6,2,2024,1,0
+ORD10796,David Ortiz,kramercourtney@example.com,Delhi,Clothing,Dress,602.52,2,1205.04,0.11,1072.49,UPI,Delivered,2024-06-06,6,2,2024,0,0
+ORD10797,Andrew Brown,rachel60@example.org,Delhi,Food & Beverage,Energy Drink,143.54,3,430.62,0.03,417.7,Cash on Delivery,Delivered,2024-12-23,12,4,2024,0,0
+ORD10798,Janet Mcneil DVM,gwilliams@example.org,Mumbai,Books,Novel,148.5,4,594.0,0.24,451.44,Debit Card,Delivered,2024-02-01,2,1,2024,0,0
+ORD10799,Scott Williams,pearsonmaurice@example.com,Delhi,Home & Kitchen,Toaster,3041.6,3,9124.8,0.2,7299.84,Cash on Delivery,Delivered,2024-03-04,3,1,2024,0,0
+ORD10800,Karen Brennan,matthewhill@example.org,Mumbai,Food & Beverage,Green Tea,104.39,5,521.95,0.18,428.0,Credit Card,Cancelled,2024-01-26,1,1,2024,0,1
+ORD10801,Christopher Farrell,michaeljohnson@example.com,Kolkata,Books,Novel,421.82,4,1687.28,0.19,1366.7,Cash on Delivery,Delivered,2024-06-07,6,2,2024,0,0
+ORD10802,Jennifer Hernandez,longrichard@example.com,Ahmedabad,Electronics,Headphones,67645.83,2,135291.66,0.24,102821.66,Cash on Delivery,Cancelled,2024-02-10,2,1,2024,0,1
+ORD10803,William Smith,wrightmelissa@example.net,Delhi,Home & Kitchen,Blender,12749.05,3,38247.15,0.22,29832.78,Credit Card,Delivered,2024-04-16,4,2,2024,0,0
+ORD10804,Richard Park,vbarr@example.net,Delhi,Clothing,T-Shirt,2702.74,4,10810.96,0.25,8108.22,Cash on Delivery,Delivered,2024-06-09,6,2,2024,0,0
+ORD10805,Jessica Harrell,karl23@example.net,Surat,Home & Kitchen,Blender,6938.22,1,6938.22,0.13,6036.25,Cash on Delivery,Delivered,2024-03-22,3,1,2024,0,0
+ORD10806,Teresa Hodges,qpeters@example.com,Bengaluru,Food & Beverage,Coffee Beans,681.7,1,681.7,0.02,668.07,Cash on Delivery,Delivered,2024-04-13,4,2,2024,0,0
+ORD10807,John Hill,vporter@example.net,Ahmedabad,Electronics,Headphones,64043.62,5,320218.1,0.27,233759.21,Net Banking,Delivered,2024-10-30,10,4,2024,0,0
+ORD10808,Jean Harding,barry70@example.net,Ahmedabad,Food & Beverage,Green Tea,89.34,4,357.36,0.16,300.18,Debit Card,Delivered,2024-02-01,2,1,2024,0,0
+ORD10809,Nathaniel Elliott,josephharrison@example.com,Ahmedabad,Books,Python Guide,657.76,4,2631.04,0.01,2604.73,Debit Card,Delivered,2024-03-02,3,1,2024,0,0
+ORD10810,Jared Johnson,pjones@example.org,Surat,Clothing,Dress,3901.03,3,11703.09,0.01,11586.06,Net Banking,Delivered,2024-05-13,5,2,2024,0,0
+ORD10811,Andrew Cruz,carol69@example.net,Pune,Home & Kitchen,Blender,4035.65,3,12106.95,0.15,10290.91,UPI,Delivered,2024-01-03,1,1,2024,0,0
+ORD10812,James Dawson,khall@example.net,Pune,Home & Kitchen,Knife Set,7155.53,5,35777.65,0.19,28979.9,UPI,Delivered,2024-09-13,9,3,2024,0,0
+ORD10813,Autumn Miller,riveraelizabeth@example.net,Hyderabad,Books,Python Guide,168.68,5,843.4,0.21,666.29,Net Banking,Delivered,2024-10-18,10,4,2024,0,0
+ORD10814,Theresa Silva,ghowell@example.org,Ahmedabad,Home & Kitchen,Coffee Maker,1753.19,1,1753.19,0.0,1753.19,Net Banking,Delivered,2024-11-08,11,4,2024,0,0
+ORD10815,Rhonda Greer,jameswilson@example.org,Pune,Clothing,Dress,4432.86,5,22164.3,0.15,18839.65,Debit Card,Delivered,2024-03-15,3,1,2024,0,0
+ORD10816,Barbara Davis,johnsonsherry@example.org,Mumbai,Home & Kitchen,Blender,12976.82,5,64884.1,0.23,49960.76,Net Banking,Delivered,2024-03-12,3,1,2024,0,0
+ORD10817,Jerry West,tina22@example.org,Ahmedabad,Books,Python Guide,993.59,1,993.59,0.02,973.72,UPI,Delivered,2024-02-12,2,1,2024,0,0
+ORD10818,Troy Rice,garciarichard@example.net,Pune,Food & Beverage,Protein Bar,87.68,2,175.36,0.18,143.8,Net Banking,Delivered,2024-05-28,5,2,2024,0,0
+ORD10819,Gerald Phelps,nicolegomez@example.com,Surat,Food & Beverage,Green Tea,205.41,2,410.82,0.06,386.17,UPI,Delivered,2024-10-13,10,4,2024,0,0
+ORD10820,James Wilson,vmercado@example.com,Kolkata,Electronics,Smartwatch,28461.6,5,142308.0,0.29,101038.68,UPI,Delivered,2024-06-25,6,2,2024,0,0
+ORD10821,Kyle Vasquez,harringtonsarah@example.net,Surat,Electronics,Laptop,12257.98,2,24515.96,0.01,24270.8,Cash on Delivery,Delivered,2024-12-24,12,4,2024,0,0
+ORD10822,Deborah Mueller,danielrodriguez@example.net,Jaipur,Food & Beverage,Green Tea,480.97,1,480.97,0.25,360.73,Cash on Delivery,Delivered,2024-04-03,4,2,2024,0,0
+ORD10823,Joseph Richards,laura65@example.com,Ahmedabad,Clothing,T-Shirt,1062.9,5,5314.5,0.09,4836.2,Cash on Delivery,Delivered,2024-05-29,5,2,2024,0,0
+ORD10824,Tony Fields,shawnharper@example.com,Jaipur,Clothing,T-Shirt,777.95,4,3111.8,0.23,2396.09,Cash on Delivery,Returned,2024-02-24,2,1,2024,1,0
+ORD10825,Sarah Wolf,sstewart@example.net,Hyderabad,Books,Cook Book,816.22,4,3264.88,0.26,2416.01,Credit Card,Returned,2024-10-25,10,4,2024,1,0
+ORD10826,Kevin White,kristendavidson@example.org,Surat,Books,Python Guide,591.65,4,2366.6,0.17,1964.28,Cash on Delivery,Delivered,2024-07-19,7,3,2024,0,0
+ORD10827,Elizabeth Aguirre,marshkatherine@example.com,Chennai,Books,Novel,195.98,3,587.94,0.17,487.99,UPI,Delivered,2024-08-11,8,3,2024,0,0
+ORD10828,Michele Rodriguez,alvaradoalyssa@example.net,Chennai,Clothing,T-Shirt,1029.79,2,2059.58,0.1,1853.62,UPI,Cancelled,2024-09-09,9,3,2024,0,1
+ORD10829,Christopher Valdez,edward64@example.org,Pune,Electronics,Tablet,77298.0,4,309192.0,0.28,222618.24,Net Banking,Cancelled,2024-08-31,8,3,2024,0,1
+ORD10830,Karl Simpson,kevinhall@example.com,Hyderabad,Home & Kitchen,Toaster,10952.22,4,43808.88,0.19,35485.19,Credit Card,Returned,2024-06-28,6,2,2024,1,0
+ORD10831,Barbara Mendez,mooretony@example.net,Pune,Books,Cook Book,184.7,3,554.1,0.15,470.99,Net Banking,Returned,2024-09-21,9,3,2024,1,0
+ORD10832,Kenneth Mason,hobrian@example.com,Pune,Books,Python Guide,197.31,3,591.93,0.16,497.22,Cash on Delivery,Delivered,2024-08-03,8,3,2024,0,0
+ORD10833,David Jones,michaelmartinez@example.net,Chennai,Home & Kitchen,Air Fryer,5428.5,1,5428.5,0.19,4397.09,Credit Card,Delivered,2024-10-27,10,4,2024,0,0
+ORD10834,Jesse Vance,mcruz@example.org,Ahmedabad,Electronics,Laptop,41593.73,3,124781.19,0.11,111055.26,UPI,Cancelled,2024-04-06,4,2,2024,0,1
+ORD10835,Tyler Leonard,elizabethflores@example.org,Mumbai,Clothing,Jacket,1791.06,5,8955.3,0.22,6985.13,Net Banking,Returned,2024-09-20,9,3,2024,1,0
+ORD10836,Terri Graham,jeremy98@example.org,Jaipur,Home & Kitchen,Air Fryer,14653.14,4,58612.56,0.19,47476.17,Credit Card,Returned,2024-08-25,8,3,2024,1,0
+ORD10837,Holly Davis MD,bmcgrath@example.com,Hyderabad,Food & Beverage,Green Tea,746.15,1,746.15,0.12,656.61,Debit Card,Delivered,2024-12-24,12,4,2024,0,0
+ORD10838,Rachel Lee,richardsanchez@example.com,Chennai,Food & Beverage,Protein Bar,388.1,3,1164.3,0.14,1001.3,Cash on Delivery,Returned,2024-11-25,11,4,2024,1,0
+ORD10839,Kathleen Wright,wmcgrath@example.net,Pune,Home & Kitchen,Air Fryer,11378.84,1,11378.84,0.01,11265.05,UPI,Delivered,2024-04-24,4,2,2024,0,0
+ORD10840,Sandra Matthews,dcole@example.net,Bengaluru,Food & Beverage,Green Tea,667.42,5,3337.1,0.03,3236.99,UPI,Delivered,2024-05-28,5,2,2024,0,0
+ORD10841,Mr. Robert Walter,drakethomas@example.net,Ahmedabad,Home & Kitchen,Knife Set,14631.73,2,29263.46,0.25,21947.6,Cash on Delivery,Returned,2024-06-17,6,2,2024,1,0
+ORD10842,Tyler Mclaughlin,dawnphillips@example.org,Pune,Clothing,Jacket,1258.37,3,3775.11,0.11,3359.85,Debit Card,Delivered,2024-10-07,10,4,2024,0,0
+ORD10843,Paige Chung,rmiller@example.com,Kolkata,Electronics,Laptop,8903.39,4,35613.56,0.24,27066.31,Net Banking,Delivered,2024-01-27,1,1,2024,0,0
+ORD10844,Nicolas Scott,gina34@example.com,Surat,Home & Kitchen,Blender,3420.04,2,6840.08,0.12,6019.27,Net Banking,Returned,2024-06-25,6,2,2024,1,0
+ORD10845,Eric Coleman,hoodalbert@example.net,Chennai,Clothing,Dress,3796.76,2,7593.52,0.06,7137.91,Cash on Delivery,Delivered,2024-05-10,5,2,2024,0,0
+ORD10846,Ashley Hernandez,veronica80@example.org,Mumbai,Electronics,Laptop,12255.02,1,12255.02,0.01,12132.47,Cash on Delivery,Returned,2024-01-31,1,1,2024,1,0
+ORD10847,Brandon Gray,richardsontimothy@example.org,Kolkata,Clothing,Sneakers,4236.4,5,21182.0,0.21,16733.78,Credit Card,Delivered,2024-02-21,2,1,2024,0,0
+ORD10848,Julie Smith,holmesjennifer@example.net,Delhi,Electronics,Smartwatch,70136.87,1,70136.87,0.22,54706.76,UPI,Returned,2024-06-16,6,2,2024,1,0
+ORD10849,Brenda Arroyo,myerskelly@example.com,Pune,Clothing,T-Shirt,2301.8,2,4603.6,0.08,4235.31,Debit Card,Delivered,2024-10-18,10,4,2024,0,0
+ORD10850,Natalie Klein,bbennett@example.org,Mumbai,Food & Beverage,Coffee Beans,59.95,5,299.75,0.0,299.75,Cash on Delivery,Delivered,2024-08-14,8,3,2024,0,0
+ORD10851,Brenda Koch DDS,millsmatthew@example.com,Surat,Books,Cook Book,558.77,2,1117.54,0.15,949.91,Net Banking,Cancelled,2024-12-06,12,4,2024,0,1
+ORD10852,Nicholas Hartman,randerson@example.com,Bengaluru,Clothing,Jeans,1908.53,2,3817.06,0.01,3778.89,Credit Card,Cancelled,2024-07-03,7,3,2024,0,1
+ORD10853,Kristin Sampson,sanchezlinda@example.com,Bengaluru,Home & Kitchen,Blender,8319.99,1,8319.99,0.14,7155.19,Debit Card,Delivered,2024-01-07,1,1,2024,0,0
+ORD10854,Debra Black,jmoore@example.org,Jaipur,Books,Novel,706.19,5,3530.95,0.29,2506.97,Cash on Delivery,Cancelled,2024-09-08,9,3,2024,0,1
+ORD10855,Lindsay Reed,chadpreston@example.org,Delhi,Food & Beverage,Cookies,724.71,3,2174.13,0.17,1804.53,Debit Card,Delivered,2024-08-18,8,3,2024,0,0
+ORD10856,Mr. Michael Weber,thomasjenkins@example.com,Chennai,Clothing,Jacket,3827.53,5,19137.65,0.15,16267.0,Net Banking,Delivered,2024-08-22,8,3,2024,0,0
+ORD10857,Mrs. Belinda Good,courtneylandry@example.net,Hyderabad,Electronics,Laptop,78259.07,5,391295.35,0.19,316949.23,Net Banking,Returned,2024-03-30,3,1,2024,1,0
+ORD10858,Lisa Blanchard,todd56@example.net,Mumbai,Food & Beverage,Green Tea,149.9,3,449.7,0.12,395.74,UPI,Delivered,2024-08-31,8,3,2024,0,0
+ORD10859,Kenneth Cook,hendricksjennifer@example.net,Ahmedabad,Books,Novel,926.02,5,4630.1,0.22,3611.48,Credit Card,Delivered,2024-04-27,4,2,2024,0,0
+ORD10860,Erica Ortega,gmoore@example.com,Ahmedabad,Home & Kitchen,Coffee Maker,10138.57,2,20277.14,0.25,15207.85,UPI,Delivered,2024-06-17,6,2,2024,0,0
+ORD10861,Katherine Reynolds,calvin95@example.com,Mumbai,Clothing,Dress,1830.43,5,9152.15,0.2,7321.72,Debit Card,Returned,2024-01-16,1,1,2024,1,0
+ORD10862,Taylor Carson,howardtimothy@example.net,Kolkata,Electronics,Laptop,57840.13,4,231360.52,0.25,173520.39,Credit Card,Returned,2024-01-01,1,1,2024,1,0
+ORD10863,Ronald Young,nicolemarquez@example.net,Pune,Home & Kitchen,Toaster,14227.27,5,71136.35,0.26,52640.9,Debit Card,Delivered,2024-01-30,1,1,2024,0,0
+ORD10864,Sherry Swanson,kerickson@example.com,Kolkata,Home & Kitchen,Coffee Maker,7923.76,3,23771.28,0.14,20443.3,Cash on Delivery,Returned,2024-01-27,1,1,2024,1,0
+ORD10865,Tiffany Liu,amyspence@example.org,Ahmedabad,Home & Kitchen,Knife Set,10748.28,5,53741.4,0.08,49442.09,Cash on Delivery,Delivered,2024-06-27,6,2,2024,0,0
+ORD10866,Justin Mendez,vvaldez@example.net,Chennai,Electronics,Smartwatch,58085.83,3,174257.49,0.15,148118.87,Net Banking,Returned,2024-01-06,1,1,2024,1,0
+ORD10867,Alexander Wilkerson,rogerschristopher@example.com,Kolkata,Electronics,Laptop,40922.55,1,40922.55,0.16,34374.94,Debit Card,Delivered,2024-08-16,8,3,2024,0,0
+ORD10868,Molly Jackson,heatherwood@example.org,Jaipur,Electronics,Smartphone,78324.47,1,78324.47,0.14,67359.04,Credit Card,Delivered,2024-06-28,6,2,2024,0,0
+ORD10869,David Tyler,brandi78@example.com,Bengaluru,Books,Self Help Book,243.78,2,487.56,0.14,419.3,Net Banking,Cancelled,2024-11-26,11,4,2024,0,1
+ORD10870,Brenda Pratt,jennifer19@example.org,Mumbai,Clothing,Jacket,2392.43,3,7177.29,0.28,5167.65,Net Banking,Delivered,2024-01-29,1,1,2024,0,0
+ORD10871,Dr. Clifford Smith,lisa41@example.net,Ahmedabad,Home & Kitchen,Toaster,564.51,2,1129.02,0.1,1016.12,Debit Card,Delivered,2024-10-20,10,4,2024,0,0
+ORD10872,Melissa Chase,andersonerica@example.net,Mumbai,Electronics,Headphones,21504.68,3,64514.04,0.14,55482.07,Cash on Delivery,Delivered,2024-07-14,7,3,2024,0,0
+ORD10873,Ross Mcguire,ewade@example.org,Ahmedabad,Clothing,Jacket,3263.1,4,13052.4,0.23,10050.35,Cash on Delivery,Cancelled,2024-12-13,12,4,2024,0,1
+ORD10874,Dana Pratt,sdavenport@example.org,Surat,Electronics,Smartwatch,27415.07,4,109660.28,0.23,84438.42,Credit Card,Delivered,2024-09-10,9,3,2024,0,0
+ORD10875,Sandra Hall,uandrews@example.com,Bengaluru,Food & Beverage,Coffee Beans,262.43,1,262.43,0.13,228.31,UPI,Delivered,2024-12-24,12,4,2024,0,0
+ORD10876,Breanna Maxwell,anita77@example.net,Mumbai,Food & Beverage,Energy Drink,552.3,2,1104.6,0.04,1060.42,Debit Card,Delivered,2024-07-27,7,3,2024,0,0
+ORD10877,Nancy Johnson,dawn59@example.net,Jaipur,Clothing,Jeans,3684.61,2,7369.22,0.25,5526.91,UPI,Delivered,2024-11-02,11,4,2024,0,0
+ORD10878,Julie Keller,josephwatson@example.com,Mumbai,Food & Beverage,Coffee Beans,692.01,1,692.01,0.01,685.09,Net Banking,Delivered,2024-10-12,10,4,2024,0,0
+ORD10879,Susan Lawrence,penny85@example.com,Chennai,Home & Kitchen,Coffee Maker,12338.31,3,37014.93,0.24,28131.35,UPI,Cancelled,2024-05-22,5,2,2024,0,1
+ORD10880,Traci Taylor,laurenowens@example.net,Delhi,Clothing,T-Shirt,449.82,1,449.82,0.15,382.35,Cash on Delivery,Cancelled,2024-12-04,12,4,2024,0,1
+ORD10881,Katelyn Vega,heathertaylor@example.com,Chennai,Home & Kitchen,Knife Set,11214.0,2,22428.0,0.04,21530.88,Cash on Delivery,Cancelled,2024-02-20,2,1,2024,0,1
+ORD10882,Stephanie Booth,stephen88@example.net,Surat,Books,Python Guide,879.3,2,1758.6,0.29,1248.61,Debit Card,Cancelled,2024-08-23,8,3,2024,0,1
+ORD10883,Michael Moore,brownjeffrey@example.org,Ahmedabad,Home & Kitchen,Knife Set,14752.98,3,44258.94,0.18,36292.33,Debit Card,Returned,2024-06-07,6,2,2024,1,0
+ORD10884,Scott Wallace,jsmith@example.org,Ahmedabad,Books,Data Science Handbook,873.89,5,4369.45,0.28,3146.0,Net Banking,Delivered,2024-05-17,5,2,2024,0,0
+ORD10885,Steven Robertson,sandra75@example.net,Surat,Food & Beverage,Cookies,206.64,1,206.64,0.25,154.98,UPI,Delivered,2024-02-04,2,1,2024,0,0
+ORD10886,Darren Wells,brooke24@example.com,Delhi,Electronics,Smartwatch,79445.25,5,397226.25,0.05,377364.94,Debit Card,Delivered,2024-04-08,4,2,2024,0,0
+ORD10887,Thomas Conley,susan97@example.com,Jaipur,Electronics,Smartphone,64407.39,3,193222.17,0.12,170035.51,Net Banking,Cancelled,2024-07-03,7,3,2024,0,1
+ORD10888,Gina Vasquez,michaelhess@example.org,Delhi,Home & Kitchen,Toaster,13013.97,5,65069.85,0.11,57912.17,Credit Card,Returned,2024-08-08,8,3,2024,1,0
+ORD10889,Amanda Garrison,angelagilmore@example.org,Surat,Food & Beverage,Energy Drink,457.33,3,1371.99,0.0,1371.99,UPI,Delivered,2024-10-10,10,4,2024,0,0
+ORD10890,Brandon George,gmiller@example.com,Delhi,Food & Beverage,Energy Drink,433.88,1,433.88,0.04,416.52,Debit Card,Delivered,2024-09-26,9,3,2024,0,0
+ORD10891,Wendy Klein,fsellers@example.net,Pune,Books,Python Guide,133.89,1,133.89,0.27,97.74,Credit Card,Delivered,2024-04-21,4,2,2024,0,0
+ORD10892,Andrew Mitchell,phansen@example.net,Pune,Books,Novel,289.46,3,868.38,0.05,824.96,Credit Card,Cancelled,2024-02-27,2,1,2024,0,1
+ORD10893,Kelly Lara,hbecker@example.com,Delhi,Books,Self Help Book,791.15,4,3164.6,0.19,2563.33,Credit Card,Delivered,2024-06-23,6,2,2024,0,0
+ORD10894,Steve Le,tayloralyssa@example.com,Hyderabad,Books,Data Science Handbook,335.49,5,1677.45,0.23,1291.64,Cash on Delivery,Delivered,2024-08-06,8,3,2024,0,0
+ORD10895,Angela Fernandez,bennettshelly@example.com,Chennai,Electronics,Smartphone,42294.54,2,84589.08,0.24,64287.7,Credit Card,Delivered,2024-03-16,3,1,2024,0,0
+ORD10896,Brenda Bowman,browndavid@example.com,Surat,Home & Kitchen,Toaster,1375.97,4,5503.88,0.25,4127.91,Debit Card,Delivered,2024-12-24,12,4,2024,0,0
+ORD10897,Daniel Townsend,lisawoods@example.com,Bengaluru,Food & Beverage,Cookies,728.25,2,1456.5,0.24,1106.94,Credit Card,Delivered,2024-02-25,2,1,2024,0,0
+ORD10898,Brandy Schultz,ltapia@example.com,Delhi,Books,Data Science Handbook,306.43,4,1225.72,0.23,943.8,Cash on Delivery,Delivered,2024-01-05,1,1,2024,0,0
+ORD10899,Katherine Chang,dunnangela@example.org,Ahmedabad,Clothing,T-Shirt,793.49,5,3967.45,0.22,3094.61,UPI,Delivered,2024-07-04,7,3,2024,0,0
+ORD10900,Max Spencer,david83@example.com,Hyderabad,Food & Beverage,Cookies,355.91,4,1423.64,0.11,1267.04,Cash on Delivery,Delivered,2024-06-22,6,2,2024,0,0
+ORD10901,Diana Schneider,erica78@example.org,Chennai,Food & Beverage,Energy Drink,620.44,5,3102.2,0.12,2729.94,UPI,Delivered,2024-11-14,11,4,2024,0,0
+ORD10902,Thomas Meza,vmitchell@example.net,Jaipur,Food & Beverage,Green Tea,96.8,3,290.4,0.03,281.69,Credit Card,Returned,2024-11-10,11,4,2024,1,0
+ORD10903,Ryan Hunter,oking@example.com,Pune,Electronics,Tablet,26765.3,2,53530.6,0.22,41753.87,Net Banking,Returned,2024-12-08,12,4,2024,1,0
+ORD10904,Sarah Mcmillan MD,justinlawson@example.com,Bengaluru,Clothing,Sneakers,4553.28,1,4553.28,0.21,3597.09,UPI,Delivered,2024-09-08,9,3,2024,0,0
+ORD10905,Richard Sullivan,peterwise@example.net,Kolkata,Books,Cook Book,961.15,4,3844.6,0.15,3267.91,Debit Card,Delivered,2024-11-03,11,4,2024,0,0
+ORD10906,Anita Mack,kboyle@example.net,Delhi,Home & Kitchen,Coffee Maker,14881.08,4,59524.32,0.15,50595.67,Debit Card,Delivered,2024-07-03,7,3,2024,0,0
+ORD10907,Donna Dunn,villahannah@example.org,Pune,Home & Kitchen,Air Fryer,9594.41,3,28783.23,0.28,20723.93,UPI,Returned,2024-05-30,5,2,2024,1,0
+ORD10908,Jacob Tran,fgutierrez@example.org,Hyderabad,Electronics,Smartphone,47566.59,5,237832.95,0.08,218806.31,Cash on Delivery,Cancelled,2024-10-26,10,4,2024,0,1
+ORD10909,Michelle Cook,seth56@example.com,Surat,Clothing,T-Shirt,2204.15,4,8816.6,0.1,7934.94,Credit Card,Delivered,2024-09-27,9,3,2024,0,0
+ORD10910,Daniel Vincent,powersnicholas@example.com,Hyderabad,Home & Kitchen,Toaster,6990.81,4,27963.24,0.07,26005.81,UPI,Cancelled,2024-06-17,6,2,2024,0,1
+ORD10911,George Herring,michelle55@example.com,Surat,Books,Python Guide,506.28,1,506.28,0.11,450.59,Net Banking,Delivered,2024-09-17,9,3,2024,0,0
+ORD10912,Susan Walker,valdezshane@example.net,Mumbai,Home & Kitchen,Air Fryer,9814.86,3,29444.58,0.24,22377.88,UPI,Delivered,2024-04-05,4,2,2024,0,0
+ORD10913,Nancy Morris,juanbest@example.net,Bengaluru,Books,Self Help Book,258.11,1,258.11,0.29,183.26,Net Banking,Delivered,2024-02-27,2,1,2024,0,0
+ORD10914,Jacob Kramer,gary02@example.com,Surat,Electronics,Laptop,30630.13,4,122520.52,0.22,95566.01,Credit Card,Returned,2024-04-09,4,2,2024,1,0
+ORD10915,Eileen Sweeney,lamkathy@example.net,Hyderabad,Electronics,Tablet,26358.5,4,105434.0,0.21,83292.86,UPI,Delivered,2024-07-22,7,3,2024,0,0
+ORD10916,Christopher Hobbs,wallsuzanne@example.net,Delhi,Books,Data Science Handbook,236.63,2,473.26,0.1,425.93,Credit Card,Returned,2024-12-09,12,4,2024,1,0
+ORD10917,Brian Stewart,russellmcdaniel@example.net,Chennai,Books,Python Guide,774.54,2,1549.08,0.19,1254.75,UPI,Returned,2024-11-06,11,4,2024,1,0
+ORD10918,Brandon Young,christine79@example.org,Pune,Clothing,T-Shirt,1915.46,5,9577.3,0.22,7470.29,Net Banking,Delivered,2024-11-02,11,4,2024,0,0
+ORD10919,Whitney Horn,lbutler@example.com,Delhi,Books,Python Guide,330.99,1,330.99,0.18,271.41,Cash on Delivery,Returned,2024-11-11,11,4,2024,1,0
+ORD10920,Amanda Williams,nicholas97@example.net,Bengaluru,Home & Kitchen,Air Fryer,13744.2,4,54976.8,0.17,45630.74,Net Banking,Cancelled,2024-07-04,7,3,2024,0,1
+ORD10921,Andrew Martinez,caitlinharris@example.com,Chennai,Electronics,Smartwatch,23358.34,3,70075.02,0.24,53257.02,Net Banking,Returned,2024-07-18,7,3,2024,1,0
+ORD10922,Ruben Mcdowell,robert60@example.net,Delhi,Food & Beverage,Cookies,746.04,1,746.04,0.09,678.9,UPI,Delivered,2024-01-20,1,1,2024,0,0
+ORD10923,Rhonda Bradley,kevin70@example.com,Chennai,Electronics,Smartphone,72330.73,5,361653.65,0.09,329104.82,Net Banking,Cancelled,2024-05-31,5,2,2024,0,1
+ORD10924,Stephen Nelson,michaelwhite@example.org,Pune,Home & Kitchen,Toaster,5531.14,4,22124.56,0.17,18363.38,UPI,Delivered,2024-06-05,6,2,2024,0,0
+ORD10925,Carla Schultz,sjenkins@example.net,Ahmedabad,Clothing,T-Shirt,4464.06,4,17856.24,0.02,17499.12,Net Banking,Delivered,2024-06-09,6,2,2024,0,0
+ORD10926,Justin White,megan83@example.net,Pune,Books,Self Help Book,956.6,4,3826.4,0.22,2984.59,Net Banking,Delivered,2024-05-07,5,2,2024,0,0
+ORD10927,Cindy James,alejandro05@example.net,Ahmedabad,Electronics,Smartphone,35611.37,1,35611.37,0.08,32762.46,UPI,Cancelled,2024-10-10,10,4,2024,0,1
+ORD10928,Abigail Bright,natalie31@example.com,Delhi,Electronics,Tablet,14097.49,5,70487.45,0.21,55685.09,Debit Card,Delivered,2024-01-27,1,1,2024,0,0
+ORD10929,Sarah Kelley,dana06@example.com,Ahmedabad,Electronics,Smartphone,12529.65,1,12529.65,0.06,11777.87,Credit Card,Delivered,2024-07-14,7,3,2024,0,0
+ORD10930,Jason Smith,dmarks@example.com,Chennai,Food & Beverage,Green Tea,271.38,1,271.38,0.08,249.67,Net Banking,Delivered,2024-06-11,6,2,2024,0,0
+ORD10931,Tammy Meyer,garciabrian@example.com,Surat,Electronics,Headphones,70747.88,5,353739.4,0.05,336052.43,Credit Card,Returned,2024-02-05,2,1,2024,1,0
+ORD10932,Melody Walker,pattersonkiara@example.net,Hyderabad,Clothing,Jeans,4067.31,3,12201.93,0.21,9639.52,Credit Card,Delivered,2024-02-24,2,1,2024,0,0
+ORD10933,Scott Olson,danielroberts@example.org,Bengaluru,Clothing,Jeans,3993.04,4,15972.16,0.08,14694.39,Debit Card,Delivered,2024-02-05,2,1,2024,0,0
+ORD10934,Denise Arnold,nathan69@example.org,Chennai,Home & Kitchen,Air Fryer,13822.29,1,13822.29,0.0,13822.29,Debit Card,Cancelled,2024-04-03,4,2,2024,0,1
+ORD10935,Megan Jacobs,samanthawatts@example.net,Surat,Clothing,T-Shirt,2510.04,2,5020.08,0.0,5020.08,Credit Card,Returned,2024-04-15,4,2,2024,1,0
+ORD10936,Rebecca Miller,bchang@example.com,Ahmedabad,Electronics,Smartphone,14265.3,3,42795.9,0.06,40228.15,Credit Card,Delivered,2024-11-15,11,4,2024,0,0
+ORD10937,Edward Rivera,jamesreeves@example.com,Surat,Food & Beverage,Protein Bar,514.55,5,2572.75,0.27,1878.11,UPI,Delivered,2024-05-20,5,2,2024,0,0
+ORD10938,Brittany Walker,isaiah25@example.net,Ahmedabad,Food & Beverage,Energy Drink,211.13,3,633.39,0.06,595.39,Cash on Delivery,Returned,2024-08-31,8,3,2024,1,0
+ORD10939,Vanessa Thomas,ryanwilliams@example.com,Chennai,Food & Beverage,Green Tea,634.74,4,2538.96,0.05,2412.01,Credit Card,Delivered,2024-09-10,9,3,2024,0,0
+ORD10940,Eric Barnett,bridgetfleming@example.org,Jaipur,Home & Kitchen,Knife Set,2274.84,1,2274.84,0.19,1842.62,Debit Card,Delivered,2024-12-02,12,4,2024,0,0
+ORD10941,Eileen Odom,joelmoore@example.com,Pune,Electronics,Smartwatch,34287.22,1,34287.22,0.28,24686.8,Debit Card,Cancelled,2024-10-27,10,4,2024,0,1
+ORD10942,David Stone,psimon@example.net,Chennai,Food & Beverage,Coffee Beans,80.45,5,402.25,0.08,370.07,Credit Card,Delivered,2024-05-28,5,2,2024,0,0
+ORD10943,James Mason,kimberly95@example.net,Hyderabad,Home & Kitchen,Toaster,8730.36,5,43651.8,0.26,32302.33,UPI,Cancelled,2024-02-14,2,1,2024,0,1
+ORD10944,Bobby Bennett,padams@example.com,Pune,Electronics,Smartwatch,32725.67,2,65451.34,0.04,62833.29,Debit Card,Delivered,2024-04-14,4,2,2024,0,0
+ORD10945,Steve Jackson,gomezamber@example.net,Bengaluru,Electronics,Smartwatch,16065.03,5,80325.15,0.07,74702.39,Cash on Delivery,Delivered,2024-10-18,10,4,2024,0,0
+ORD10946,David Howard,rebecca92@example.org,Kolkata,Electronics,Headphones,8153.17,2,16306.34,0.18,13371.2,Cash on Delivery,Cancelled,2024-01-08,1,1,2024,0,1
+ORD10947,James Waters,uzuniga@example.org,Ahmedabad,Home & Kitchen,Toaster,9431.17,5,47155.85,0.05,44798.06,Net Banking,Delivered,2024-12-17,12,4,2024,0,0
+ORD10948,Ronald Livingston,patrickbell@example.com,Hyderabad,Food & Beverage,Protein Bar,273.02,3,819.06,0.18,671.63,Debit Card,Delivered,2024-09-04,9,3,2024,0,0
+ORD10949,Brian Chang,theresaheath@example.com,Mumbai,Food & Beverage,Cookies,113.68,2,227.36,0.16,190.98,Cash on Delivery,Cancelled,2024-06-15,6,2,2024,0,1
+ORD10950,Christina Stevens DDS,nwalter@example.com,Chennai,Clothing,Dress,2403.56,1,2403.56,0.14,2067.06,Net Banking,Delivered,2024-04-16,4,2,2024,0,0
+ORD10951,Ryan Allen,victoriagarcia@example.org,Jaipur,Clothing,T-Shirt,1457.05,2,2914.1,0.2,2331.28,Net Banking,Delivered,2024-06-19,6,2,2024,0,0
+ORD10952,Laurie Parker,alex91@example.org,Surat,Home & Kitchen,Knife Set,4486.75,1,4486.75,0.16,3768.87,Credit Card,Delivered,2024-05-27,5,2,2024,0,0
+ORD10953,Nicholas Jacobs,chrismckenzie@example.org,Bengaluru,Food & Beverage,Energy Drink,86.28,5,431.4,0.2,345.12,Debit Card,Delivered,2024-02-18,2,1,2024,0,0
+ORD10954,Paul Edwards,qferrell@example.org,Kolkata,Home & Kitchen,Knife Set,10294.59,3,30883.77,0.1,27795.39,Debit Card,Cancelled,2024-05-12,5,2,2024,0,1
+ORD10955,Timothy Contreras,qwilliams@example.org,Kolkata,Electronics,Tablet,33569.07,2,67138.14,0.18,55053.27,Debit Card,Cancelled,2024-03-11,3,1,2024,0,1
+ORD10956,Brad Gibson,carrieconner@example.net,Chennai,Home & Kitchen,Air Fryer,1481.59,5,7407.95,0.09,6741.23,Net Banking,Delivered,2024-02-14,2,1,2024,0,0
+ORD10957,Hayley Coleman,jessehenderson@example.com,Surat,Home & Kitchen,Knife Set,10786.13,4,43144.52,0.02,42281.63,Credit Card,Cancelled,2024-01-01,1,1,2024,0,1
+ORD10958,Phillip Garcia,iscott@example.com,Mumbai,Books,Cook Book,979.24,4,3916.96,0.2,3133.57,Credit Card,Delivered,2024-11-14,11,4,2024,0,0
+ORD10959,Tammy Obrien,williamjohnson@example.net,Pune,Home & Kitchen,Knife Set,14443.05,3,43329.15,0.06,40729.4,Debit Card,Cancelled,2024-02-09,2,1,2024,0,1
+ORD10960,Amy Anderson,garrett96@example.com,Surat,Books,Data Science Handbook,737.84,5,3689.2,0.22,2877.58,Debit Card,Delivered,2024-05-21,5,2,2024,0,0
+ORD10961,David Odonnell,traceyshannon@example.org,Hyderabad,Food & Beverage,Protein Bar,173.82,3,521.46,0.15,443.24,Debit Card,Returned,2024-07-28,7,3,2024,1,0
+ORD10962,Mark Ray,ahernandez@example.net,Chennai,Food & Beverage,Protein Bar,421.24,5,2106.2,0.05,2000.89,Debit Card,Cancelled,2024-11-18,11,4,2024,0,1
+ORD10963,David Dunn,mramos@example.com,Jaipur,Food & Beverage,Green Tea,266.6,4,1066.4,0.1,959.76,Credit Card,Delivered,2024-03-17,3,1,2024,0,0
+ORD10964,Matthew Newton,jessicabaker@example.org,Pune,Electronics,Smartwatch,11209.41,3,33628.23,0.13,29256.56,UPI,Delivered,2024-04-17,4,2,2024,0,0
+ORD10965,Matthew Garcia,katiewashington@example.org,Chennai,Food & Beverage,Energy Drink,624.91,2,1249.82,0.06,1174.83,UPI,Cancelled,2024-01-21,1,1,2024,0,1
+ORD10966,Carla Walter,ramirezjerome@example.com,Delhi,Electronics,Smartphone,21518.73,5,107593.65,0.04,103289.9,Debit Card,Returned,2024-06-16,6,2,2024,1,0
+ORD10967,Rebecca Gillespie,esparzadennis@example.org,Ahmedabad,Food & Beverage,Cookies,766.03,1,766.03,0.1,689.43,Net Banking,Cancelled,2024-11-25,11,4,2024,0,1
+ORD10968,Sandra Johnson,xhall@example.org,Chennai,Electronics,Headphones,25714.81,3,77144.43,0.28,55543.99,Cash on Delivery,Delivered,2024-01-22,1,1,2024,0,0
+ORD10969,Cassie Bender,michael15@example.net,Ahmedabad,Books,Data Science Handbook,418.53,4,1674.12,0.02,1640.64,UPI,Delivered,2024-06-04,6,2,2024,0,0
+ORD10970,Zachary Salazar,jessicamills@example.com,Delhi,Food & Beverage,Green Tea,79.68,2,159.36,0.09,145.02,Net Banking,Returned,2024-04-30,4,2,2024,1,0
+ORD10971,Amanda Duffy,floydcorey@example.org,Mumbai,Electronics,Laptop,39485.57,1,39485.57,0.06,37116.44,Credit Card,Delivered,2024-06-17,6,2,2024,0,0
+ORD10972,Matthew Nelson,salazarnicole@example.net,Ahmedabad,Clothing,T-Shirt,1775.57,5,8877.85,0.17,7368.62,UPI,Delivered,2024-03-08,3,1,2024,0,0
+ORD10973,Arthur Shaffer,dawnwalter@example.net,Mumbai,Books,Novel,878.78,4,3515.12,0.26,2601.19,UPI,Returned,2024-01-31,1,1,2024,1,0
+ORD10974,Cindy Gilbert,kimperry@example.com,Delhi,Books,Data Science Handbook,743.06,1,743.06,0.23,572.16,Net Banking,Delivered,2024-02-25,2,1,2024,0,0
+ORD10975,Brittany Christensen,shawtracy@example.net,Mumbai,Clothing,T-Shirt,3346.81,2,6693.62,0.05,6358.94,Net Banking,Delivered,2024-07-31,7,3,2024,0,0
+ORD10976,Melissa Zimmerman,ericdiaz@example.org,Delhi,Home & Kitchen,Knife Set,2977.8,2,5955.6,0.1,5360.04,UPI,Cancelled,2024-10-21,10,4,2024,0,1
+ORD10977,Gina Hamilton,chutchinson@example.net,Hyderabad,Food & Beverage,Green Tea,263.57,1,263.57,0.16,221.4,Debit Card,Cancelled,2024-06-15,6,2,2024,0,1
+ORD10978,David Dixon,sarahayala@example.org,Jaipur,Electronics,Tablet,14443.39,3,43330.17,0.17,35964.04,Debit Card,Cancelled,2024-01-11,1,1,2024,0,1
+ORD10979,Jacob Estrada,jonathanwalker@example.com,Surat,Electronics,Laptop,23995.08,5,119975.4,0.02,117575.89,Debit Card,Returned,2024-06-25,6,2,2024,1,0
+ORD10980,Michael Hall,megan28@example.net,Pune,Clothing,Dress,1718.46,4,6873.84,0.29,4880.43,Credit Card,Delivered,2024-07-09,7,3,2024,0,0
+ORD10981,Samantha Hess,bwilson@example.org,Jaipur,Electronics,Laptop,56984.61,3,170953.83,0.1,153858.45,Credit Card,Cancelled,2024-12-10,12,4,2024,0,1
+ORD10982,Christine Long,laura37@example.net,Delhi,Food & Beverage,Coffee Beans,323.05,2,646.1,0.02,633.18,Credit Card,Delivered,2024-07-29,7,3,2024,0,0
+ORD10983,Kelly Miller,jenna89@example.com,Ahmedabad,Electronics,Tablet,30177.59,2,60355.18,0.05,57337.42,UPI,Delivered,2024-12-09,12,4,2024,0,0
+ORD10984,Amy Schmidt,sharon43@example.org,Ahmedabad,Clothing,Dress,2223.85,4,8895.4,0.26,6582.6,UPI,Delivered,2024-07-27,7,3,2024,0,0
+ORD10985,Susan Stewart,tamara92@example.org,Pune,Home & Kitchen,Toaster,6952.51,1,6952.51,0.15,5909.63,Cash on Delivery,Delivered,2024-09-21,9,3,2024,0,0
+ORD10986,Ronald Roberts,wyatt09@example.net,Bengaluru,Clothing,Sneakers,3756.72,3,11270.16,0.15,9579.64,UPI,Delivered,2024-02-03,2,1,2024,0,0
+ORD10987,Erica Sanders,robertjohnson@example.net,Surat,Food & Beverage,Coffee Beans,778.53,4,3114.12,0.26,2304.45,UPI,Cancelled,2024-04-18,4,2,2024,0,1
+ORD10988,John Mcpherson,ygreen@example.org,Mumbai,Home & Kitchen,Blender,7201.21,2,14402.42,0.05,13682.3,Credit Card,Returned,2024-11-09,11,4,2024,1,0
+ORD10989,Andrea White,harrisalicia@example.net,Surat,Books,Python Guide,834.61,2,1669.22,0.04,1602.45,Credit Card,Delivered,2024-06-15,6,2,2024,0,0
+ORD10990,Kendra Wright,michelle48@example.net,Mumbai,Home & Kitchen,Toaster,13629.32,2,27258.64,0.28,19626.22,Credit Card,Delivered,2024-05-29,5,2,2024,0,0
+ORD10991,Richard Mueller,davilakathy@example.net,Mumbai,Clothing,Jeans,1430.15,4,5720.6,0.13,4976.92,Credit Card,Returned,2024-11-23,11,4,2024,1,0
+ORD10992,Amy Parker,jessica71@example.net,Mumbai,Electronics,Smartphone,52864.06,2,105728.12,0.14,90926.18,UPI,Delivered,2024-07-01,7,3,2024,0,0
+ORD10993,Elizabeth Jackson,marshalltheresa@example.com,Chennai,Books,Self Help Book,525.64,3,1576.92,0.1,1419.23,Net Banking,Delivered,2024-03-26,3,1,2024,0,0
+ORD10994,Michael Hernandez,oharvey@example.org,Jaipur,Books,Novel,193.06,5,965.3,0.09,878.42,Cash on Delivery,Cancelled,2024-12-08,12,4,2024,0,1
+ORD10995,Alyssa Hubbard,adkinsjohn@example.org,Kolkata,Books,Data Science Handbook,825.38,1,825.38,0.06,775.86,Credit Card,Cancelled,2024-05-03,5,2,2024,0,1
+ORD10996,Aaron Roberts,qkramer@example.org,Chennai,Clothing,Jeans,4526.2,3,13578.6,0.02,13307.03,Debit Card,Delivered,2024-10-23,10,4,2024,0,0
+ORD10997,Mr. Tony Burnett Jr.,igillespie@example.net,Bengaluru,Food & Beverage,Energy Drink,695.28,5,3476.4,0.1,3128.76,Credit Card,Delivered,2024-08-23,8,3,2024,0,0
+ORD10998,Jermaine Watts,hollandblake@example.net,Delhi,Electronics,Tablet,11801.8,4,47207.2,0.01,46735.13,Credit Card,Delivered,2024-04-16,4,2,2024,0,0
+ORD10999,Patrick Farrell,roberthernandez@example.com,Jaipur,Books,Python Guide,459.53,5,2297.65,0.02,2251.7,UPI,Returned,2024-03-03,3,1,2024,1,0
